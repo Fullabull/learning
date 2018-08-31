@@ -1,0 +1,187 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+Software Design: Functional Programming in C#
+Software Design: Functional Programming in C#
+Get started (0 of 63 items complete)
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 0
+0 / 2
+1. How to Ask Questions
+2. Source Code
+Section: 1
+0 / 6
+Introduction to Functional Programming
+3. Outline
+1:18
+4. Programming Paradigms
+5:00
+5. Defining Functional Programming
+3:29
+6. Functions are Everywhere
+2:42
+7. Why Functional Programming
+2:30
+8. Conclusion
+1:32
+Section: 2
+0 / 9
+Core Concepts
+9. Outline
+2:09
+10. Immutability
+6:59
+11. Temporal Coupling and Immutability
+5:26
+12. Purity and Side Effects
+8:37
+13. Side Effects and Architecture
+3:00
+14. CQS and Side Effects
+1:45
+15. Declarative Programming Style
+5:34
+16. Expressions with Operators
+6:54
+17. Conclusion
+2:04
+Section: 3
+0 / 8
+Functional Features in C#
+18. Outline
+1:50
+19. Extension Methods
+7:26
+20. Autoproperties and Immutability
+4:17
+21. Expression-Bodied Members
+4:52
+22. Pattern Matching
+2:49
+23. Tuples and Deconstruction
+6:40
+24. Local Functions
+6:01
+Dissecting the Local Functions
+25. Conclusion
+1:42
+Section: 4
+0 / 9
+Immutability in C#
+26. Outline
+2:12
+27. A Mutable Type
+6:44
+28. External Immutability
+2:55
+29. Internal Immutability
+4:41
+30. Shallow and Popsicle Immutability
+6:54
+31. Builder Design Pattern. Immutability and Testability
+9:13
+32. Immutability of Structures
+8:26
+33. Immutability and Memory Pressure
+7:06
+Immutable Collection on NuGet
+Great Article about Immutable Collections
+34. Conclusion
+1:42
+Section: 5
+0 / 7
+Extendibility in C#
+35. Outline
+1:36
+36. Pipelining
+1:39
+37. Extending IDisposable
+9:16
+38. Extending StringBuilder
+10:42
+39. General Extensions
+10:23
+40. Abusing Extension Methods
+7:37
+41. Conclusion
+1:46
+Section: 6
+0 / 13
+Dealing with Errors
+42. Outline
+1:11
+43. What does an "Error" Mean?
+3:31
+44. Problems with Exceptions
+6:50
+45. Practical Considerations Regarding Exceptions
+3:47
+46. Exception Handling Strategies
+5:00
+47. CQS Principle
+1:13
+48. Tester-Doer Pattern
+1:47
+49. Errors and Functional Programming
+2:58
+50. Pipelining by Method Chaining
+3:15
+51. Conclusion on Errors Handling
+0:51
+52. BCL Exception Types
+1:58
+53. Custom Exception Types
+1:14
+54. Conclusion
+1:14
+Section: 7
+0 / 9
+Dealing with Nulls
+55. Outline
+1:54
+56. Problems with Nulls
+2:34
+57. Null Object Pattern
+2:51
+58. Maybe (Option)
+3:47
+59. Automating Null Checks
+5:24
+60. Static Analysis
+2:50
+61. Returning IEnumerables
+1:46
+62. Conclusion
+1:24
+63. BONUS Lecture
+1:18
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

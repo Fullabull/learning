@@ -1,0 +1,283 @@
+Section: 1
+0 / 3
+Welcome, Welcome, Welcome!
+1. Welcome to the Most Advanced CSS Course Ever!
+3:54
+2. READ BEFORE YOU START!
+3. Setting up Our Tools
+2:52
+Section: 2
+0 / 7
+Natours Project — Setup and First Steps (Part 1)
+4. Section Intro
+0:44
+5. Project Overview
+5:42
+Download starter project from Github
+6. Building the Header - Part 1
+24:23
+7. Building the Header - Part 2
+17:06
+8. Creating Cool CSS Animations
+19:19
+9. Building a Complex Animated Button - Part 1
+15:56
+10. Building a Complex Animated Button - Part 2
+12:51
+Section: 3
+0 / 11
+How CSS Works: A Look Behind the Scenes
+11. Section Intro
+1:38
+12. Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
+4:21
+Download slides from GitHub
+13. How CSS Works Behind the Scenes: An Overview
+4:32
+14. How CSS is Parsed, Part 1: The Cascade and Specificity
+12:33
+15. Specificity in Practice
+5:55
+16. How CSS is Parsed, Part 2: Value Processing
+15:44
+17. How CSS is Parsed, Part 3: Inheritance
+4:05
+18. Converting px to rem: An Effective Workflow
+14:00
+19. How CSS Renders a Website: The Visual Formatting Model
+12:45
+20. CSS Architecture, Components and BEM
+9:17
+21. Implementing BEM in the Natours Project
+5:14
+Section: 4
+0 / 8
+Introduction to Sass and NPM
+22. Section Intro
+1:02
+23. What is Sass?
+4:58
+24. First Steps with Sass: Variables and Nesting
+25:22
+25. First Steps with Sass: Mixins, Extends and Functions
+17:05
+26. A Brief Introduction to the Command Line
+11:21
+27. NPM Packages: Let's Install Sass Locally
+13:48
+28. NPM Scripts: Let's Write and Compile Sass Locally
+13:10
+29. The Easiest Way of Automatically Reloading a Page on File Changes
+6:22
+Section: 5
+0 / 24
+Natours Project — Using Advanced CSS and Sass (Part 2)
+30. Section Intro
+0:55
+31. Converting Our CSS Code to Sass: Variables and Nesting
+11:17
+32. Implementing the 7-1 CSS Architecture with Sass
+17:33
+33. Review: Basic Principles of Responsive Design and Layout Types
+4:28
+34. Building a Custom Grid with Floats
+37:03
+35. Building the About Section - Part 1
+23:25
+36. Building the About Section - Part 2
+21:51
+37. Building the About Section - Part 3
+17:30
+38. Building the Features Section
+30:19
+39. Building the Tours Section - Part 1
+25:28
+40. Building the Tours Section - Part 2
+31:00
+41. Building the Tours Section - Part 3
+16:36
+42. Building the Stories Section - Part 1
+19:40
+43. Building the Stories Section - Part 2
+14:14
+44. Building the Stories Section - Part 3
+13:49
+45. Building the Booking Section - Part 1
+18:19
+46. Building the Booking Section - Part 2
+18:37
+47. Building the Booking Section - Part 3
+23:10
+48. Building the Footer
+15:57
+49. Building the Navigation - Part 1
+29:37
+50. Building the Navigation - Part 2
+13:13
+51. Building the Navigation - Part 3
+15:36
+52. Building a Pure CSS Popup - Part 1
+25:13
+53. Building a Pure CSS Popup - Part 2
+16:55
+Section: 6
+0 / 13
+Natours Project — Advanced Responsive Design (Part 3)
+54. Section Intro
+1:00
+55. Mobile-First vs Desktop-First and Breakpoints
+17:35
+56. Let's Use the Power of Sass Mixins to Write Media Queries
+28:08
+57. Writing Media Queries - Base, Typography and Layout
+26:39
+58. Writing Media Queries - Layout, About and Features Sections
+12:33
+59. Writing Media Queries - Tours, Stories and Booking Sections
+20:26
+60. An Overview of Responsive Images
+5:41
+61. Responsive Images in HTML - Art Direction and Density Switching
+10:14
+62. Responsive Images in HTML - Density and Resolution Switching
+17:21
+63. Responsive Images in CSS
+11:42
+64. Testing for Browser Support with @supports
+21:42
+65. Setting up a Simple Build Process with NPM Scripts
+20:55
+66. Wrapping up the Natours Project: Final Considerations
+13:58
+Section: 7
+0 / 22
+Trillo Project — Master Flexbox!
+67. Section Intro
+1:03
+68. Why Flexbox: An Overview of the Philosophy Behind Flexbox
+6:31
+69. A Basic Intro to Flexbox: The Flex Container
+15:08
+70. A Basic Intro to Flexbox: Flex Items
+10:34
+71. A Basic Intro to Flexbox: Adding More Flex Items
+6:14
+72. Project Overview
+7:14
+Download starter project from Github
+73. Defining Project Settings and Custom Properties
+13:40
+74. Building the Overall Layout
+12:00
+75. Building the Header - Part 1
+17:59
+76. Building the Header - Part 2
+14:48
+77. Building the Header - Part 3
+12:26
+78. Building the Navigation - Part 1
+11:36
+79. Building the Navigation - Part 2
+16:50
+80. Building the Hotel Overview - Part 1
+15:18
+81. Building the Hotel Overview - Part 2
+15:26
+82. Building the Description Section - Part 1
+12:53
+83. Building the Description Section - Part 2
+19:38
+84. Building the User Reviews Section
+22:52
+85. Building the CTA Section
+16:54
+86. Writing Media Queries - Part 1
+19:27
+87. Writing Media Queries - Part 2
+16:27
+88. Wrapping up the Trillo Project: Final Considerations
+14:45
+Section: 8
+0 / 16
+A Quick Introduction to CSS Grid Layouts
+89. Section Intro
+0:59
+90. Why CSS Grid: A Whole New Mindset
+5:15
+91. Quick Setup for This Section
+2:11
+92. Creating Our First Grid
+12:15
+93. Getting Familiar with the fr Unit
+10:00
+94. Positioning Grid Items
+7:26
+95. Spanning Grid Items
+9:48
+96. Grid Challenge
+2:48
+97. Grid Challenge: A Basic Solution
+11:08
+98. Naming Grid Lines
+9:40
+99. Naming Grid Areas
+11:03
+100. Implicit Grids vs. Explicit Grids
+10:39
+101. Aligning Grid Items
+9:57
+102. Aligning Tracks
+12:59
+103. Using min-content, max-content and the minmax() function
+16:19
+104. Responsive Layouts with auto-fit and auto-fill
+10:57
+Section: 9
+0 / 20
+Nexter Project — Master CSS Grid Layouts!
+105. Project Overview and Setup
+11:31
+Download starter project from Github
+106. Building the Overall Layout - Part 1
+15:33
+107. Building the Overall Layout - Part 2
+24:31
+108. Building the Features Section - Part 1
+13:01
+109. Building the Features Section - Part 2
+20:27
+110. Building the Story Section - Part 1
+18:00
+111. Building the Story Section - Part 2
+11:38
+112. Building the Homes Section - Part 1
+15:46
+113. Building the Homes Section - Part 2
+18:51
+114. Building the Gallery - Part 1
+15:24
+115. Building the Gallery - Part 2
+12:27
+116. Building the Footer
+12:33
+117. Building the Sidebar
+5:08
+118. Building the Header - Part 1
+16:15
+119. Building the Header - Part 2
+9:51
+120. Building the Realtors Section
+11:22
+121. Writing Media Queries - Part 1
+17:12
+122. Writing Media Queries - Part 2
+18:38
+123. Browser Support for CSS Grid
+8:35
+124. Wrapping up the Nexter Project: Final Considerations
+6:44
+Section: 10
+0 / 1
+That's It, Everyone!
+125. See You Next Time, CSS Master!
+2:28

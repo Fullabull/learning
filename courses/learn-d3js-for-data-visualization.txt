@@ -1,0 +1,266 @@
+Section: 1
+2 / 4
+Introduction
+1. Overview
+4:35
+2. Setting up a Local Server
+9:19
+1.2.zip
+WebStorm by Jetbrains
+XAMPP
+Visual Studio Code
+3. Understanding D3 & Data Visualization
+10:31
+VizWiz
+Tell a Meaningful Story With Data
+Are pop lyrics getting more repetitive?
+Then and Now: The Big Shift at Work
+4. Lecture Notes
+Section: 2
+5 / 16
+JavaScript & SVG Fundamentals
+5. PLEASE READ BEFORE CONTINUING!!!
+6. JavaScript Arrays & Objects
+12:01
+project-2-1.zip
+7. What is SVG?
+5:29
+8. Creating SVG images
+5:55
+9. SVG Rectangles
+10:20
+10. SVG Circles, Ellipses and Lines
+10:40
+11. SVG Polygons and Polylines
+6:58
+12. SVG Paths
+13:59
+13. SVG Text
+5:20
+14. SVG Definitions and Groups
+7:25
+15. SVG Text Paths
+4:42
+16. SVG Clip Paths
+6:57
+17. Creating SVG elements with Illustrator
+8:12
+D3 Examples
+wapuu.zip
+18. Download Source Code
+source.zip
+Quiz 1: SVG Basics
+19. Lecture Notes
+Section: 3
+2 / 9
+D3 Fundamentals
+20. Setting up
+5:36
+D3
+starter-3-1.zip
+21. Selections
+13:41
+D3 Selection
+22. Manipulating Selections
+9:35
+23. Binding Data
+14:13
+24. Displaying data
+6:53
+25. Loading Data Externally
+13:19
+Google Sheets
+Microsoft Excel
+LibreOffice Calculator
+D3 Fetch
+26. Download Source Code
+section-3-complete.zip
+Quiz 2: D3 Fundamentals
+27. Lecture Notes
+Section: 4
+0 / 12
+Getting to know Scales
+28. First Steps
+10:58
+Adobe Color
+section-4-1-starter.zip
+29. Random Data
+6:28
+D3 Random
+30. Using SVG
+18:41
+31. Scatter Plot
+8:30
+Scatter Plot Example
+section-4-4-starter.zip
+32. Scales
+13:47
+D3 Array
+33. Applying Scales to Visualizations
+14:01
+34. Exploring More Scales
+6:15
+35. Time Scales
+13:01
+Moment JS
+36. Adding an Axis
+13:28
+D3 Axis
+Shape Rendering
+section-4-9-starter.zip
+37. Refining the Axis and adding the Y Axis
+7:03
+38. Download Source Code
+section-4-scatterplot.zip
+section-4-bar-graph.zip
+39. Lecture Notes
+Section: 5
+0 / 14
+Animations & Interactivity
+40. Ordinal Scales
+9:19
+starter.zip
+41. Refining the Bar Graph
+11:33
+Band Scales
+starter-5-2.zip
+42. Updating the Bar Graph
+7:28
+Events
+43. Transitions and Animations
+13:33
+D3 Transition
+D3 Ease
+Easing Example
+44. Updating the Data
+3:08
+45. Reinforcing Transitions & Animations
+8:50
+starter-5-6.zip
+46. Refining the Scatterplot
+11:47
+47. Adding Data
+14:32
+48. Removing Data
+11:08
+section-5-9-complete.zip
+49. Mouse Hovers
+6:00
+starter-5-10.zip
+50. Sorting
+7:39
+51. Fun with Tooltips
+9:21
+styles.txt
+52. Download Source Code
+complete-bar-graph-1.zip
+complete-bar-graph-2.zip
+5-9-complete.zip
+complete-scatter-plot-1.zip
+53. Lecture Notes
+Section: 6
+0 / 8
+Exploring Layouts
+54. Line Charts
+14:49
+D3 Shape
+section-6-1-starter.zip
+55. Improving the Visualization
+11:45
+56. Pie & Donut Charts
+16:33
+Radians
+D3 Scale Chromatic
+section-6-3-starter.zip
+57. Stacked Bar Charts
+12:20
+6-4-starter.zip
+58. Force Layouts
+13:51
+6-5-starter.zip
+Nodes
+D3 Force
+59. More About Forces
+3:27
+60. Download Source Code
+6-1-complete.zip
+6-3-complete.zip
+6-4-complete.zip
+6-5-complete.zip
+61. Lecture Notes
+Section: 7
+0 / 9
+Fun with maps!
+62. GeoJSON Overview
+5:30
+GeoJSON
+GeoJSON Maps
+GeoJSON Editor
+7-1-starter.zip
+63. Drawing the Map & Projections
+6:48
+D3 Geo
+D3 Geo Projection
+64. Choropleth Maps
+10:19
+Choropleth Maps
+Color Brewer
+65. Adding Cities
+5:20
+66. Panning the Map
+9:03
+Font Awesome
+Font Awesome Stylesheet CDN
+67. Dragging the Map
+6:58
+D3 Drag
+68. Zooming
+12:44
+D3 Zoom
+69. Download Source Code
+section 7 complete.zip
+70. Lecture Notes
+Section: 8
+0 / 8
+Wrapping things up
+71. Scale Inversion & Extent
+4:00
+72. Sketching
+2:45
+73. Using Transitions Efficiently
+3:04
+74. 3rd Party Plugins & Tooltips
+5:43
+75. Responsive Charts
+4:57
+SVG Coordinates
+8-1-starter.zip
+76. Conclusion
+1:43
+Blocks
+DimpleJS
+NVD3
+Rickshaw
+C3
+Kaggle
+77. Download Source Code
+section 8 complete.zip
+78. Lecture Notes
+Section: 9
+0 / 6
+BONUS SECTION: Node and D3
+79. D3 & Node
+0:52
+80. Command Line
+6:40
+81. Exploring & Installing NodeJS
+12:31
+NodeJS
+82. Modules
+9:56
+83. Loading D3
+10:52
+D3
+D3 Node
+84. Download Source Code
+Section 9 Complete.zip

@@ -1,0 +1,678 @@
+Section: 1
+5 / 5
+Introduction
+1. About the Course
+3:39
+2. Why Learn C++?
+5:00
+Tiobe Index
+PYPL Index
+IEEE Index
+RedMonk Rankings
+ZDNET
+3. Modern C++ and the C++ Standard
+2:58
+4. How does all this work?
+8:13
+5. FAQ -- Please Read!
+Section: 2
+3 / 16
+Installation and Setup
+6. Installation and Setup Overview
+2:16
+7. Installing the C++ Compiler on Windows
+4:53
+Minimalist GNU for Windows
+Setting-Path-Pre-Windows10.pdf
+Direct link to the MinGW Installer Download
+8. Installing CodeLite on Windows
+3:06
+CodeLite IDE Homepage
+9. Configuring CodeLite on Windows
+12:02
+CodeLite-Configuration-Updates.pdf
+10. Installing the C++ Compiler on Mac OSX
+2:01
+11. Installing CodeLite on Mac OSX
+1:56
+CodeLite IDE Homepage
+12. Configuring CodeLite on Mac OSX
+10:29
+CodeLite-Configuration-Updates.pdf
+13. Installing CodeLite on Ubuntu Linux
+4:04
+CodeLite IDE Homepage
+14. Configuring CodeLite on Ubuntu Linux
+10:26
+CodeLite-Configuration-Updates.pdf
+15. Creating a Default CodeLite Project Template (All Versions)
+6:21
+16. Using the Command-Line interface
+1:32
+17. Using the Command-Line Interface on Windows
+9:43
+18. Using the Command-Line Interface on Mac OSX
+7:49
+19. Using the Command-Line Interface on Linux (Ubuntu)
+8:55
+20. Using a Web-based C++ Compiler
+3:22
+C++ Shell Homepage
+OnlineGDB Homepage
+AWS Cloud9 IDE
+21. Using the Included Source Code Course Resources
+3:44
+Section: 3
+0 / 3
+Curriculum Overview
+22. Curriculum Overview
+6:58
+23. Overview of the Section Challenge Exercises
+1:29
+24. Overview of the Section Quizzes
+1:06
+Section: 4
+0 / 12
+Getting Started
+25. Section Overview
+0:58
+26. An Overview of the CodeLite Interface
+14:52
+27. Writing our first program
+8:23
+28. Building our first program
+12:33
+29. What are Compiler Errors?
+9:07
+30. What are Compiler Warnings?
+3:51
+31. What are Linker Errors?
+4:07
+32. What are Runtime Errors?
+0:41
+33. What are Logic Errors?
+1:49
+34. Section Challenge
+1:21
+35. Section Challenge - Solution
+5:09
+Quiz 1: Section 4 Quiz
+Section: 5
+0 / 11
+Structure of a C++ Program
+36. Section Overview
+0:56
+37. Overview of the Structure of a C++ Program
+4:20
+38. #include Preprocessor Directive
+2:11
+39. Comments
+7:29
+40. The main() function
+3:05
+41. Namespaces
+3:56
+42. Basic Input and Output (I/O) using cin and cout
+20:39
+Coding Exercise 1: Using cout and the insertion operator to say Hi to Frank
+Coding Exercise 2: Using cout and the insertion operator
+Coding Exercise 3: Using cin and the extraction operator
+Quiz 2: Section 5 Quiz
+Section: 6
+0 / 12
+Variables and Constants
+43. Section Overview
+1:10
+44. What is a variable?
+3:08
+45. Declaring and Initializing Variables
+14:04
+Coding Exercise 4: Declaring and Initializing Variables
+46. Global Variables
+3:23
+47. C++ Built-in Primitive Types
+15:59
+48. What is the Size of a Variable (sizeof)
+6:52
+49. What is a Constant?
+5:03
+50. Declaring and Using Constants
+18:26
+51. Section Challenge
+1:50
+52. Section Challenge - Solution
+3:08
+Quiz 3: Section 06 Quiz
+Section: 7
+0 / 12
+Arrays and Vectors
+53. Section Overview
+1:07
+54. What is an Array?
+4:40
+55. Declaring and Initializing Arrays
+2:56
+Errata-55.pdf
+56. Accessing and Modifying Array Elements
+14:13
+Coding Exercise 5: Declaring, Initializing and Accessing an Array
+57. Multidimensional Arrays
+3:11
+58. Declaring and Initializing Vectors
+6:26
+59. Accessing and Modifying Vector Elements
+15:30
+Coding Exercise 6: Declaring, Initializing and Accessing Vectors
+60. Section Challenge
+2:07
+61. Section Challenge - Solution
+6:03
+Quiz 4: Section 07 Quiz
+Section: 8
+0 / 18
+Statements and Operators
+62. Section Overview
+2:02
+63. Expressions and Statements
+3:20
+64. Using Operators
+1:58
+65. The Assignment Operator
+12:31
+66. Arithmetic Operators
+14:55
+Coding Exercise 7: Using the Assignment Operator
+Coding Exercise 8: Using the Arithmetic Operators
+67. Increment and Decrement Operators
+13:11
+68. Mixed Expressions and Conversions
+12:56
+69. Testing for Equality
+9:04
+70. Relational Operators
+4:17
+71. Logical Operators
+15:48
+72. Compound Assignment Operators
+2:15
+73. Operator Precedence
+3:48
+Coding Exercise 9: Logical Operators and Operator Precedence - Can you work?
+74. Section Challenge
+2:30
+75. Section Challenge - Solution
+9:51
+Quiz 5: Section 08 Quiz
+Section: 9
+0 / 26
+Controlling Program Flow
+76. Section Overview
+3:06
+77. if Statement
+18:08
+Coding Exercise 10: If Statement - Can you Drive?
+78. if else Statement
+5:48
+Coding Exercise 11: If-Else Statement - Can you Drive?
+79. Nested if Statement
+22:04
+Coding Exercise 12: Nested If Statements - Can you Drive?
+80. switch-case Statement
+20:14
+Coding Exercise 13: Switch Statement - Day of the Week
+81. Conditional Operator
+10:37
+82. Looping
+3:12
+83. for Loop
+22:08
+Coding Exercise 14: For loop - Sum of Odd Integers
+84. range-based for Loop
+14:59
+Coding Exercise 15: Using the range-based for loop
+85. while Loop
+16:39
+Coding Exercise 16: While loop exercise
+86. do while Loop
+13:46
+87. continue and break
+2:33
+88. Infinite Loops
+3:17
+89. Nested Loops
+19:47
+Coding Exercise 17: Nested Loops - Sum of the Product of all Pairs of Vector Elements
+90. Section Challenge
+6:09
+91. Section Challenge - Solution Part 1
+14:47
+92. Section Challenge - Solution Part 2
+10:40
+Quiz 6: ?Section 09 Quiz
+Section: 10
+0 / 13
+Characters and Strings
+93. Section Overview
+1:54
+94. Character Functions
+2:30
+95. C-Style Strings
+7:45
+96. Working with C-style Strings
+13:45
+Coding Exercise 18: Using C-style Strings
+97. C++ Strings
+15:28
+98. Working with C++ Strings
+16:45
+Coding Exercise 19: Using C++ Strings - Exercise 1
+Coding Exercise 20: Using C++ Strings - Exercise 2
+99. Section Challenge
+6:48
+100. Section Challenge - Solution
+13:15
+Quiz 7: ?Section 10 Quiz
+Assignment 1: Challenge Assignment - Letter Pyramid
+Section: 11
+0 / 23
+Functions
+101. Section Overview
+2:31
+102. What is a Function?
+18:22
+Errata-102.pdf
+Coding Exercise 21: Using Functions from the cmath Library
+103. Function Definition
+17:00
+104. Function Prototypes
+10:55
+105. Function Parameters and the return Statement
+14:52
+Coding Exercise 22: Functions and Prototypes - Converting Temperatures
+106. Default Argument Values
+13:08
+Coding Exercise 23: Using Default Argument Values - Grocery List
+107. Overloading Functions
+10:50
+Coding Exercise 24: Overloading Functions - Calculating Area
+108. Passing Arrays to Functions
+13:33
+Coding Exercise 25: Passing Arrays to Functions - Print a Guest List
+109. Pass by Reference
+13:23
+Coding Exercise 26: Using Pass by Reference - Print a Guest List
+110. Scope Rules
+12:09
+Errata-110.pdf
+111. How do Function Calls Work?
+11:23
+112. inline Functions
+1:31
+113. Recursive Functions
+13:18
+Coding Exercise 27: Implementing a Recursive Function - Save a Penny
+114. Section Challenge
+2:25
+115. Section Challenge-Solution
+16:01
+Quiz 8: Section 11 Quiz
+Section: 12
+0 / 19
+Pointers and References
+116. Section Overview
+3:14
+117. What is a Pointer?
+2:20
+118. Declaring Pointers
+3:02
+119. Accessing the Pointer Address and Storing Address in a Pointer
+16:33
+120. Dereferencing a Pointer
+13:13
+Errata-120.pdf
+121. Dynamic Memory Allocation
+14:03
+122. The Relationship Between Arrays and Pointers
+11:37
+123. Pointer Arithmetic
+15:06
+124. Const and Pointers
+2:34
+125. Passing Pointers to Functions
+18:30
+126. Returning a Pointer from a Function
+12:11
+127. Potential Pointer Pitfalls
+4:10
+128. What is a Reference?
+8:50
+129. L-values and R-values
+4:03
+130. Using the CodeLite IDE Debugger
+10:26
+131. Section Recap
+3:31
+132. Section Challenge
+4:54
+133. Section Challenge - Solution
+9:54
+Quiz 9: ?Section 12 Quiz
+Section: 13
+0 / 31
+OOP - Classes and Objects
+134. Section Overview
+3:13
+135. What is Object-Oriented Programming?
+9:54
+136. What are Classes and Objects?
+3:23
+137. Declaring a Class and Creating Objects
+18:21
+138. Accessing Class Members
+17:41
+Errata-138.pdf
+Coding Exercise 28: Creating and Accessing Objects
+139. public and private
+7:57
+140. Implementing Member Methods
+20:26
+CommandLine.pdf
+Errata-140.pdf
+Coding Exercise 29: Adding public methods that access private class attributes
+Coding Exercise 30: Add more public methods to an existing class
+141. Constructors and Destructors
+10:28
+142. The Default Constructor
+11:40
+Coding Exercise 31: Add a Default Constructor to an Existing Class
+143. Overloading Constructors
+2:50
+Coding Exercise 32: Add an Overloaded Constructor to an Existing Class
+144. Constructor Initialization lists
+11:35
+145. Delegating Constructors
+9:01
+146. Constructor Parameters and Default Values
+8:28
+147. Copy Constructor
+17:49
+Coding Exercise 33: Add a Copy Constructor to an Existing Class
+148. Shallow Copying with the Copy Constructor
+14:30
+149. Deep Copying with the Copy Constructor
+8:53
+150. Move Constructors
+17:06
+151. The 'this' Pointer
+2:32
+152. Using const with Classes
+11:00
+153. Static Class Members
+14:23
+154. Structs vs Classes
+2:18
+155. Friends of a class
+3:32
+156. Section Challenge
+12:52
+157. Section Challenge - Solution
+11:00
+Quiz 10: ?Section 13 Quiz
+Section: 14
+0 / 14
+Operator Overloading
+158. Section Overview
+1:34
+159. What is Operator Overloading?
+17:06
+160. Overloading the Assignment Operator (copy)
+19:03
+161. Overloading the Assignment Operator (move)
+15:07
+162. Overloading Operators as Member Functions
+17:45
+Coding Exercise 34: Operator Overloading as Member Functions
+163. Overloading Operators as Global Functions
+14:33
+Coding Exercise 35: Operator Overloading as Non-member Functions
+164. Overloading the Stream Insertion and Extraction Operators
+10:46
+Coding Exercise 36: Operator Overloading the Stream Insertion Operator
+165. Section Challenge
+13:22
+166. Section Challenge - Solution 1
+13:25
+167. Section Challenge - Solution 2
+7:29
+Quiz 11: Section 14 Quiz
+Section: 15
+0 / 15
+Inheritance
+168. Section Overview
+1:53
+169. What is Inheritance?
+5:54
+170. Terminology and Notation
+5:22
+171. Inheritance vs. Composition
+4:01
+172. Deriving Classes from Existing Classes
+14:14
+173. Protected Members and Class Access
+11:59
+174. Constructors and Destructors
+17:31
+Errata-174.pdf
+175. Passing Arguments to Base Class Constructors
+9:27
+176. Copy/Move Constructors and Operator = with Derived Classes
+16:35
+177. Redefining Base Class Methods
+15:50
+178. Multiple Inheritance
+1:41
+179. The Updated Accounts Example
+19:48
+180. Section Challenge
+5:02
+181. Section Challenge - Solution
+14:31
+Quiz 12: ?Section 15 Quiz
+Section: 16
+0 / 15
+Polymorphism
+182. Section Overview
+1:22
+183. What is Polymorphism?
+17:38
+184. Using a Base Class Pointer
+12:38
+185. Virtual Functions
+5:21
+186. Virtual Destructors
+5:13
+187. Using the Override Specifier
+7:06
+188. Using the Final Specifier
+1:39
+189. Using Base Class References
+7:17
+190. Pure Virtual Functions and Abstract Classes
+16:27
+191. Abstract Classes as Interfaces
+18:05
+192. Section Challenge
+4:21
+193. Section Challenge - Solution Part 1
+11:33
+194. Section Challenge - Solution Part 2
+10:46
+195. Section Challenge - Final Solution
+6:48
+Quiz 13: Section 16 Quiz
+Section: 17
+0 / 10
+Smart Pointers
+196. Section Overview
+1:54
+197. Some Issues with Raw Pointers
+1:44
+198. What is a Smart Pointer? Ownership and RAII
+3:48
+199. Unique Pointers
+16:36
+200. Shared Pointers
+19:14
+201. Weak Pointers
+6:11
+202. Custom Deleters
+8:12
+203. Section Challenge 1
+9:30
+204. Section Challenge 1 - Solution
+6:27
+Quiz 14: Section 17 Quiz
+Section: 18
+0 / 11
+Exception Handling
+205. Section Overview
+2:30
+206. Basic Concepts and a Simple Example: Dividing by Zero
+16:27
+207. Throwing an Exception from a Function
+8:21
+208. Handling Multiple Exceptions
+5:28
+209. Stack Unwinding and How it Works
+10:26
+210. Creating User-Defined Exception Classes
+6:53
+211. Class Level Exceptions
+7:01
+212. The C++ std::exception Class Hierarchy
+4:11
+213. Section Challenge
+4:16
+214. Section Challenge - Solution
+5:34
+Quiz 15: Section 18 Quiz
+Section: 19
+0 / 24
+I/O and Streams
+215. Section Overview
+2:21
+216. Files, Streams and I/O
+5:41
+217. Stream Manipulators
+3:21
+218. Stream Manipulators - boolean
+8:28
+219. Stream Manipulators - integers
+12:08
+Errata-219.pdf
+220. Stream Manipulators - floating point
+15:21
+221. Stream Manipulators - align and fill
+14:09
+Errata-221.pdf
+222. Section Challenge 1
+11:00
+223. Section Challenge 1 - Solution
+14:11
+224. Reading from a Text File
+11:35
+225. Reading from a Text File - Live Demo - Part 1
+14:05
+Errata-225.pdf
+226. Reading from a Text File - Live Demo - Part 2
+5:40
+Coding Exercise 37: Reading a text file
+227. Section Challenge 2
+3:08
+228. Section Challenge 2 - Solution
+7:17
+229. Section Challenge 3
+3:08
+230. Section Challenge 3 - Solution
+5:24
+231. Writing to a Text File
+9:33
+232. Writing to a Text File - Live Demo
+7:31
+233. Section Challenge 4
+2:29
+234. Section Challenge 4 - Solution
+4:03
+235. Using String Streams
+14:50
+236. File locations with some Popular IDEs
+6:13
+Quiz 16: Section 19 Quiz
+Section: 20
+0 / 29
+The Standard Template Library (STL)
+237. Section Overview
+1:42
+238. What is the STL?
+9:11
+239. Generic Programming with Macros
+7:19
+240. Generic Programming with Function Templates
+20:38
+241. Generic Programming with Class Templates
+14:07
+242. Creating a Generic Array Template Class
+13:56
+243. Introduction to STL Containers
+4:41
+244. Introduction to STL Iterators
+10:47
+Errata-244.pdf
+245. Introduction to Iterators - Demo
+16:01
+246. Introduction to STL Algorithms
+10:46
+247. Introduction to Algorithms - Demo
+17:08
+248. Sequence Container - Array
+22:56
+249. Sequence Containers - Vector
+24:56
+250. Sequence Containers - Deque
+14:11
+251. Section Challenge 1
+4:46
+252. Section Challenge 1 - Solution
+3:35
+253. Sequence Containers - List and Forward List
+22:06
+254. Section Challenge 2
+11:21
+255. Section Challenge 2 - Solution
+7:29
+256. Associative Containers - Sets
+15:50
+257. Associative Containers - Maps
+16:55
+258. Section Challenge 3
+8:15
+259. Section Challenge 3 - Solution
+6:04
+260. Container Adaptors - Stack
+9:27
+261. Container Adaptors - Queue
+7:39
+262. Section Challenge 4
+4:08
+263. Section Challenge 4 - Solution
+3:57
+264. Container Adaptors - Priority Queue
+8:04
+Quiz 17: Section 20 Quiz
+Section: 21
+0 / 3
+Bonus Material and Source Code
+265. Bonus - Please Watch!
+0:48
+266. Check out Our Other 30 Udemy Courses!
+267. Source Code for all Sections

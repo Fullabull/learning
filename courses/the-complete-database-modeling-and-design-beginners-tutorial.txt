@@ -1,0 +1,118 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+The Complete Database Design & Modeling Beginners Tutorial
+The Complete Database Design & Modeling Beginners Tutorial
+Rate This Course
+15 of 25 items complete Reset progress
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 1
+2 / 2
+Introduction
+1. Course Introduction
+2:03
+2. Courses Bonuses (Database Design Cheatsheet & Database Terminology)
+Database Design Cheatsheet.pdf
+Database Terminology.pdf
+Section: 2
+4 / 4
+Database Basics
+3. What is a database?
+6:56
+4. How do a databases work and why are they important?
+10:34
+5. Different Types of Databases
+2:48
+6. What is a Relational Database?
+3:57
+Section: 3
+4 / 4
+Database Modeling and Design
+7. What is Database Design?
+5:21
+8. What are the three types of Database Design?
+2:17
+9. Database Modeling and Design tools
+1:46
+10. Setup MySQL Workbench and prepare the work environment
+8:01
+Section: 4
+5 / 6
+Database Design Phase 1 - Normalization
+11. Define Conceptual and Logical Design for an Online Store
+8:57
+schema_1.png
+12. What is Database Normalization?
+2:59
+13. First Normal Form
+9:26
+schem_2_FN1.png
+14. Second Normal Form
+3:09
+schem_3_FN2.png
+15. Third Normal Form
+4:58
+schema4_FN3.png
+16. Third Normal Form Clarifications on Zip Codes - Street relation
+Section: 5
+0 / 4
+Database Design Phase 2 - Relationships
+17. Database Relationships. Identifying vs Non-Identifying. Cardinality.
+3:49
+18. One to One Relationship
+6:49
+schema5_one-to-one.png
+19. One to Many Relationship
+9:19
+schema6_one-to-many.png
+20. Many to Many Relationship
+6:53
+schema7_many-to-many.png
+Section: 6
+0 / 2
+Finalizing the e-commerce DB
+21. Finalize Database Model
+9:31
+schema8_finalize.png
+22. Generate the Physical Database Schema
+14:06
+Section: 7
+0 / 2
+Database Design Interview Practice - Quiz Test - 35 Questions
+Practice Test 1: 35 Popular Database Design Interview Questions
+23. 35 Popular Database Design Interview Questions - Answers
+Section: 8
+0 / 1
+Course Conclusions
+24. Conclusion
+1:35
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

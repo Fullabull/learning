@@ -1,0 +1,448 @@
+Section: 1
+0 / 4
+Course Overview
+1. Course Introduction
+6:39
+2. Course Curriculum Overview
+4:00
+3. Python 2 versus Python 3
+2:21
+Nice Summary of the Differences
+Site that tells you which packages are Python 3 compatible
+4. Course FAQs
+Section: 2
+4 / 5
+Python Setup
+5. Command Line Basics
+8:15
+6. Installing Python
+8:18
+7. Running Python Code
+17:50
+8. Getting the Notebooks and the Course Material
+2:22
+9. Git and Github Overview (Optional)
+2:49
+Git Hello World Tutorial
+Resources for Learning GitHub
+GitHub Code School
+Section: 3
+36 / 36
+Python Object and Data Structure Basics
+10. Introduction to Python Data Types
+4:02
+11. Numbers
+4:11
+Coding Exercise 1: Numbers: Simple Arithmetic
+12. Numbers - FAQ
+Quiz 1: Numbers Quiz
+13. Variable Assignments
+7:54
+14. Introduction to Strings
+7:10
+Coding Exercise 2: Quick Print Check
+15. Indexing and Slicing with Strings
+8:29
+Coding Exercise 3: String Indexing
+Coding Exercise 4: String Slicing
+16. String Properties and Methods
+9:27
+17. Strings -FAQ
+Quiz 2: Strings Quiz
+18. Print Formatting with Strings
+11:50
+19. Print Formatting FAQs
+Coding Exercise 5: Print Formatting
+20. Lists in Python
+11:42
+Coding Exercise 6: Lists
+21. Lists - FAQ
+Quiz 3: Lists Quiz
+22. Dictionaries in Python
+10:39
+Coding Exercise 7: Dictionaries
+23. Dictionaries - FAQ
+Quiz 4: Dictionaries Quiz
+24. Tuples with Python
+4:49
+Quiz 5: Tuples Quiz
+25. Sets in Python
+2:49
+Coding Exercise 8: Sets
+26. Booleans in Python
+3:07
+Quiz 6: Sets and Booleans Quiz
+27. I/O with Basic Files in Python
+17:46
+Coding Exercise 9: File I/O
+28. Resources for More Basic Practice
+29. Python Objects and Data Structures Assessment Test Overview
+6:48
+30. Python Objects and Data Structures Assessment Test Solutions
+9:47
+Section: 4
+3 / 3
+Python Comparison Operators
+31. Comparison Operators in Python
+3:26
+32. Chaining Comparison Operators in Python with Logical Operators
+5:42
+Quiz 7: Comparison Operators Quiz
+Section: 5
+7 / 7
+Python Statements
+33. If Elif and Else Statements in Python
+9:06
+34. For Loops in Python
+18:17
+35. While Loops in Python
+10:35
+36. Useful Operators in Python
+16:08
+37. List Comprehensions in Python
+11:26
+38. Python Statements Test Overview
+2:27
+39. Python Statements Test Solutions
+7:19
+Section: 6
+24 / 24
+Methods and Functions
+40. Methods and the Python Documentation
+7:04
+41. Functions in Python
+17:00
+42. Overview of Quick Function Exercises #1-10
+Coding Exercise 10: Functions #1: print Hello World
+Coding Exercise 11: Functions #2: print Hello Name
+Coding Exercise 12: Functions #3 - simple Boolean
+Coding Exercise 13: Functions #4 - using Booleans
+Coding Exercise 14: Functions #5: simple math
+Coding Exercise 15: Functions #6: is even
+Coding Exercise 16: Functions #7: is greater
+43. *args and **kwargs in Python
+12:01
+Coding Exercise 17: Functions #8: *args
+Coding Exercise 18: Functions #9: pick evens
+Coding Exercise 19: Functions #10: skyline
+44. Function Practice Exercises - Overview
+4:55
+45. Function Practice Exercises - Solutions
+10:03
+46. Function Practice - Solutions Level One
+7:20
+47. Function Practice - Solutions Level Two
+11:25
+48. Function Exercise Solutions - Challenge Problem
+13:16
+49. Lambda Expressions, Map, and Filter Functions
+13:36
+50. Nested Statements and Scope
+16:02
+51. Functions and Methods - Homework Assignment
+3:32
+52. Hints and Tips for Functions and Methods Assignment
+53. Functions and Methods Homework - Solutions
+4:09
+Slight Error on Multiply Question, Check Notebook for correct solution!
+Section: 7
+2 / 5
+Milestone Project - 1
+54. First Python Milestone Project Overview
+15:38
+55. Milestone Project Help
+56. Solution Overview for MileStone Project 1 - Part One
+16:01
+57. Solution Overview for MileStone Project 1 - Part Two
+13:04
+58. Advanced Project Solution Overview
+8:09
+Section: 8
+9 / 9
+Object Oriented Programming
+59. Object Oriented Programming - Introduction
+4:52
+60. Object Oriented Programming - Attributes and Class Keyword
+14:19
+61. Object Oriented Programming - Class Object Attributes and Methods
+17:18
+62. Object Oriented Programming - Inheritance and Polymorphism
+16:45
+63. Object Oriented Programming - Special (Magic/Dunder) Methods
+7:01
+64. Object Oriented Programming - Homework
+3:07
+65. Object Oriented Programming - Homework Solutions
+6:51
+66. Object Oriented Programming - Challenge Overview
+5:14
+67. Object Oriented Programming - Challenge Solution
+5:22
+Section: 9
+3 / 3
+Modules and Packages
+68. Pip Install and PyPi
+7:46
+69. Modules and Packages
+11:39
+70. __name__ and "__main__"
+9:45
+Section: 10
+5 / 5
+Errors and Exceptions Handling
+71. Errors and Exception Handling
+17:19
+72. Errors and Exceptions Homework
+1:30
+73. Errors and Exception Homework - Solutions
+5:16
+74. Pylint Overview
+11:36
+75. Running tests with the Unittest Library
+9:33
+Section: 11
+1 / 5
+Milestone Project - 2
+76. Milestone Project 2 Overview
+8:37
+77. Solution Walkthrough - Card and Deck classes
+10:48
+78. Solution Walkthrough - Hand and Chip Classes
+14:22
+79. Solution Walkthrough - Functions for Game Play
+9:11
+80. Solutions Walkthrough - Final Gameplay Script
+12:11
+Section: 12
+2 / 2
+Python Decorators
+81. Decorators with Python Overview
+21:20
+82. Decorators Homework
+2:05
+Section: 13
+3 / 3
+Python Generators
+83. Generators with Python
+13:06
+84. Generators Homework Overview
+1:40
+85. Generators Homework Solutions
+2:31
+Section: 14
+1 / 1
+Final Capstone Python Project
+86. Final Capstone Project
+3:15
+Section: 15
+10 / 10
+Advanced Python Modules
+87. Collections Module - counter
+5:49
+88. Collections Module - defaultdict
+3:53
+89. Collections Module - OrderedDict
+4:14
+90. Collections Module - namedtuple
+5:52
+91. Datetime
+8:10
+92. Python Debugger - pdb
+5:01
+93. Timing your code - timeit
+7:31
+94. Regular Expressions -re
+19:52
+95. StringIO
+2:17
+96. Advanced Python Modules FAQ
+Section: 16
+7 / 7
+Advanced Python Objects and Data Structures
+97. Advanced Numbers
+4:33
+98. Advanced Strings
+8:30
+99. Advanced Sets
+11:25
+100. Advanced Dictionaries
+5:02
+101. Advanced Lists
+8:20
+102. Advanced Python Objects Assessment Test
+1:46
+103. Advanced Python Objects Test - Solutions
+1:10
+Section: 17
+2 / 7
+Bonus Material - Introduction to GUIs
+104. Introduction to GUIs
+105. Quick note about ipywidgets
+106. Interact Functionality with GUIs
+15:40
+107. GUI Widget Basics
+8:12
+108. List of Possible Widgets
+6:19
+109. Widget Styling and Layouts
+8:10
+110. Example of what a Widget can do!
+5:53
+Section: 18
+1 / 1
+BONUS SPECIAL OFFERS
+111. Bonus Lecture: Coupons
+Section: 19
+1 / 74
+APPENDIX: OLDER PYTHON 2 MATERIAL
+112. NOTE ABOUT THIS SECTION
+113. How to Approach This Course
+2:31
+114. Python 2 vs Python 3
+6:57
+List of Differences between Python 2 and 3
+115. Jupyter Notebook Installation
+15:10
+Jupyter Site
+116. FAQ - Notebooks
+1:46
+Notebooks
+117. Numbers
+14:59
+118. IDE Selection
+10:56
+119. Strings
+21:13
+120. Print Formatting
+13:14
+121. Lists
+19:48
+122. Dictionaries
+16:11
+123. Files
+7:02
+124. Sets and Booleans
+6:06
+125. Tuples
+6:29
+126. Objects and Data Structures Assessment Test
+5:13
+127. Objects and Data Structures Assessment - Solutions
+6:09
+128. Comparison Operators
+4:59
+129. Chained Comparison Operators
+4:02
+130. Introduction to Python Statements
+4:29
+131. if, elif, and else Statements
+10:29
+132. for Loops
+20:03
+133. while Loops
+11:59
+134. range()
+11:25
+135. List Comprehensions
+13:10
+136. Statements Assessment Test
+1:50
+137. Statements Assessment Solutions
+2:24
+138. Methods
+6:14
+139. Functions
+20:37
+140. lambda expressions
+14:17
+141. Nested Statements and Scope
+11:19
+142. Milestone Project 1 Section
+143. Milestone Project 1 -Assignment Overview
+5:11
+144. Milestone Project 1 - Solution Walkthrough - Part 1
+18:33
+145. Milestone Project 1 - Solution Walkthrough - Part 2
+10:47
+146. Milestone Project 1 - Solution Walkthrough - Part 3
+13:51
+147. OOP - Part 1 - Objects
+5:36
+148. OOP - Part 2 - Classes
+16:08
+149. OOP - Part 3 -Methods
+14:35
+150. OOP - Part 4 - Inheritance
+6:47
+151. OOP - Part 5 - Special Methods
+7:18
+152. OOP Homework Assignment
+2:25
+153. OOP Homework Solution
+2:32
+154. Errors and Exceptions
+4:03
+155. Exception Handling: try, except, finally
+18:24
+156. Errors and Exceptions Homework
+1:51
+157. Errors and Exceptions - Solutions
+1:23
+158. Modules, Packages, and Imports
+10:27
+159. Modules and Packages Assignment
+2:02
+160. Create your own Python modules.
+161. Project Overview
+5:15
+162. Project 2 Solution
+4:10
+163. Python 3 Notes for Map, Reduce, and Filter
+164. Map
+7:12
+165. Reduce
+6:53
+166. Filter
+4:14
+167. Zip
+7:35
+168. Enumerate
+5:01
+169. all() and any()
+2:56
+170. Complex
+2:26
+171. Built-in Functions Assessment Test
+3:49
+172. Built-in Functions Assessment Test Solutions
+2:14
+173. Decorators - Part 1
+7:21
+174. Decorators - Part 2
+8:03
+175. Decorators - Part 3
+9:41
+176. Iteration vs Generation
+2:42
+177. Creating Generators
+11:49
+178. Iterators and Generators Homework
+1:57
+179. Iterators and Generators Homework - Solutions
+2:04
+180. Interact
+21:20
+181. Widget Basics
+10:31
+182. Widget Events
+13:59
+183. Widget List
+7:52
+184. Widget Styling
+14:16
+185. Custom Widget Example
+8:53
+Section: 20
+0 / 1
+BONUS COUPONS FOR OTHER COURSES
+186. Bonus Coupons

@@ -1,0 +1,452 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+The Complete Node.js Developer Course (2nd Edition)
+The Complete Node.js Developer Course (2nd Edition)
+Edit Your Rating
+135 of 136 items complete Reset progress
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 1
+1 / 1
+Welcome
+1. Welcome & Asking Awesome Questions
+1:20
+Section: 2
+6 / 6
+Getting Setup
+2. Section Intro
+0:46
+3. Installing Node
+4:58
+4. What Is Node?
+7:23
+5. Why Should I Use Node?
+15:17
+6. Installing Atom
+2:32
+7. Hello World!
+4:37
+n-2-6-hello-world.zip
+Section: 3
+17 / 17
+Node.js Fundamentals (Note App)
+8. Section Intro
+1:11
+9. Using Require
+15:25
+n-3-2-module-basics.zip
+10. Requiring Your Own Files
+12:23
+n-3-3-require-own-files.zip
+11. Using 3rd Party Modules
+15:31
+n-3-4-3rd-party-modules.zip
+12. Restarting App with Nodemon
+6:11
+n-3-5-global-modules.zip
+13. Getting Input From User
+12:22
+n-3-6-getting-input.zip
+14. Simplified Input With Yargs
+19:13
+n-3-7-yargs.zip
+15. Working With JSON
+14:55
+n-3-8-json.zip
+16. Adding and Saving Notes
+13:50
+n-3-9-adding-note.zip
+17. Refactoring For Reusability
+10:00
+n-3-10-refactor.zip
+18. Removing a Note
+9:08
+n-3-11-removing-note.zip
+19. Reading Notes and Reusability
+10:57
+n-3-12-reading-note.zip
+20. Debugging Node.js Applications
+15:51
+n-03-13-v8-update.zip
+21. Debugging via Chrome Dev Tools
+10:03
+n-03-14-v8-update.zip
+22. Listing Notes
+4:37
+n-3-15-listing-notes.zip
+23. Requiring Arguments and Advanced Yargs
+15:12
+n-3-16-advanced-yargs.zip
+24. Arrow Functions
+9:50
+n-3-17-arrow-functions.zip
+Section: 4
+15 / 16
+Asynchronous Node.js (Weather App)
+25. Section Intro
+1:04
+26. Async Basics
+7:51
+n-4-2-async-basics.zip
+27. Call Stack & Event Loop
+12:20
+28. Callback Functions & APIs
+16:45
+n-4-4-callbacks.zip
+29. Pretty Printing Objects
+2:44
+n-4-5-pretty-printing.zip
+30. What's Makes up an HTTP Request?
+13:26
+n-4-6-http.zip
+31. Encoding User Input
+13:47
+n-4-7-encoding.zip
+32. Callback Errors
+9:15
+n-4-8-geocoding.zip
+33. Abstracting Callbacks
+12:38
+n4-9-abstracting-callbacks.zip
+34. Wiring Up Weather Search
+13:39
+n-4-10-weather.zip
+35. Chaining Callbacks Together
+17:15
+n-4-11-chaining.zip
+36. Intro to ES6 Promises
+12:36
+n-4-12-promises.zip
+37. Advanced Promises
+17:38
+n-4-14-promises-2.zip
+Quiz 1: Promises Quiz
+38. Weather App With Promises
+17:29
+n-4-15-weather-promises.zip
+39. Extra Features
+1:07
+Section: 5
+10 / 10
+Web Servers and Application Deployment
+40. Section Intro
+1:07
+41. Hello Express
+16:51
+n-5-2-hello-express.zip
+42. Creating a Web Server
+7:12
+n-5-3-static-server.zip
+43. Rendering Templates with Data
+13:53
+n-5-4-rendering-templates.zip
+44. Advanced Templating
+13:37
+n-5-5-advanced-templates.zip
+45. Express Middleware
+16:13
+n-5-6-middleware.zip
+46. Adding Version Control (Git)
+12:31
+n-5-7-git.zip
+47. Setting Up GitHub & SSH Keys
+13:29
+n-5-8-heroku-github.zip
+48. Deploying Your Apps
+15:07
+n-5-9-deploying.zip
+49. Adding a New Feature and Deploying
+8:30
+n-5-10-workflow-test.zip
+Section: 6
+9 / 9
+Testing Your Applications
+50. Section Intro
+1:03
+51. Mocha and Basic Testing
+16:41
+n-6-2-basic-testing.zip
+52. Watch and Auto Restart Tests
+4:03
+n-6-3-watch-tests.zip
+53. Using an Assertion Library
+21:05
+n-6-4-assertion-libraries.zip
+54. Testing Asynchronous Code
+11:25
+n-6-5-async-testing.zip
+55. Testing Express Applications: Part I
+3:16
+n-6-6-testing-express.zip
+56. Testing Express Applications: Part II
+19:12
+n-6-7-testing-express-2.zip
+57. Organizing Test With describe()
+6:44
+n-6-8-describe.zip
+58. Test Spies
+16:05
+n-6-9-spies.zip
+Section: 7
+28 / 28
+MongoDB, Mongoose, and REST APIs (Todo API)
+59. Section Intro
+1:24
+60. Installing MongoDB and Robomongo (Mac, Linux)
+9:54
+61. Installing MongoDB and Robomongo (Windows)
+10:44
+62. Building a NoSQL Vocabulary
+2:48
+63. Connecting to Mongo and Writing Data
+20:52
+n-7-5-connect-write.zip
+64. The ObjectId
+10:05
+n-7-6-objectid.zip
+65. Fetching Data
+16:33
+n-7-7-fetching-data.zip
+66. Setting Up The Repo
+3:48
+n-7-8-git.zip
+67. Deleting Documents
+15:24
+n-7-9-deleting-documents.zip
+68. Updating Data
+11:47
+n-7-10-updating-documents.zip
+69. The Mongoose ORM
+1:02
+70. Setting Up Mongoose
+16:07
+n-7-12-mongoose-setup.zip
+71. Validators, Types, and Defaults
+13:05
+n-7-13-schemas.zip
+72. Installing Postman
+5:59
+73. Resource Creation Endpoint - POST /todos
+18:08
+n-7-15-post-todos.zip
+74. Testing POST /todos
+19:50
+n-7-16-test-post-todos.zip
+75. List Resources - GET /todos
+7:09
+n-7-17-get-todos.zip
+76. Testing GET /todos
+6:14
+n-7-18-test-get-todos.zip
+77. Mongoose Queries and ID Validation
+16:26
+n-7-19-queries-and-id-validation.zip
+78. Getting an Individual Resource - GET /todos/:id
+13:28
+n-7-20-get-single-resource.zip
+79. Testing GET /todos/:id
+10:53
+n-7-21-testing-get-todo.zip
+80. Deploy API to Heroku
+9:57
+n-7-22-deploy-to-heroku.zip
+81. Postman Environments
+5:58
+82. Delete a Resource - DELETE /todos/:id
+14:54
+n-7-24-delete-todo.zip
+83. Testing DELETE /todos/:id
+10:18
+n-7-25-testing-delete-todo.zip
+84. Updating a Resource - PATCH /todos/:id
+14:19
+n-7-26-update-todo.zip
+85. Testing PATCH /todos/:id
+11:01
+n-7-27-testing-update-todo.zip
+86. Creating a Test Database
+13:39
+n-7-28-test-database.zip
+Section: 8
+18 / 18
+Security and Authentication
+87. Section Intro
+0:53
+88. Setting Up The User Model
+17:58
+n82usermodel.zip
+89. JWTs and Hashing
+19:32
+n83jwt.zip
+90. Generating Auth Tokens and Setting Headers
+17:27
+n84generatingauthtokens.zip
+91. Private Routes and Auth Middleware
+18:45
+n85privateroute.zip
+92. Hashing Passwords
+16:43
+n86hashingpasswords.zip
+93. Seeding Test Database With Users
+13:47
+n87seedingusers.zip
+94. Testing POST /users and GET /users/me
+17:35
+n88testsignup.zip
+95. Logging In - POST /users/login
+16:52
+n89login.zip
+96. Testing POST /users/login
+9:35
+n810testlogin.zip
+97. Logging Out - DELETE /users/me/token
+7:58
+n811logout.zip
+98. Testing DELETE /users/me/token
+7:19
+n812testinglogout.zip
+99. Making Todo Routes Private (Part 1)
+11:36
+n813userstodospt1.zip
+100. Making Todo Routes Private (Part 2)
+16:33
+n814userstodospt2.zip
+101. Improving App Configuration
+17:47
+n815updatedconfig.zip
+102. Deploying To Heroku
+9:37
+n816heroku.zip
+103. Bonus: Advanced Postman
+10:50
+104. Bonus: Expect Upgrade Guide
+14:13
+n-8-18-expect-upgrade.zip
+Section: 9
+24 / 24
+Real-Time Web Apps with Socket.io
+105. Section Intro
+1:09
+106. Creating a New Project
+17:27
+n92newproject.zip
+107. Adding Socket.io to an App
+19:45
+n93addingsocketio.zip
+108. Emitting and Listening to Events
+17:35
+n94emitandon.zip
+109. Emitting and Listening to Events (Solution)
+6:22
+n95emitsolution.zip
+110. Broadcasting Events
+15:05
+n96broadcasting.zip
+111. Message Generator & Tests
+13:43
+n97messagegenerator.zip
+112. Event Acknowledgements
+7:12
+n98acknowledgements.zip
+113. Message Form & jQuery
+17:48
+n99messageform.zip
+114. Geolocation Part I
+14:50
+n910geolocation1.zip
+115. Geolocation Part II
+17:38
+n911geolocation2.zip
+116. Styling The Chat Page
+17:19
+n912chatstyles.zip
+117. Timestamps and Formatting with Moment
+17:57
+n913momentjs.zip
+118. Printing Message Timestamps
+9:46
+n914messagetimestamp.zip
+119. Moustache.js
+15:55
+n915moustache.zip
+120. Autoscrolling
+13:07
+n916autoscrolling.zip
+121. Adding a Join Page
+10:17
+n917joinpage.zip
+122. Passing Room Data
+19:36
+n918joinevent.zip
+123. Socket.io Rooms
+7:33
+n919joinroom.zip
+124. Storing Users With ES6 Classes: Part I
+18:40
+n920classes1.zip
+125. Storing Users With ES6 Classes: Part II
+18:31
+n921classes2.zip
+126. Wiring Up User List
+14:22
+n922userlist.zip
+127. Sending Messages To Room Only
+10:21
+n923privatemessages.zip
+128. New Feature Ideas
+2:04
+Section: 10
+6 / 6
+Async/Await - Just Added!
+129. Async/Await Project Setup
+19:34
+n-10-01-async-await-setup.zip
+130. Async/Await Basics
+11:48
+n-10-02-basics.zip
+131. Async/Await Real-World Example
+21:15
+n-10-03-currency-convert-v2.zip
+132. Async/Await Real-World Example: Part II
+12:36
+n-10-03.5-currency-convert-part-2.zip
+133. Handling Errors and Awaiting Async Function
+12:52
+n-10-04-errors.zip
+134. Using Async/Await in the Todo API
+13:32
+n-10-05-async-await-in-todo-api.zip
+Section: 11
+1 / 1
+Free Mini-Courses
+135. Free Mini-Courses
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

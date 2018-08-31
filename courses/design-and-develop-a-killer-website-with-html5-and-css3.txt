@@ -1,0 +1,183 @@
+Section: 1
+4 / 4
+Course introduction
+1. Let's start this amazing journey
+5:47
+2. READ BEFORE YOU START!
+3. E-book Resources 2.0
+4. First things first: download your free e-book here
+Section: 2
+8 / 8
+Dive into HTML
+5. Download the Code
+blog post.zip
+6. Our main tool: Brackets text editor
+3:20
+7. What is HTML?
+2:12
+8. The structure of an HTML document
+5:23
+9. Starting to fill the structure
+7:57
+10. Images and attributes
+4:37
+11. One more thing: links
+4:54
+Quiz 1: HTML Quiz
+Section: 3
+10 / 10
+Formatting with CSS
+12. Getting started with CSS
+4:03
+13. Starting to make our webpage pretty: text
+9:53
+14. Colors
+5:31
+15. Classes and ID's
+5:39
+16. The CSS box model
+7:32
+17. Building a simple layout
+18:58
+18. Polishing our blog post
+9:39
+19. Relative vs. Absolute
+4:35
+20. Getting started with the Chrome Developer Tools
+6:23
+Quiz 2: CSS Quiz
+Section: 4
+11 / 12
+Web design basics
+21. Introduction to web design
+3:47
+22. Beautiful typography
+8:54
+23. Using colors like a pro
+6:45
+24. The meaning of colors in web design
+25. Working with images
+4:54
+26. Working with icons
+3:29
+27. Spacing and layout
+3:42
+28. Introduction to user experience
+2:50
+29. Getting inspired: the secret ingredient for stunning web design
+2:25
+30. Wrapping up what we've learned in this section
+31. The ultimate cheatsheet: all web design guidelines in one place
+Quiz 3: Web design quiz: test your knowledge!
+Section: 5
+20 / 26
+The killer website project
+32. Download the Code
+Omnifood - After Section 6.zip
+Omnifood Contents.zip
+grid.css
+33. The 7 real-world steps to a fully functional website
+6:13
+34. Download the 7 steps here
+35. Omnifood Project FAQs — READ BEFORE YOU START!
+36. Starting to put the 7 steps into action
+6:00
+OmnifoodContents.zip
+37. First development steps
+14:40
+38. Setting up the fluid grid for responsive web design
+10:04
+Grid
+39. Building the header - Part 1
+16:08
+40. Building the header - Part 2
+21:59
+41. Building the header - Part 3
+20:09
+42. Building the features section - Part 1
+15:07
+43. Building the features section - Part 2
+17:56
+44. Building the favorite meals section - Part 1
+12:22
+45. Building the favorite meals section - Part 2
+11:35
+46. Building the how-it-works section - Part 1
+9:09
+47. Building the how-it-works section - Part 2
+17:27
+48. Building the cities section - Part 1
+12:43
+49. Building the cities section - Part 2
+16:17
+50. Building the customer testimonials section - Part 1
+6:06
+51. Building the customer testimonials section - Part 2
+15:29
+52. Building the sign-up section - Part 1
+9:53
+53. Building the sign-up section - Part 2
+18:57
+54. Building the contact form form - Part 1
+16:33
+55. Building the contact form form - Part 2
+9:25
+56. Building the footer - Part 1
+6:42
+57. Building the footer - Part 2
+18:20
+Section: 6
+0 / 3
+Responsive web design with media queries
+58. Making the webpage responsive - Part 1
+19:47
+59. Making the webpage responsive - Part 2
+21:45
+60. A note about web browsers
+12:42
+Section: 7
+0 / 7
+Let's add some cool effects
+61. Download the Code
+Omnifood-After-Section-7.zip
+62. Introduction to jQuery
+9:51
+63. Building a “sticky” navigation - Part 1
+12:53
+64. Building a “sticky” navigation - Part 2
+10:53
+65. Scrolling to elements
+10:10
+66. Adding animations on scroll
+14:39
+67. Making the navigation responsive
+20:15
+Section: 8
+0 / 5
+Optimizing and launching our website
+68. Final touch: creating a favicon
+5:11
+69. Performance optimization: site speed
+12:12
+70. Basic search engine optimization (SEO)
+8:23
+71. Let’s launch our webpage!
+9:19
+72. Google Analytics
+5:47
+Section: 9
+0 / 1
+Conclusion
+73. You made it! Congratulations!
+3:33
+Section: 10
+0 / 4
+BONUS lectures
+74. Super effective ways to improve your website’s conversion
+4:35
+75. Adding a map to the Omnifood website
+19:18
+76. Using PHP to make our form work
+23:31
+mailer-new.php.zip
+77. My Special Gift for You: Never Stop Learning!

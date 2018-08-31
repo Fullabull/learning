@@ -1,0 +1,393 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+The Complete JavaScript Course 2018: Build Real Projects!
+The Complete JavaScript Course 2018: Build Real Projects!
+Get started (0 of 162 items complete)
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 1
+0 / 3
+Course Introduction
+1. Welcome to the Course!
+3:41
+2. READ BEFORE YOU START!
+3. Setting up Our Tools
+4:17
+Section: 2
+0 / 30
+JavaScript Language Basics
+4. Section Intro
+0:54
+5. Download the Code
+6. Let's start coding!
+5:50
+Download starter project from Github
+7. A Brief Introduction to JavaScript
+4:39
+8. Variables and Data Types
+13:08
+9. Variable Mutation and Type Coercion
+11:44
+10. Basic Operators
+8:30
+11. Operator Precedence
+14:25
+12. Coding Challenge 1
+2:01
+13. Coding Challenge 1: Solution
+4:40
+14. If / else Statements
+8:38
+15. Boolean Logic
+9:52
+16. The Ternary Operator and Switch Statements
+13:03
+17. Truthy and Falsy Values and Equality Operators
+8:03
+18. Coding Challenge 2
+2:10
+19. Coding Challenge 2: Solution
+8:17
+20. Functions
+11:24
+21. Function Statements and Expressions
+10:07
+22. Arrays
+12:36
+23. Coding Challenge 3
+1:43
+24. Coding Challenge 3: Solution
+7:57
+25. Objects and Properties
+8:57
+26. Objects and Methods
+7:13
+27. Coding Challenge 4
+1:16
+28. Coding Challenge 4: Solution
+8:51
+29. Loops and Iteration
+21:26
+30. Coding Challenge 5
+4:09
+31. Coding Challenge 5: Solution, Part 1
+12:03
+32. Coding Challenge 5: Solution, Part 2
+9:58
+33. JavaScript Versions: ES5, ES6 / ES2015 and ES6+
+6:07
+Section: 3
+0 / 9
+How JavaScript Works Behind the Scenes
+34. Section Intro
+1:05
+35. Download the Code
+36. How Our Code Is Executed: JavaScript Parsers and Engines
+2:51
+Download starter project from Github
+37. Execution Contexts and the Execution Stack
+6:04
+38. Execution Contexts in Detail: Creation and Execution Phases and Hoisting
+4:25
+39. Hoisting in Practice
+12:33
+40. Scoping and the Scope Chain
+13:11
+41. The 'this' Keyword
+2:22
+42. The 'this' Keyword in Practice
+11:24
+Section: 4
+0 / 15
+JavaScript in the Browser: DOM Manipulation and Events
+43. Section Intro
+0:46
+44. Download the Code
+45. The DOM and DOM Manipulation
+2:14
+Download starter project from Github
+46. 5-Minute HTML and CSS Crash Course
+5:44
+47. Project Setup and Details
+4:39
+48. First DOM Access and Manipulation
+19:56
+49. Events and Event Handling: Rolling the Dice
+17:39
+50. Updating Scores and Changing the Active Player
+14:23
+51. Implementing Our 'Hold' Function and the DRY Principle
+17:28
+52. Creating a Game Initialization Function
+11:28
+53. Finishing Touches: State Variables
+7:48
+54. Coding Challenge 6
+2:34
+55. Coding Challenge 6: Solution, Part 1
+6:31
+56. Coding Challenge 6: Solution, Part 2
+9:05
+57. Coding Challenge 6: Solution, Part 3
+7:11
+Section: 5
+0 / 15
+Advanced JavaScript: Objects and Functions
+58. Section Intro
+0:58
+59. Download the Code
+60. Everything Is an Object: Inheritance and the Prototype Chain
+10:25
+Download starter project from Github
+61. Creating Objects: Function Constructors
+14:26
+62. The Prototype Chain in the Console
+8:44
+63. Creating Objects: Object.create
+6:45
+64. Primitives vs. Objects
+8:43
+65. First Class Functions: Passing Functions as Arguments
+15:13
+66. First Class Functions: Functions Returning Functions
+8:49
+67. Immediately Invoked Function Expressions (IIFE)
+6:46
+68. Closures
+17:24
+69. Bind, Call and Apply
+17:08
+70. Coding Challenge 7
+7:11
+71. Coding Challenge 7: Solution, Part 1
+18:08
+72. Coding Challenge 7: Solution, Part 2
+16:02
+Section: 6
+0 / 28
+Putting It All Together: The Budget App Project
+73. Section Intro
+0:59
+74. Download the Code
+75. Project Setup and Details
+4:45
+Download starter project from Github
+76. Project Planning and Architecture: Step 1
+6:01
+budgety-planning-guide.pdf
+77. Implementing the Module Pattern
+17:38
+78. Setting up the First Event Listeners
+16:07
+79. Reading Input Data
+16:31
+80. Creating an Initialization Function
+5:26
+81. Creating Income and Expense Function Constructors
+9:37
+82. Adding a New Item to Our Budget Controller
+18:25
+83. Adding a New Item to the UI
+19:52
+84. Clearing Our Input Fields
+11:50
+85. Updating the Budget: Controller
+11:18
+86. Updating the Budget: Budget Controller
+21:00
+87. Updating the Budget: UI Controller
+11:55
+88. Project Planning and Architecture: Step 2
+2:41
+89. Event Delegation
+4:01
+90. Setting up the Delete Event Listener Using Event Delegation
+19:34
+91. Deleting an Item from Our Budget Controller
+17:33
+92. Deleting an Item from the UI
+8:08
+93. Project Planning and Architecture: Step 3
+2:04
+94. Updating the Percentages: Controller
+3:56
+95. Updating the Percentages: Budget Controller
+14:42
+96. Updating the Percentages: UI Controller
+12:07
+97. Formatting Our Budget Numbers: String Manipulation
+19:39
+98. Displaying the Current Month and Year
+7:08
+99. Finishing Touches: Improving the UX
+10:39
+100. We’ve Made It! Final Considerations
+1:40
+Section: 7
+0 / 18
+Next Generation JavaScript: Intro to ES6 / ES2015
+101. Section Intro
+0:52
+102. Download the Code
+103. What's new in ES6 / ES2015
+1:47
+104. Variable Declarations with let and const
+16:44
+Download starter project from Github
+105. Blocks and IIFEs
+3:54
+106. Strings in ES6 / ES2015
+10:21
+107. Arrow Functions: Basics
+8:22
+108. Arrow Functions: Lexical 'this' Keyword
+19:34
+109. Destructuring
+8:04
+110. Arrays in ES6 / ES2015
+17:52
+111. The Spread Operator
+10:12
+112. Rest Parameters
+13:48
+113. Default Parameters
+8:07
+114. Maps
+20:34
+115. Classes
+10:01
+116. Classes with Subclasses
+16:12
+117. Coding Challenge 8
+3:04
+118. Coding Challenge 8: Solution
+31:25
+Section: 8
+0 / 9
+Asynchronous JavaScript: Promises, Async/Await and AJAX
+119. Section Intro
+0:36
+120. An Example of Asynchronous JavaScript
+6:27
+Download starter project from Github
+121. Understanding Asynchronous JavaScript: The Event Loop
+8:44
+122. The Old Way: Asynchronous JavaScript with Callbacks
+9:22
+123. From Callback Hell to Promises
+22:45
+124. From Promises to Async/Await
+10:49
+125. AJAX and APIs
+3:03
+126. Making AJAX Calls with Fetch and Promises
+17:15
+127. Making AJAX Calls with Fetch and Async/Await
+10:06
+Section: 9
+0 / 31
+Modern JavaScript: Using ES6, NPM, Babel and Webpack
+128. Section Intro
+0:58
+129. Project Overview
+4:47
+Download starter project from Github
+130. An Overview of Modern JavaScript
+3:40
+131. A Brief Introduction to the Command Line
+11:31
+132. A Modern Setup: Installing Node.js and NPM
+11:11
+133. A Modern Setup: Configuring Webpack
+16:04
+134. A Modern Setup: The Webpack Dev Server
+14:58
+135. A Modern Setup: Babel
+15:22
+136. Planning our Project Architecture with MVC
+3:05
+137. How ES6 Modules Work
+10:29
+138. Making our First API Calls
+15:02
+139. Building the Search Model
+7:08
+140. Building the Search Controller
+11:40
+141. Building the Search View - Part 1
+24:15
+142. Building the Search View - Part 2
+13:13
+143. Rendering an AJAX Loading Spinner
+11:11
+144. Implementing Search Results Pagination
+33:31
+145. Building the Recipe Model - Part 1
+14:33
+146. Building the Recipe Controller
+14:15
+147. Building the Recipe Model - Part 2
+40:29
+148. Building the Recipe View - Part 1
+13:57
+149. Building the Recipe View - Part 2
+18:54
+150. Updating Recipe Servings
+15:21
+151. Building the Shopping List Model
+15:22
+152. Building the Shopping List View
+6:47
+153. Building the Shopping List Controller
+16:15
+154. Building the Likes Model
+6:43
+155. Building the Likes Controller
+8:39
+156. Building the Likes View
+21:35
+157. Implementing Persistent Data with localStorage
+13:58
+158. Wrapping up: Final Considerations
+7:14
+Section: 10
+0 / 2
+Final Course Exam: 30 Questions to Test Your JavaScript Knowledge
+159. Some Considerations Before You Start
+Quiz 1: 30 Questions to Test Your JavaScript Knowledge
+Section: 11
+0 / 2
+Conclusion
+160. Where to Go from Here
+2:12
+161. Be the First to Know About New Course Launches!
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

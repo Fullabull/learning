@@ -1,0 +1,502 @@
+Section: 1
+0 / 9
+Your First C# Programm And Overview Of Visual Studio
+1. Introduction
+1:34
+2. What Do You Want To Achieve?
+1:00
+3. What To Do If You Get Stuck
+4. Installing Visual Studio Community
+6:15
+5. Hello World - First Program
+11:35
+6. Hello World on a Mac
+2:03
+7. Changing The Consoles Colors
+7:54
+8. Join Our Discord Channel
+Quiz 1: Intro Quiz
+Section: 2
+0 / 14
+DataTypes And Variables
+9. DataTypes Intro
+0:34
+10. Intro To Datatypes And What To Consider
+9:30
+11. Datatypes Int, Float and Double
+10:40
+0202.zip
+12. Datatype String And Some Of Its Methods
+4:57
+0203.zip
+Quiz 2: Datatypes And Variables
+13. Naming Conventions and Coding Standards
+5:43
+0204.zip
+Coding Standards Summary
+14. Implicit and Explicit Conversion
+8:31
+0205.zip
+15. Parsing a String To An Integer
+5:19
+0206.zip
+16. Challenge - Datatypes And Variables
+17. Solution For The Challenge "Datatypes And Variables"
+4:26
+0207.zip
+18. Constants
+5:31
+0208 - ConstantsC.zip
+Quiz 3: Datatypes and Variables Part 2
+19. C# Cheat sheets
+20. DataTypes Summary
+0:41
+Section: 3
+0 / 12
+Functions / Methods And How To Save Time
+21. Methods Intro
+0:25
+22. Intro To Functions / Methods
+7:08
+23. Void Methods
+8:14
+0302.zip
+24. Methods With Return Value And Parameters
+8:54
+0303.zip
+Quiz 4: Methods
+25. Challenge - Methods
+26. Solution For The Challenge "Methods"
+4:04
+27. User Input
+9:00
+28. Try Catch and Finally
+14:39
+0306 TryAndCatchC.zip
+29. Operators
+17:41
+0307 - OperatorsC.zip
+Quiz 5: Operators
+30. Methods Summary
+0:30
+Section: 4
+0 / 12
+Making Decisions
+31. Making Decisions Intro
+0:30
+32. Introduction To Decision Making In C#
+8:47
+33. IF And Else If + Try Parse
+7:31
+0401.zip
+34. Nested If Statements
+9:53
+NestedIf.zip
+35. Challenge - If Statements
+36. Solution For The Challenge "If Statements"
+7:14
+0405 RegisteringAndLogginIn.zip
+37. Switch Statement
+6:34
+0406.zip
+38. Challenge - If Statements 2
+39. Solution For The Challenge "If Statements 2"
+5:47
+0407.zip
+40. Enhanced If Statements - Ternary Operator
+9:02
+Enhanced If-Statements.zip
+Quiz 6: If-Statements
+41. Making Decisions Summary
+0:36
+Section: 5
+0 / 10
+Loops
+42. Loops Intro
+0:25
+43. Basics of Loops
+5:38
+44. For Loops
+6:58
+0502.zip
+45. Do While Loops
+7:59
+0503.zip
+46. While Loops
+6:03
+0504.zip
+47. break and continue
+5:34
+0505 BreakContinue.zip
+48. Challenge - Loops 1 - Average
+49. Solution For The Challenge "Loops"
+12:17
+0506 AverageChallenge.zip
+Quiz 7: Loops
+50. Loops Summary
+0:36
+Section: 6
+0 / 11
+Object Oriented Programming (OOP)
+51. Objects Intro
+0:26
+52. Introduction To Classes And Objects
+3:15
+53. Our First Own Class
+11:09
+0602 Classes - Basics.zip
+54. Using Constructors
+11:50
+0603Class.zip
+55. Using Multiple Constructors
+11:45
+0604 Classes - Basics.zip
+56. Access Modifiers public, private, protected
+Quiz 8: Constructors and Member-Variables
+57. Properties
+23:57
+0605 PropertiesC.zip
+58. Challenge - Properties
+2:10
+59. Members And Finalizers/Destructors
+14:43
+0606 - MembersC.zip
+60. Objects Summary
+0:33
+Section: 7
+0 / 12
+Arrays
+61. Arrays Intro
+0:24
+62. Basics of Arrays
+4:08
+63. Declaring and Initializing Arrays and the Length Property
+7:07
+0702 - Arrays.zip
+64. Foreach Loops
+9:28
+0703 - Arrays.zip
+65. Multi Dimensional Arrays
+14:25
+MultiDimensionalArrays.zip
+Quiz 9: Arrays Quiz
+66. Challenge - Tic Tac Toe
+48:34
+0705 TicTacToeGame.zip
+67. Jagged Arrays
+9:08
+0706 - JaggedArray.zip
+68. Challenge - Jagged Arrays
+6:35
+0707 JaggedArrayChallenge.zip
+69. Using Arrays As Parameters
+9:01
+0708 - ArraysAsParameters.zip
+70. ArrayLists
+9:42
+0709 ArrayListC.zip
+71. Arrays Summary
+0:29
+Section: 8
+0 / 7
+Inheritance And More About OOP
+72. Welcome to Inheritance
+0:22
+73. Introduction To Inheritance
+4:41
+74. Inheritance Demo
+23:04
+0802 - InheritanceC.zip
+75. Inheritance Challenge - Videopost and Timer with Callback
+24:04
+0803 - InheritanceC Challenge.zip
+76. Inheritance Challenge 2 - Employees, Bosses and Trainees
+77. Inheritance Challenge 2 - Employees, Bosses and Trainees Solution
+16:32
+0804 InheritanceChallenge2.zip
+78. Interfaces
+11:04
+Section: 9
+0 / 7
+Polymorphism And Even More On OOP + Text Files
+79. Polymorphism Intro
+0:25
+80. Polymorphic Parameters
+16:41
+0902 - PolymorphismC.zip
+81. Sealed Key Word
+5:21
+0903 AbstractAndSealed.zip
+82. Has A - Relationships
+7:41
+83. Read from a Textfile
+5:32
+ReadFile.zip
+84. Write into a Text File
+11:55
+0906 - FileIOc.zip
+85. Polymorphism Summary
+0:28
+Section: 10
+0 / 9
+Advanced C# Topics
+86. Lambda Expressions
+16:12
+1001 - LambdaC.zip
+87. Arraylists vs Lists vs Arrays
+14:52
+1002 - ArrayListsVsLists.zip
+88. Structs
+7:47
+1003 StructsC.zip
+89. Enums
+5:35
+1004 - EnumsC.zip
+90. Math Class
+8:35
+91. Random Class
+6:20
+92. Regular Expressions
+43:36
+RegexT.zip
+93. DateTime
+21:06
+94. Nullables
+12:01
+Section: 11
+0 / 17
+WPF - Windows Presentation Foundation
+95. WPF Intro
+0:37
+96. Introduction To WPF - And When To Use It
+6:26
+WPF 01C.zip
+97. XAML Basics and Code Behind
+20:01
+WPF 02C - XAML Basics.zip
+98. StackPanel - Listbox - Visual and Logical Tree
+10:16
+WPF 03C - Stackpanel and ListBox.zip
+99. Routed Events - Direct, Bubbling and Tunneling
+8:48
+WPF 04C Events in XAML.zip
+100. Grid
+13:01
+WPF 05C - Grid.zip
+101. Dependency Properties
+15:26
+WPF 06C - Dependency Properties.zip
+102. Data Binding
+11:11
+WPF 07C - Databinding.zip
+103. INotifyPropertyChanged Interface
+15:33
+WPF 08C - INotifyPropertyChanged Interface.zip
+104. ListBox and a List of Current Matches
+21:45
+WPF 09C - ListBox.zip
+105. ComboBox
+5:10
+WPF 10C Combobox.zip
+106. CheckBox
+12:04
+WPF 11C - Checkbox.zip
+107. ToolTip
+2:48
+WPF 12C - ToolTips.zip
+108. RadioButtons and Images
+11:29
+WPF 13C - RadioButton.zip
+109. Property, Data and Event Triggers
+19:52
+WPF 14C Property Data and Event Triggers.zip
+110. PasswordBox
+5:19
+WPF 15c - PasswordBox.zip
+111. WPF Summary
+0:38
+Section: 12
+0 / 11
+Using Databases With C#
+112. Databases Intro
+0:26
+113. Setup MS SQL Server and VS For DB work
+9:53
+114. Intro And Setting Up Our DataSet And Table
+13:35
+WPF ZooManager Video 1.zip
+115. Relationship or Associative Tables
+14:07
+attachment.txt
+116. Showing Data in a ListBox
+13:36
+attachment.txt
+117. Showing Associated Data
+10:24
+WPF ZooManager Video 3.zip
+118. Displaying all Animals In The ListBox
+8:11
+WPF ZooManager Video 4 - 06.zip
+119. Deleting From A Table With A Click
+16:07
+WPF ZooManager Video 5 - 07.zip
+120. Added Note - Adding the base tables and entries back
+121. Delete Animals, Remove Animals and Add Animals Functionality
+17:00
+WPF ZooManager 6 -08.zip
+122. Updating Entries in Our Tables
+15:53
+WPF ZooManager.zip
+Section: 13
+0 / 10
+Linq
+123. Linq Demo
+5:35
+124. Linq with Lists - and our University Manager Part 1
+13:28
+attachment.txt
+125. Sorting and Filtering with Linq
+15:10
+attachment.txt
+126. Creating collections based on other collections
+6:52
+1204 - LINQToObjectsAndQueryOperators.zip
+127. Linq with XML
+17:38
+1205 - LinqWithXML.zip
+128. Setting up the project for LinqToSQL
+15:48
+129. Inserting Objects into our Database
+19:12
+attachment.txt
+130. Using assiociative tables with Linq
+16:25
+attachment.txt
+131. Joining tables next level
+9:22
+attachment.txt
+132. Deleting and Updating
+13:30
+1210 - LinqToSQL.zip
+Section: 14
+0 / 6
+Threads
+133. Threads Basics
+11:51
+134. Thread Start and End &Completion
+9:53
+135. ThreadPools and Threads in The Background
+9:06
+136. Join And IsAlive
+13:35
+137. Tasks and WPF
+24:10
+138. Threads Readings
+Section: 15
+0 / 14
+UNITY - Basics
+139. Installing Unity
+140. Overview of the Unity Interface
+7:43
+141. Creating your own Layout
+3:46
+142. Player Movement
+13:12
+143. Making Sure We Make Changes Correctly
+3:05
+144. Physis Basics
+4:35
+145. RigidBody - A Physical Body
+9:38
+146. Colliders And Their Different Types
+12:04
+147. Triggers
+10:21
+148. Prefabs And GameObjects
+5:11
+149. Components And More On Prefabs
+4:12
+150. Keeping The Hierarchy Tidy
+2:29
+151. Class Structure
+8:58
+152. Mathf And Random Class
+4:57
+Section: 16
+0 / 19
+UNITY - Building the Game Pong with Unity
+153. Pong Introduction
+2:05
+154. Basics - UI Elements
+6:47
+155. Basics - Accessing Text Through Code
+5:44
+156. Basics - Buttons
+5:48
+157. Basics - Switching Scenes
+9:35
+158. Basics - Play Sound
+8:52
+159. Project Outline - Pong
+7:26
+160. Creating The Main Menu
+15:03
+161. Switching Scenes and Using Buttons
+9:01
+162. Building Our Game Scene
+13:58
+163. 2D vs 3D Colliders and Rigidbody For Our Ball
+6:56
+164. Moving Our Ball Left And Right
+11:14
+165. Racket Movement
+9:43
+166. Bouncing Off Correctly
+9:12
+167. Scoring System
+8:22
+168. Restarting A Round
+5:27
+169. The Game Over Screen
+4:23
+170. Adding Sound To The Game
+7:26
+171. Adding a Basic AI
+5:17
+Section: 17
+0 / 17
+UNITY - Building a Zig Zag Clone With Unity
+172. Zig Zag Intro
+0:40
+173. Basics- Instatiating (Creating Via Code) An Object
+5:02
+174. Basics - Invoke And InvokeRepeating For Delayed Calls And Repeated Calls
+4:22
+175. Basics - Playerpreferences - Saving Data
+6:38
+176. Basics - Raycast
+7:48
+177. Setup For Zig Zag
+7:31
+178. Setting The Perspective
+7:23
+179. Moving The Character
+6:28
+180. Make Camera Follow Player
+3:32
+181. Animate The Character
+13:30
+182. Start The Game
+8:49
+183. Restart The Game
+4:00
+184. Collecting Crystals And Increasing The Score
+9:35
+185. Adding A Highscore
+5:08
+186. Adding The Particle Effect
+12:58
+187. Background Music Loop
+6:26
+188. Procedural Creation Of Our Map
+20:53
