@@ -1,0 +1,83 @@
+#
+# HEAD is a pointer/label to the most recent commit of the branch you are currently on. 
+# master is the default branch created when you initialized a git repository (e.g. git init ). 
+# You can delete the master branch (e.g. git branch -D master ). 
+# You cannot delete the HEAD pointer.
+#
+# A branch in Git is a lightweight movable pointer to one of these commits. 
+# The default branch name in Git is master. 
+# As you initially make commits, you're given a master branch that points to the last commit you made.
+#
+git branch
+git branch -a
+git branch Feature01
+git branch -d Feature01
+git branch -D Feature01
+#
+git checkout -b NewBranchName
+git checkout Feature01
+git checkout master
+#
+git commit -am "blah"
+#
+git config --global --get diff.tool
+git config --global diff.tool default-difftool
+git config --global -e
+# added to .gitconfig -->
+#
+# [difftool "default-difftool"]
+#	cmd = code --wait --diff $LOCAL $REMOTE
+#
+git config --list 
+git config -l
+git config --global --list
+git config --global -l
+git config --global difftool.prompt false
+git config --global difftool.prompt true
+git config --global --get difftool.prompt
+git config --global merge.tool code
+git config --global mergetool.code.cmd "code --wait $MERGED"
+git config --global mergetool.prompt false
+git config --global mergetool.keepbackup false
+#
+git checkout -b Feature02
+#
+git diff HEAD
+git diff --cached
+git diff --cached [filename]
+#
+git difftool [filename]
+git difftool HEAD
+#
+git log --oneline
+git reflog
+#
+git remote -v
+git remote rm origin
+git remote add origin https://github.com/highvelocitymoney/learning.git
+git remote prune origin --dry-run
+git remote prune origin
+#
+git push --set-upstream origin master
+#
+git pull origin
+#
+git show 193fec0 --name-only
+git show 193fec0 --name-status
+#
+git status -s
+git status -v
+#
+# after creating a new branch, and doing work on it, merge the changes into master branch.
+# first merge strategy -->
+# CORRECT WAY
+git checkout master
+git merge branchName
+# INCORRECT WAY
+git checkout branchName
+git merge master
+#
+# after completing a merge, to continue work on a feature in non-master branch -->
+git checkout branchName
+git merge master
+# now do work
