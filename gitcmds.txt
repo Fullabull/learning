@@ -1,3 +1,4 @@
+# test
 #
 # HEAD is a pointer/label to the most recent commit of the branch you are currently on. 
 # master is the default branch created when you initialized a git repository (e.g. git init ). 
@@ -25,8 +26,7 @@ git config --global diff.tool default-difftool
 git config --global -e
 # added to .gitconfig -->
 #
-# [difftool "default-difftool"]
-#	cmd = code --wait --diff $LOCAL $REMOTE
+[difftool "default-difftool"] cmd = code --wait --diff $LOCAL $REMOTE
 #
 git config --list 
 git config -l
@@ -50,6 +50,18 @@ git difftool [filename]
 git difftool HEAD
 #
 git log --oneline
+#
+git pull origin
+#
+git push --set-upstream origin master
+git push -u origin master
+# if the above command fails with:
+# error: src refspec master does not match any.
+# error: failed to push some refs to <url> 
+# then it means you forgot to do 1st commit
+# also, make sure you install the Git Credential Manager for Windows,
+# that way it'll store your credentials (uids/pws for remotes) for you
+#
 git reflog
 #
 git remote -v
@@ -57,10 +69,6 @@ git remote rm origin
 git remote add origin https://github.com/highvelocitymoney/learning.git
 git remote prune origin --dry-run
 git remote prune origin
-#
-git push --set-upstream origin master
-#
-git pull origin
 #
 git show 193fec0 --name-only
 git show 193fec0 --name-status
