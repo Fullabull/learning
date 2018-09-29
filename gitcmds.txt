@@ -14,11 +14,14 @@ git branch -a
 git branch Feature01
 git branch -d Feature01
 git branch -D Feature01
+git branch -D SquashedBranch #squash/merge at host, then attempt a local branch deletion, leads to a bogus error/warning which requires this force delete
 #
 git checkout -b NewBranchName
 git checkout Feature01
 git checkout master
 #
+git commit --amend
+git commit --amend -m "blah"
 git commit -am "blah"
 #
 git config --global --get diff.tool
@@ -43,18 +46,25 @@ git config --global mergetool.keepbackup false
 git checkout -b Feature02
 #
 git diff HEAD
+git diff HEAD@{5} HEAD{@4}
 git diff --cached
 git diff --cached [filename]
 #
 git difftool [filename]
 git difftool HEAD
+git difftool HEAD@{5} HEAD{@4}
+git difftool HEAD@{nn} HEAD@{nn}
+git difftool HEAD@{1.week.ago} HEAD@{1.month.ago}
+#
+git fetch origin
+git fetch origin --prune
 #
 git log --oneline
-#
 git pull origin
 #
 git push --set-upstream origin master
 git push -u origin master
+git push -u origin BranchName
 # if the above command fails with:
 # error: src refspec master does not match any.
 # error: failed to push some refs to <url> 
@@ -63,6 +73,17 @@ git push -u origin master
 # that way it'll store your credentials (uids/pws for remotes) for you
 #
 git reflog
+git reflog expire --expire-unreachable=now --all
+#above needs followed by "git gc --prune=now" to clean up the orphaned references
+#one reason to remove orphaned references is to clean up history so amended commits etc cannot be detected.
+git reflog HEAD@{nn}
+git reflog HEAD@{1.minute.ago}
+git reflog HEAD@{1.hour.ago}
+git reflog HEAD@{1.day.ago}
+git reflog HEAD@{1.week.ago}
+git reflog HEAD@{1.month.ago}
+git reflog master@{6.weeks.ago}
+git reflog master@{2018-09-23}
 #
 git remote -v
 git remote rm origin
