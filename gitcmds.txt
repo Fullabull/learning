@@ -15,10 +15,21 @@ git branch Feature01
 git branch -d Feature01
 git branch -D Feature01
 git branch -D SquashedBranch #squash/merge at host, then attempt a local branch deletion, leads to a bogus error/warning which requires this force delete
+git checkout -b Feature02
 #
 git checkout -b NewBranchName
 git checkout Feature01
 git checkout master
+#
+git cherry-pick <commitRef> # do this locally, into an active branch 
+# NOTE: this could have a conflict, in which case do git mergetool and fix, then do -->
+git cherry-pick --continue # and then do -->
+git commit -am "conflict resolved, completing cherry-pick"
+# make sure you delete the branch you merged into master after cherry-picking and then rebasing/merging; because it creates new commits containing the same code as the old commits and they are still part of the active tree.
+# 
+git clean -d -x -f
+# below clean is interactive
+git clean -d -x -i
 #
 git commit --amend
 git commit --amend -m "blah"
@@ -35,15 +46,16 @@ git config --list
 git config -l
 git config --global --list
 git config --global -l
+git config --global alias.ALIASNAME 'ALIAS COMMAND minus "git"'
+git config --global alias.exampleAlias 'log --oneline --graph --decorate'
 git config --global difftool.prompt false
 git config --global difftool.prompt true
 git config --global --get difftool.prompt
+git config --global fetch.prune true
 git config --global merge.tool code
 git config --global mergetool.code.cmd "code --wait $MERGED"
 git config --global mergetool.prompt false
 git config --global mergetool.keepbackup false
-#
-git checkout -b Feature02
 #
 git diff HEAD
 git diff HEAD@{5} HEAD{@4}
@@ -57,7 +69,7 @@ git difftool HEAD@{nn} HEAD@{nn}
 git difftool HEAD@{1.week.ago} HEAD@{1.month.ago}
 #
 git fetch origin
-git fetch origin --prune
+git fetch origin --prune # you can autoset this in config (see above) - it insures any remote refs that have been deleted, will also be deleted from the local machine
 #
 git log --oneline
 git pull origin
@@ -71,6 +83,22 @@ git push -u origin BranchName
 # then it means you forgot to do 1st commit
 # also, make sure you install the Git Credential Manager for Windows,
 # that way it'll store your credentials (uids/pws for remotes) for you
+############
+# git rebase
+############
+git rebase master
+# if branch is behind master, use as follows:-->
+git checkout -b MyWork1
+git commit -m "some work on MyWork1"
+git commit -m "some more work on MyWork1"
+git rebase master
+git checkout master
+git merge MyWork1
+# if conflicts when doing "git rebase master" ==>
+git mergetool (as many times as necessary - once for each file in conflict)
+git rebase --continue
+
+ 
 #
 git reflog
 git reflog expire --expire-unreachable=now --all
@@ -91,8 +119,34 @@ git remote add origin https://github.com/highvelocitymoney/learning.git
 git remote prune origin --dry-run
 git remote prune origin
 #
+# SOFT RESETS -->
+git reset head # unstages work since last commit. no changes lost, just unstaged.
+git reset <filename> # unstages the work on the one file only, since last commit. no changes lost.
+git reset <prevcommitRef> # unstages the work for the current commit. no changes lost.
+# <-- END SOFT RESETS
+# HARD RESETS -->
+git reset head --hard # unstages the work for the current commit. ALL changes lost.
+git reset --hard <commitRef>
+# <-- END HARD RESETS (also, see git clean above)
+#
 git show 193fec0 --name-only
 git show 193fec0 --name-status
+#
+#git stash - you can use this multiple times and it will stack the changes, like a commit would, only on a stash stack instead
+#
+git stash		# stashes what is added to index, not untracked stuff
+git stash -a 	# stashes both what's been added to working dir and also index state changes
+git stash list
+git stash -u 	# stashes untracked files
+git stash pop
+git stash show stash@{0}
+git stash show stash@{1}
+git stash show stash@{2}
+git stash save -u <blah>		# saves untracked and uses blah as desc for "git stash list"
+git stash apply stash@{2}		# loads this stack item to work area
+git stash branch branchName stash@{n}		# creates a new branch containing contents of stash at stack location n, and pops it off the stack
+git stash drop stash@{n}
+git stash clear
 #
 git status -s
 git status -v
@@ -110,3 +164,21 @@ git merge master
 git checkout branchName
 git merge master
 # now do work
+
+# tags
+# these work like bookmarks, and like branch
+# it is in the detached state, just like checking out a commit, so if you want to make changes you do need to create a new branch off of where you are at.
+# use annotated tags for releases
+git tag
+git checkout tagName
+# to create a lightweight tag -->
+git tag tagName		#NOTE: this is just a pointer
+git tag -a tagName "<blah>"		# this is an annotated tag, a real object stored in your local refs
+#view tags with -->
+git show tagName
+git tag -l "regexp"		# * (the asterisk) works, eg "Rel*" returns all tags beginning w Rel
+git tag -a tagName "<blah>" <commitRef>		# tags a previous commit
+git tag -d tagName		# deletes a tag
+git push --tags		#pushes them to github
+git push origin :tagName		# deletes a tag at github. NOTE you still need to delete them locally.
+git config --global push.followTags true
