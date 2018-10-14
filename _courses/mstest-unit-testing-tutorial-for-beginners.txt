@@ -1,0 +1,201 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+MSTest Unit Testing Tutorial for beginners : C# Unit Testing
+Edit Your Rating
+42 of 42 items complete
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 1
+7 / 7
+Unit Testing Basics
+1. Introduction
+2:35
+Introduction.ppt
+2. What is a Unit Test
+3:51
+1. What is a Unit Test.ppt
+3. Creating your first unit test
+7:15
+Calculator.zip
+2. Creating your first unit test.ppt
+4. Benefits of unit tests
+8:25
+3. Benefits of unit tests.ppt
+5. Continuous Integration
+1:21
+4. Continuous Integration.ppt
+6. Who should write Unit Tests
+0:58
+5. Who should write Unit Tests.ppt
+7. Naming conventions
+6:16
+Calculator.zip
+6. Naming conventions.ppt
+Section: 2
+3 / 3
+Running Unit Tests
+8. Running unit tests
+4:07
+Calculator.zip
+7. Running unit tests.ppt
+9. Unit Test Generation
+9:01
+8. Unit Test Generation.ppt
+10. Debugging unit tests
+2:43
+9. Debugging unit tests.ppt
+Section: 3
+4 / 4
+Grouping and Filtering Unit Tests
+11. Grouping Unit Tests
+5:38
+10. Grouping Unit Tests.ppt
+12. Traits
+6:39
+11. Traits.ppt
+13. Filtering Unit Tests
+13:05
+Calculator.zip
+12. Filtering Unit Tests.ppt
+14. Playlists
+5:20
+13. Playlists.ppt
+Section: 4
+7 / 7
+Code Coverage
+15. Code Coverage
+9:09
+14. Code Coverage.ppt
+16. TestClass and TestMethod attirbutes
+2:24
+15. TestClass and TestMethod attirbutes.ppt
+17. Testing Exceptions
+6:21
+16. Testing Exceptions.ppt
+18. Unit Testing Private Methods
+7:57
+17. Unit Testing Private Methods.ppt
+19. Ordered Test
+4:55
+18. Ordered Test.ppt
+20. Generic Test
+6:38
+Calculator.zip
+19. Generic Test.ppt
+21. Running unit tests from the command line
+12:01
+20. Running unit tests from the command line.ppt
+Section: 5
+5 / 5
+Data Driven Unit Tests
+22. TestContext
+7:51
+Calculator.zip
+21. TestContext.ppt
+23. Data-Driven Unit Test
+13:27
+DataDrivenApplication.zip
+22. Data-Driven Unit Test.ppt
+24. Data-Driven Unit Test - XML
+5:20
+DataDrivenApplication.zip
+23. Data-Driven Unit Test - XML.ppt
+25. Data-Driven Unit Test - CSV
+3:08
+DataDrivenApplication.zip
+24. Data-Driven Unit Test - CSV.ppt
+26. Using a Configuration File to Define a Data Source
+8:25
+DataDrivenApplication.zip
+25. Using a Configuration File to Define a Data Source.ppt
+Section: 6
+4 / 4
+Initialize and Cleanup attributes
+27. TestInitialize and TestCleanup
+7:26
+InitializationAndCleanup.zip
+26. TestInitialize and TestCleanup.ppt
+28. ClassInitialize and ClassCleanup
+4:46
+27. ClassInitialize and ClassCleanup.ppt
+29. AssemblyInitialize and AssemblyCleanup
+4:24
+AssemblyInitializeAndAssemblyCleanup.zip
+28. AssemblyInitialize and AssemblyCleanup.ppt
+30. TimeOut and Ignore attributes
+4:02
+29. TimeOut and Ignore attributes.ppt
+Section: 7
+10 / 10
+Unit Test Assertions
+31. Asserts
+1:55
+30. Asserts.ppt
+32. Assert class
+7:10
+Asserts.zip
+31. Assert class.ppt
+33. Assert Object Equality
+5:48
+AssertObjectProperties.zip
+32. Assert Object Equality.ppt
+34. CollectionAssert
+3:57
+CollectionAssertDemo.zip
+33. CollectionAssert.ppt
+35. CollectionAssert.AreEqual Override Equals
+2:41
+CollectionAssertDemo.zip
+36. CollectionAssert.AreEqual IComparer
+3:39
+37. CollectionAssert.AreEqual project to list of strings
+1:33
+38. CollectionAssert.AreEquivalent
+4:09
+39. CollectionAssert - Rest of the methods
+4:25
+40. StringAssert
+3:07
+StringAssertTests.zip
+39. StringAssert.ppt
+Section: 8
+2 / 2
+TDD - Test Driven Development
+41. What is TDD
+6:06
+TDD.zip
+40. TDD.ppt
+42. Benefits of TDD
+1:10
+41. Benefits of TDD.ppt
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

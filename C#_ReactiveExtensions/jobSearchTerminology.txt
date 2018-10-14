@@ -1,0 +1,6 @@
+"reactive programming" OR "reactive extensions"
+"streams"
+"pipeline"
+kafka needs investigated.
+
+(rxjava OR rxjs OR rx.net OR rxscala OR rxclojure OR rxswift )

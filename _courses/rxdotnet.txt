@@ -1,0 +1,147 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+Mastering Reactive Extensions with C# and .NET
+Rate This Course
+22 of 37 items complete
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 0
+1 / 1
+1. Course Introduction
+4:14
+Mastering LINQ with C# and .NET
+Section: 1
+6 / 6
+Key Interfaces
+2. Overview
+1:04
+3. Observer Design Pattern
+9:45
+ObserverPattern.cs.txt
+4. IObserver<T>
+3:56
+ObserverOfT.cs.txt
+5. IObservable<T>
+4:57
+ObservableBriefly.cs.txt
+Quiz 1: Key Interfaces
+6. Summary
+1:36
+Section: 2
+9 / 10
+Subjects
+7. Overview
+1:13
+8. Subject<T>
+8:06
+SubjectOfT.cs.txt
+9. Unsubscribing
+2:21
+Unsubscribing.cs.txt
+10. Proxy and Broadcast
+9:25
+ProxyAndBroadcast.cs.txt
+11. ReplaySubject<T>
+3:35
+ReplaySubjectOfT.cs.txt
+12. BehaviorSubject<T>
+2:42
+BehaviorSubject.cs.txt
+13. AsyncSubject<T>
+3:03
+AsyncSubjectOfT.cs.txt
+14. Implementing IObservable
+6:42
+SimpleObservable.cs.txt
+Quiz 2: Subjects
+15. Summary
+1:36
+Section: 3
+6 / 11
+Fundamental Sequence Operators
+16. Overview
+1:50
+17. Simple Factory Methods
+2:45
+18. Observable.Create
+13:14
+CreatingSequence.cs.txt
+19. Sequence Generators
+7:24
+Generators.cs.txt
+20. Converting Into Observables
+12:21
+ConversionToObservable.cs.txt
+21. Sequence Filtering
+11:17
+Filtering.cs.txt
+22. Sequence Inspection
+11:15
+Inspection.cs.txt
+23. Sequence Transformation
+11:53
+Transformation.cs.txt
+24. Sequence Aggregation
+12:01
+Aggregation.cs.txt
+Quiz 3: Fundamental Sequence Operators
+25. Summary
+5:01
+Section: 4
+0 / 9
+Advanced Sequence Operators
+26. Overview
+1:18
+27. Exception Handling
+12:25
+ExceptionHandling.cs.txt
+28. Sequence Combinators
+16:47
+CombiningSequences.cs.txt
+29. Time-Related Sequence Processing
+11:50
+TimeShiftedSequences.cs.txt
+30. Reactive Extensions Event Broker
+15:08
+RxEventBroker.cs.txt
+Dependency Injection in C# and .NET with the Autofac Library
+Quiz 4: Advanced Sequence Operators
+31. Summary
+3:19
+32. Course Summary
+1:41
+Mastering LINQ with C# and .NET
+Learn Parallel Programming with C# and .NET
+Dependency Injection in C# and .NET with the Autofac Library
+33. Bonus Lecture: Other Courses at a Discount
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

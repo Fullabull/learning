@@ -1,0 +1,162 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+The Ultimate LINQ with C# Masterclass - Basics to Advanced
+Rate This Course
+26 of 46 items complete
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 1
+2 / 2
+Introduction
+1. Introduction
+2:44
+2. BONUS: Useful Shortcuts and General Quality Code Tips PDF
+Shortcuts and Quality Tips.pdf
+Section: 2
+7 / 7
+Basic LINQ Query
+3. What is LINQ, Where does it Apply and How to Use it?
+7:15
+4. IEnumerable
+4:20
+5. LINQ Examples - Where, Select, Sorting, Multiple Conditions and More
+5:02
+6. LINQ Queries on Objects
+7:35
+7. Creating/Extracting New Objects with LINQ Queries - Select New
+7:57
+8. The let Keyword - Internal Variables and Multiple from
+9:42
+9. LINQ Examples - Source Code
+01. BasicLinqQueries.zip
+Section: 3
+1 / 1
+LINQPad Supportive Tool
+10. LINQPad Introduction - Help Yourselves While Studying LINQ!
+5:22
+Section: 4
+6 / 6
+Grouping LINQ Queries
+11. Introduction to Grouping - group, by
+6:36
+12. Group by Multiple Keys
+4:25
+13. Extend a Group Query With into
+6:23
+14. Grouping with Custom Keys
+5:36
+15. How Many Items In Each Group?
+2:03
+16. Grouping Source Code
+02. GroupingLinqQueries.zip
+Section: 5
+5 / 5
+Joining LINQ Queries
+17. Basic Join and Inner Join of Objects with LINQ Query - join
+6:26
+18. Inner Join with Composite Key
+5:18
+19. Group Join and Inner Group Join
+6:33
+20. Left Outer Join
+8:44
+21. Join Source Code
+03. JoiningLinqQueries.zip
+Section: 6
+4 / 4
+Introduction to LINQ with Method Syntax (Lambda Operators)
+22. Introduction to Method Syntax with Lambda Operators
+4:45
+23. The Difference Between Select and Where in Method Syntax
+4:27
+24. Short ForEach with Lambda and Linq Method
+3:44
+25. Source Code
+04. BasicLambda.zip
+Section: 7
+1 / 3
+Grouping with Method Syntax (Lambda Operators)
+26. Grouping Introduction and Grouping by MultiKey
+8:19
+27. Grouping by Custom Keys and Custom Final Objects
+10:17
+28. Source Code
+05. GroupingLambda.zip
+Section: 8
+0 / 4
+Joining with Method Syntax (Lambda Operators)
+29. Inner Join and Composite Join
+5:52
+30. Group Join and Group Inner Join
+4:00
+31. Left Outer Join - Anonymous and Type Final Objects
+7:10
+32. Source Code
+06. JoiningLambda.rar
+Section: 9
+0 / 5
+Filtering, Converting and Ordering - Method and Query Syntax
+33. Filtering a Collection by The Type of The Items in it
+8:39
+34. Filtering with "Where" and Things To Consider
+6:10
+35. Converting To Lists, Arrays and From One Type to Another
+8:50
+36. Ordering with Method Syntax - Common Pitfall
+5:25
+37. Filtering, Converting and Ordering - Source Code
+07. Converting and Filtering.zip
+Section: 10
+0 / 8
+Cool Stuff in LINQ
+38. Generating Sequences - Enumerable.Range
+10:47
+39. Checking Collections for Equality
+2:39
+40. Set Operations - Distinct, Intersect, Union, Except
+8:56
+41. Quantifying Operations - All, Any, Contains
+7:44
+42. Partitioning Operations - Skip, Take, SkipWhile, TakeWhile
+4:59
+43. Concatenating Collections - The Concat Method
+3:56
+44. Aggregation Operations - Aggregate, Sum, Min, Max
+7:23
+45. Cool Stuff in LINQ - Source Code
+08. CoolStuffInCSharp.zip
+Section: 11
+0 / 1
+Bonus Section
+46. Bonus Lecture: Get my other courses with discount!
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

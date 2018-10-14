@@ -1,0 +1,971 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+Edit Your Rating
+376 of 400 items complete Reset progress
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 1
+7 / 7
+Getting Started
+1. Course Introduction
+3:08
+2. Let's Create our First VueJS Application
+4:45
+3. Extending the VueJS Application
+4:12
+4. Course Structure
+3:44
+5. Take Advantage of all Course Resources!
+1:55
+6. Setup VueJS Locally
+2:02
+Section Code (Finished).zip
+7. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 2
+25 / 29
+Using VueJS to Interact with the DOM
+8. Module Introduction
+0:45
+Starting Code.zip
+9. Understanding VueJS Templates
+2:34
+Starting Code.zip
+10. How the VueJS Template Syntax and Instance Work Together
+2:42
+11. Accessing Data in the Vue Instance
+1:49
+12. Binding to Attributes
+2:42
+13. Understanding and Using Directives
+1:27
+14. Disable Re-Rendering with v-once
+1:41
+15. How to Output Raw HTML
+2:43
+Assignment 1: Time to Practice - Outputting Data to Templates
+16. Listening to Events
+1:50
+17. Getting Event Data from the Event Object
+2:36
+18. Passing your own Arguments with Events
+1:53
+19. Modifying an Event - with Event Modifiers
+3:23
+Available Modifiers in VueJS 2.pdf
+20. Listening to Keyboard Events
+2:03
+Available Key Modifiers in VueJS 2.pdf
+Assignment 2: Time to Practice - Events
+21. Writing JavaScript Code in the Templates
+3:19
+22. Using Two-Way-Binding
+1:49
+23. Reacting to Changes with Computed Properties
+9:32
+24. An Alternative to Computed Properties: Watching for Changes
+3:53
+25. Saving Time with Shorthands
+1:26
+Assignment 3: Time to Practice - Reactive Properties
+26. Dynamic Styling with CSS Classes - Basics
+4:22
+27. Dynamic Styling with CSS Classes - Using Objects
+1:35
+28. Dynamic Styling with CSS Classes - Using Names
+3:27
+29. Setting Styles Dynamically (without CSS Classes)
+3:15
+30. Styling Elements with the Array Syntax
+1:14
+Assignment 4: Time to Practice - Styling
+31. Module Wrap Up
+0:44
+32. Module Resources & Useful Links
+Section: 3
+13 / 14
+Using Conditionals and Rendering Lists
+33. Module Introduction
+0:48
+34. Conditional Rendering with v-if
+3:37
+Starting Code.zip
+35. v-else-if in Vue.js 2.1
+36. Using an Alternative v-if Syntax
+1:36
+37. Don't Detach it with v-show
+1:43
+38. Rendering Lists with v-for
+2:25
+39. Getting the Current Index
+1:51
+40. Using an Alternative v-for Syntax
+1:10
+41. Looping through Objects
+4:44
+42. Looping through a List of Numbers
+0:57
+43. Keeping Track of Elements when using v-for
+4:08
+Assignment 5: Time to Practice - Conditionals & Lists
+44. Module Wrap Up
+0:51
+45. Module Resources & Useful Links
+Section: 4
+16 / 16
+First Course Project - The Monster Slayer
+46. Introduction & Challenge
+2:54
+Setup.zip
+47. Setting up the Course Project
+2:37
+Setup.zip
+48. Creating the Vue Instance and Styling the Healthbars
+5:16
+49. Showing the Player Controls Conditionally
+2:02
+50. Implementing a "Start Game" Method
+1:53
+51. Implementing a "Attack" Method
+8:03
+52. Write better Code - Time for Refactoring!
+4:52
+53. Implementing a "Special Attack"
+2:11
+54. Implementing a "Heal" Method
+2:21
+55. Finishing the Action Buttons
+0:59
+56. Creating an Action Log
+2:41
+57. Printing the Log (v-for)
+2:19
+58. Finishing the Log
+1:57
+59. Styling the Log Conditionally
+1:44
+60. Wrap Up
+1:28
+61. Full Application Code
+Finished.zip
+Section: 5
+16 / 16
+Understanding the VueJS Instance
+62. Module Introduction
+1:04
+63. Some Basics about the VueJS Instance
+2:58
+Section Code (Start).zip
+64. Using Multiple Vue Instances
+2:52
+65. Accessing the Vue Instance from Outside
+3:29
+66. How VueJS manages your Data and Methods
+4:01
+67. A Closer Look at $el and $data
+4:55
+68. Placing $refs and Using them on your Templates
+5:47
+69. Where to learn more about the Vue API
+0:58
+70. Mounting a Template
+6:42
+71. Using Components
+4:56
+72. Limitations of some Templates
+2:35
+73. How VueJS Updates the DOM
+3:24
+74. The VueJS Instance Lifecycle
+3:12
+75. The VueJS Instance Lifecycle in Practice
+5:39
+76. Module Wrap Up
+0:54
+77. Module Resources & Useful Links
+Section: 6
+12 / 12
+Moving to a "Real" Development Workflow with Webpack and Vue CLI
+78. Module Introduction
+1:33
+79. Why do we need a Development Server?
+2:47
+80. What does "Development Workflow" mean?
+3:51
+81. Using the Vue CLI to create Projects
+2:35
+82. Installing the Vue CLI and Creating a new Project
+4:18
+83. An Overview over the Webpack Template Folder Structure
+3:40
+84. Understanding ".vue" Files
+6:45
+85. Understanding the Object in the Vue File
+1:11
+86. How to Build your App for Production
+0:49
+87. Module Wrap Up
+1:11
+88. More about ".vue" Files and the CLI
+89. Debugging VueJS Projects
+Section: 7
+13 / 14
+An Introduction to Components
+90. Module Introduction
+1:04
+Section Code (Start).zip
+91. An Introduction to Components
+4:56
+Section Code (Start).zip
+92. Storing Data in Components with the Data Method
+4:04
+93. Registering Components Locally and Globally
+2:50
+94. The "Root Component" in the App.vue File
+3:21
+95. Creating a Component
+4:24
+96. Using Components
+5:32
+Assignment 6: Time to Practice - Components
+97. Moving to a Better Folder Structure
+2:42
+Section Code (Before better Structure).zip
+98. Alternative Folder Structures
+99. How to Name your Component Tags (Selectors)
+4:31
+100. Scoping Component Styles
+5:04
+101. Module Wrap Up
+0:50
+102. Module Resources & Useful Links
+Section Code (Before better Structure).zip
+Section Code (After better Structure).zip
+Section: 8
+14 / 15
+Communicating between Components
+103. Module Introduction
+0:45
+Section Code (Start).zip
+104. Communication Problems
+2:52
+Section Code (Start).zip
+105. Using Props for Parent => Child Communication
+3:10
+106. Naming "props"
+1:09
+107. Using "props" in the Child Component
+1:28
+108. Validating "props"
+4:56
+109. Using Custom Events for Child => Parent Communication
+5:55
+110. Understanding Unidirectional Data Flow
+1:07
+111. Communicating with Callback Functions
+2:23
+112. Communication between Sibling Components
+6:24
+113. Using an Event Bus for Communication
+5:31
+114. Centralizing Code in an Event Bus
+2:14
+Assignment 7: Time to Practice - Component Communication
+115. Wrap Up
+0:40
+116. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 9
+15 / 16
+Advanced Component Usage
+117. Module Introduction
+0:38
+Section Code (Start).zip
+118. Setting up the Module Project
+3:00
+Section Code (Start).zip
+119. Passing Content - The Suboptimal Solution
+2:19
+120. Passing Content with Slots
+0:42
+121. How Slot Content gets Compiled and Styled
+3:02
+122. Changed Slot Styling Behavior
+123. Using Multiple Slots (Named Slots)
+2:49
+124. Default Slots and Slot Defaults
+2:01
+125. A Summary on Slots
+0:45
+126. Switching Multiple Components with Dynamic Components
+5:31
+127. Understanding Dynamic Component Behavior
+2:07
+128. Keeping Dynamic Components Alive
+0:58
+129. Dynamic Component Lifecycle Hooks
+1:17
+Assignment 8: Time to Practice - Slots and Dynamic Components
+130. Wrap Up
+1:10
+131. Module Resources & Helpful Links
+Section Code (Finished).zip
+Section: 10
+12 / 12
+Second Course Project - Wonderful Quotes
+132. Module Introduction
+1:35
+Start.zip
+133. Setting up the Project
+1:21
+Start.zip
+134. Initializing the Application
+1:28
+135. Creating the Application Components
+4:04
+136. Passing Data with Props and Slots
+2:13
+137. Allowing Users to Create Quotes with a NewQuote Component
+4:08
+138. Adding Quotes with Custom Events
+3:34
+139. Adding a Info Box
+1:06
+140. Allowing for Quote Deletion
+3:40
+141. Controlling Quotes with a Progress Bar
+3:51
+progress-bar.html
+142. Finishing Touches and State Management
+2:13
+143. Module Resources
+Finished.zip
+Section: 11
+13 / 14
+Handling User Input with Forms
+144. Module Introduction
+0:53
+Section Code (Start).zip
+145. A Basic <input> Form Binding
+3:46
+Section Code (Start).zip
+146. Grouping Data and Pre-Populating Inputs
+2:42
+147. Modifying User Input with Input Modifiers
+2:58
+148. Binding <textarea> and Saving Line Breaks
+2:52
+149. Using Checkboxes and Saving Data in Arrays
+4:05
+150. Using Radio Buttons
+2:30
+151. Handling Dropdowns with <select> and <option>
+5:09
+152. What v-model does and How to Create a Custom Control
+2:49
+153. Creating a Custom Control (Input)
+5:13
+Custom Control.zip
+154. Submitting a Form
+2:07
+Assignment 9: Time to Practice - Forms
+155. Wrap Up
+0:43
+156. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 12
+13 / 14
+Using and Creating Directives
+157. Module Introduction
+0:53
+Section Code (Start).zip
+158. Understanding Directives
+3:34
+Section Code (Start).zip
+159. How Directives Work - Hook Functions
+2:28
+160. Creating a Simple Directive
+1:21
+161. Passing Values to Custom Directives
+1:08
+162. Passing Arguments to Custom Directives
+2:40
+163. Modifying a Custom Directive with Modifiers
+2:24
+164. Custom Directives - A Summary
+0:28
+165. Registering Directives Locally
+1:37
+166. Using Multiple Modifiers
+4:27
+167. Passing more Complex Values to Directives
+2:13
+Assignment 10: Time to Practice - Directives
+168. Wrap Up
+0:44
+169. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 13
+11 / 12
+Improving your App with Filters and Mixins
+170. Module Introduction
+0:45
+Section Code (Start).zip
+171. Creating a Local Filter
+4:32
+Section Code (Start).zip
+172. Global Filters and How to Chain Multiple Filters
+1:44
+173. An (often-times better) Alternative to Filters: Computed Properties
+5:14
+Section Code - Filters (Finished).zip
+174. Understanding Mixins
+2:23
+175. Creating and Using Mixins
+2:25
+176. How Mixins get Merged
+2:57
+177. Creating a Global Mixin (Special Case!)
+3:26
+178. Mixins and Scope
+2:33
+Assignment 11: Time to Practice - Filters & Mixins
+179. Wrap Up
+1:56
+180. Module Resources & Useful Links
+Section Code - Filters (Finished).zip
+Section Code - Mixins (Finished).zip
+Section: 14
+28 / 28
+Adding Animations and Transitions
+181. Module Introduction
+1:08
+Section Code (Start).zip
+182. Understanding Transitions
+1:01
+Section Code (Start).zip
+183. Preparing Code to use Transitions
+3:11
+184. Setting Up a Transition
+3:08
+185. Assigning CSS Classes for Transitions
+2:27
+186. Creating a "Fade" Transition with the CSS Transition Property
+3:21
+187. Creating a "Slide" Transition with the CSS Animation Property
+3:58
+188. Mixing Transition and Animation Properties
+3:31
+189. Animating v-if and v-show
+0:33
+190. Setting Up an Initial (on-load) Animation
+1:30
+191. Using Different CSS Class Names
+4:01
+192. Using Dynamic Names and Attributes
+2:32
+193. Transitioning between Multiple Elements (Theory)
+0:34
+194. Transitioning between Multiple Elements (Practice)
+4:42
+195. Listening to Transition Event Hooks
+2:05
+196. Understanding JavaScript Animations
+8:03
+197. Excluding CSS from your Animation
+1:28
+198. Creating an Animation in JavaScript
+6:18
+199. Animating Dynamic Components
+5:57
+200. Animating Lists with <transition-group>
+0:43
+201. Using <transition-group> - Preparations
+4:20
+202. Using <transition-group> to Animate a List
+6:12
+203. Understanding the App
+1:14
+Mini-App-Start.zip
+204. Creating the App
+12:04
+Mini-App-Start.zip
+205. Adding Animations
+6:38
+Mini-App-Finished.zip
+206. Wrap Up
+1:03
+207. Module Resources & Useful Links
+Section Code (Finished).zip
+Mini-App-Finished.zip
+208. The Animated "Monster Slayer" App
+Monster Slayer with Animations.zip
+Section: 15
+14 / 15
+Connecting to Servers via Http - Using vue-resource
+209. Module Introduction
+1:42
+Section Code (Start).zip
+210. Accessing Http via vue-resource - Setup
+4:00
+Section Code (Start).zip
+211. Firebase & The Right Database
+212. Creating an Application and Setting Up a Server (Firebase)
+5:24
+213. POSTing Data to a Server (Sending a POST Request)
+6:10
+214. GETting and Transforming Data (Sending a GET Request)
+6:54
+215. Configuring vue-resource Globally
+2:48
+216. Intercepting Requests
+3:33
+217. Intercepting Responses
+2:51
+218. Where the "resource" in vue-resource Comes From
+4:42
+219. Creating Custom Resources
+2:38
+220. Resources vs "Normal" Http Requests
+0:27
+221. Understanding Template URLs
+5:05
+222. Wrap Up
+1:42
+223. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 16
+28 / 28
+Routing in a VueJS Application
+224. Module Introduction
+1:37
+Section Code (Start).zip
+225. Setting up the VueJS Router (vue-router)
+2:16
+Section Code (Start).zip
+226. Setting Up and Loading Routes
+6:43
+227. Understanding Routing Modes (Hash vs History)
+4:14
+228. Navigating with Router Links
+3:45
+229. Where am I? - Styling Active Links
+3:20
+230. Navigating from Code (Imperative Navigation)
+2:42
+231. Setting Up Route Parameters
+1:59
+232. Fetching and Using Route Parameters
+2:03
+233. Reacting to Changes in Route Parameters
+3:04
+234. vue-router 2.2: Extract Route Params via "props"
+235. Setting Up Child Routes (Nested Routes)
+4:39
+236. Navigating to Nested Routes
+3:09
+237. Making Router Links more Dynamic
+2:04
+238. A Better Way of Creating Links - With Named Routes
+3:21
+239. Using Query Parameters
+2:54
+240. Multiple Router Views (Named Router Views)
+3:27
+241. Redirecting
+2:13
+242. Setting Up "Catch All" Routes / Wildcards
+1:05
+Section Code (Basics).zip
+243. Animating Route Transitions
+2:34
+244. Passing the Hash Fragment
+3:28
+245. Controlling the Scroll Behavior
+3:21
+246. Protecting Routes with Guards
+1:13
+247. Using the "beforeEnter" Guard
+7:51
+248. Using the "beforeLeave" Guard
+3:31
+249. Loading Routes Lazily
+7:08
+250. Wrap Up
+1:02
+251. Module Resources & Useful Links
+Section Code (Finished).zip
+Section Code (Basics).zip
+Section: 17
+23 / 23
+Better State Management with Vuex
+252. Module Introduction
+1:12
+Section Code (Start).zip
+253. Why a Different State Management May Be Needed
+2:24
+Section Code (Start).zip
+254. Understanding "Centralized State"
+1:32
+255. Using the Centralized State
+6:49
+256. Why a Centralized State Alone Won't Fix It
+2:41
+257. Understanding Getters
+0:48
+258. Using Getters
+2:40
+259. Mapping Getters to Properties
+6:57
+260. Understanding Mutations
+1:14
+261. Using Mutations
+4:50
+262. Why Mutations have to run Synchronously
+1:34
+263. How Actions improve Mutations
+1:32
+264. Using Actions
+4:59
+265. Mapping Actions to Methods
+4:57
+266. A Summary of Vuex
+4:13
+267. Two-Way-Binding (v-model) and Vuex
+5:56
+268. Improving Folder Structures
+1:01
+269. Modularizing the State Management
+4:56
+270. Using Separate Files
+4:17
+271. Using Namespaces to Avoid Naming Problems
+6:44
+272. Auto-namespacing with Vuex 2.1
+273. Wrap Up
+0:50
+274. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 18
+26 / 26
+Final Project - The Stock Trader
+275. Project Introduction
+3:11
+Section Code (Start).zip
+276. Project Setup and Planning
+2:45
+Section Code (Start).zip
+277. Creating the First Components
+2:55
+278. Setup Project Routes
+4:42
+279. Adding a Header and Navigation
+6:44
+280. Planning the Next Steps
+1:21
+281. Creating Stocks Components
+6:31
+282. Adding a "Buy" Button
+5:57
+283. Setting up the Vuex State Management
+10:20
+284. Adding a Portfolio Module to Vuex
+10:02
+285. Working on the Portfolio Stocks
+6:51
+286. Connecting the Portfolio with Vuex
+2:21
+287. Time to fix some Errors
+2:00
+288. Displaying the Funds
+3:41
+289. Adding some Order Checks
+5:40
+290. Making Funds Look Nicer with Filters
+1:47
+291. Ending the Day - Randomizing Stocks
+5:30
+292. Animating the Route Transitions
+3:14
+293. Saving & Fetching Data - Adding a Dropdown
+2:17
+294. Setting up vue-resource and Firebase
+2:15
+295. Saving Data (PUT Request)
+2:51
+296. Fetching Data (GET Request)
+5:03
+297. Testing and Bug Fixes
+2:50
+298. Project Wrap Up
+1:21
+299. Bonus: Debugging Vuex with Vue Developer Tools
+1:59
+300. Module Resources & Useful Links
+Section Code (Finished).zip
+Section: 19
+3 / 3
+Deploying a VueJS Application
+301. Module Introduction
+1:12
+302. Preparing for Deployment
+1:45
+303. Deploying the App (Example: AWS S3)
+5:57
+Section: 20
+1 / 1
+Course Roundup
+304. Courses Roundup
+0:58
+Section: 21
+27 / 27
+All Course Exercises ("Time to Practice")
+305. About this Section (Please Read!)
+306. Time to Practice (1) - Outputting Data to Templates (Problem)
+1:59
+Exercise 1.zip
+307. Time to Practice (1) - Outputting Data to Templates (Solution)
+6:12
+308. Time to Practice (1) - Outputting Data to Templates (Code)
+309. Time to Practice (2) - Events (Problem)
+1:42
+Exercise 2.zip
+310. Time to Practice (2) - Events (Solution)
+4:54
+311. Time to Practice (2) - Events (Code)
+312. Time to Practice (3) - Reactive Properties (Problem)
+2:28
+Exercise 3.zip
+313. Time to Practice (3) - Reactive Properties (Solution)
+5:47
+314. Time to Practice (3) - Reactive Properties (Code)
+315. Time to Practice (4) - Styling (Problem)
+3:49
+Exercise 4.zip
+316. Time to Practice (4) - Styling (Solution)
+18:17
+317. Time to Practice (4) - Styling (Code)
+318. Time to Practice (5) - Conditionals and Lists (Problem)
+1:40
+Exercise.zip
+319. Time to Practice (5) - Conditionals and Lists (Solution)
+9:38
+320. Time to Practice (6) - Components (Problem)
+1:44
+Start.zip
+321. Time to Practice (6) - Components (Solution)
+2:12
+Finished.zip
+322. Time to Practice (7) - Component Communication (Problem)
+3:06
+Start.zip
+323. Time to Practice (7) - Component Communication (Solution)
+10:17
+Finished.zip
+324. Time to Practice (8) - Slots and Dynamic Components (Problem)
+1:27
+Start.zip
+325. Time to Practice (8) - Slots and Dynamic Components (Solution)
+3:00
+Finished.zip
+326. Time to Practice (9) - Forms (Problem)
+1:29
+Start.zip
+327. Time to Practice (9) - Forms (Solution)
+15:17
+Finished.zip
+328. Time to Practice (10) - Directives (Problem)
+0:54
+Start.zip
+329. Time to Practice (10) - Directives (Solution)
+5:54
+Finished.zip
+330. Time to Practice (11) - Filters and Mixins (Problem)
+1:08
+Start.zip
+331. Time to Practice (11) - Filters and Mixins (Solution)
+8:12
+Finished.zip
+Section: 22
+12 / 12
+Bonus: Using Axios instead of vue-resource
+332. About this Section
+0:37
+333. Module Introduction
+1:07
+axios--01-start.zip
+334. Project Setup
+2:45
+axios--01-start.zip
+335. Axios Setup
+2:11
+336. Sending a POST Request
+5:39
+337. Sending a GET Request
+2:52
+338. Accessing & Using Response Data
+5:48
+axios--02-requests.zip
+339. Setting a Global Request Configuration
+5:43
+340. Using Interceptors
+5:49
+axios--03-global-config.zip
+341. Custom Axios Instances
+4:56
+axios--04-finished.zip
+342. Wrap Up
+0:58
+343. Useful Resources & Links
+axios--01-start.zip
+axios--02-requests.zip
+axios--03-global-config.zip
+axios--04-finished.zip
+Section: 23
+18 / 18
+Bonus: Authentication in Vue Apps
+344. About this Section
+0:52
+345. Module Introduction
+1:59
+axios--04-finished.zip
+346. How Authentication Works in SPAs
+3:10
+347. Project Setup
+2:35
+axios--04-finished.zip
+348. Adding User Signup
+5:14
+349. Adding User Signin (Login)
+2:41
+350. Using Vuex to send Auth Requests
+4:26
+351. Storing Auth Data in Vuex
+3:45
+auth--01-signup-signin.zip
+352. More about the Token (JWT)
+353. Accessing other Resources from Vuex
+8:41
+354. Sending the Token to the Backend
+5:38
+auth--02-token.zip
+355. Protecting Routes (Auth Guard)
+2:48
+auth--03-route-protection.zip
+356. Updating the UI State (based on Authentication State)
+3:00
+357. Adding User Logout
+5:01
+358. Adding Auto Logout
+5:35
+359. Adding Auto Login
+10:36
+360. Wrap Up
+1:01
+auth--04-finished.zip
+361. Useful Resources & Links
+axios--04-finished.zip
+auth--01-signup-signin.zip
+auth--02-token.zip
+auth--03-route-protection.zip
+auth--04-finished.zip
+Section: 24
+16 / 16
+Bonus: Form Input Validation
+362. About this Section
+0:57
+363. Module Introduction
+1:04
+auth--04-finished.zip
+364. Add a Firebase Project!
+365. Installing Vuelidate
+2:04
+auth--04-finished.zip
+366. Adding a Validator
+10:14
+367. Adding Validation UI Feedback
+4:55
+368. Controlling Styles for Invalid Entries
+2:10
+validation--01-basic-validation.zip
+369. More Validators
+6:33
+370. Validating Passwords For Equality
+6:16
+371. Using the Required-Unless Validator
+4:52
+372. Validating Arrays
+7:19
+373. Controlling the Form Submit Button
+2:11
+validation--02-adv-validation.zip
+374. Creating Custom Validators
+2:46
+375. Async Validators
+9:16
+376. Wrap Up
+1:05
+validation--03-finished.zip
+377. Useful Resources & Links
+auth--04-finished.zip
+validation--01-basic-validation.zip
+validation--02-adv-validation.zip
+validation--03-finished.zip
+Section: 25
+0 / 12
+Bonus: Vue CLI 3
+378. Vue CLI 3 Summary
+379. Module Introduction
+3:18
+380. Creating a Project
+4:41
+381. Analyzing the Created Project
+4:49
+382. Using Plugins
+4:05
+383. CSS Pre-Processors
+3:14
+384. Environment Variables
+7:28
+385. Building the Project
+3:43
+386. Instant Prototyping
+2:39
+387. Different Build Targets
+8:39
+388. Using the "Old" CLI Templates (vue init)
+1:19
+389. Using the Graphical User Interface (GUI)
+5:05
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

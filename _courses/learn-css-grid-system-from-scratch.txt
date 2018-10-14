@@ -1,0 +1,104 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+Master CSS Grid Layout From Scratch
+Rate This Course
+3 of 20 items complete
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 1
+2 / 2
+Introduction
+1. Course Introduction
+1:37
+2. Introduction to CSS Grid System
+2:33
+Section: 2
+1 / 8
+Dancing at the shore
+3. Terminology
+1:40
+4. Working With Grids
+5:30
+4 - working with grids.html
+5. Using Percentage And Repeat
+3:38
+5 - using percentage & repeat.html
+6. Using fr Unit
+3:56
+6 - using fr unit.html
+7. Changing Position Of Grid Items
+5:08
+7 - changing position of grid items.html
+8. Spanning & Overlapping Grid Items
+7:17
+8 - spanning and overlapping grid items.html
+9. Layout Task
+1:03
+10. Task Solution
+9:23
+10 - layout.html
+Section: 3
+0 / 10
+Diving In The Ocean
+11. Using Grid Area Names
+9:32
+11 - grid-areas.html
+12. Using Grid Line Names
+9:54
+12 - grid-lines.html
+13. Implict & Explict Grids
+5:54
+13 - I-E-Grid.html
+14. Aligning Items Inside Grid Area
+7:01
+14 - align-grid-items.html
+15. Aligning Tracks Inside Grid Container
+8:31
+15 - align-grid-tracks.html
+16. Working With Content
+6:22
+16 - working-with-content.html
+17. Responsive Layout
+8:26
+17 - responsive.html
+18. What We Missed
+8:28
+18 - what we missed - grid-areas.html
+18 - what we missed - index - content & fr.html
+18 - what we missed - index.html
+19. Overview
+2:29
+20. Last Words
+1:32
+Final Files.zip
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

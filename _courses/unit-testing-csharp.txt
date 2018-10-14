@@ -1,0 +1,233 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+Unit Testing for C# Developers
+Rate This Course
+39 of 86 items complete
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 1
+14 / 14
+Getting Started
+1. What is Automated Testing
+2:40
+2. Benefits of Automated Testing
+2:37
+3. Types of Tests
+4:00
+4. Test Pyramid
+2:55
+5. The Tooling
+2:52
+6. Source Code
+0:15
+source-code-completed (1).zip
+source-code-starter (1).zip
+7. Writing Your First Unit Test
+10:27
+8. Testing All the Execution Tests
+5:22
+9. Refactoring with Confidence
+2:14
+10. Using NUnit in Visual Studio
+3:59
+11. What is Test-Driven Development
+3:19
+12. Course Structure
+1:46
+13. Summary
+0:41
+14. Asking Questions
+Section: 2
+13 / 13
+Fundamentals of Unit Testing
+15. Introduction
+0:47
+16. Characteristics of Good Unit Tests
+2:03
+17. What to Test and What Not to Test
+3:00
+18. Naming and Organizing Tests
+2:36
+19. Introducing Rider
+1:52
+20. Writing a Simple Unit Test
+3:52
+21. Black-box Testing
+4:43
+22. Set Up and Tear Down
+3:36
+23. Parameterized Tests
+3:25
+24. Ignoring Tests
+1:33
+25. Writing Trustworthy Tests
+6:11
+26. Developers Who Don't Write Tests
+3:51
+27. Summary
+1:33
+Section: 3
+11 / 11
+Core Unit Testing Techniques
+28. Introduction
+0:32
+29. Testing Strings
+5:50
+30. Testing Arrays and Collections
+6:11
+31. Testing the Return Type of Methods
+4:02
+32. Testing Void Methods
+4:42
+33. Testing Methods that Throw Exceptions
+4:10
+34. Testing Methods that Raise an Event
+4:34
+35. Testing Private Methods
+9:50
+36. Code Coverage
+2:30
+37. Testing in the Real-world
+2:32
+38. Summary
+0:46
+Section: 4
+1 / 6
+Exercises
+39. 19- Exercise- FizzBuzz
+1:19
+40. 20- Solution- FizzBuzz
+6:19
+41. Exercise- DemeritPointsCalculator
+0:54
+42. Solution- DemeritPointsCalculator
+9:43
+43. Exercise- Stack
+0:49
+44. Solution- Stack
+14:55
+Section: 5
+0 / 14
+Breaking External Dependencies
+45. Introduction
+2:16
+46. Loosely-coupled and Testable Code
+3:34
+47. Refactoring Towards a Loosely-coupled Design
+9:42
+48. Dependency Injection via Method Parameters
+5:09
+49. Dependency Injection via Properties
+2:41
+50. Dependency Injection via Constructor
+4:22
+51. Dependency Injection Frameworks
+3:26
+52. Mocking Frameworks
+1:55
+53. Creating Mock Objects Using Moq
+6:47
+54. State-based vs. Interaction Testing
+1:54
+55. Testing the Interaction Between Two Objects
+3:40
+56. Fake as Little As Possible
+3:10
+57. An Example of a Mock Abuse
+4:54
+58. Who Should Write Tests
+2:01
+Section: 6
+0 / 9
+Exercises
+59. Exercise- VideoService
+1:11
+60. Refactoring
+5:47
+61. Testing
+7:55
+62. Exercise- InstallerHelper
+1:26
+63. Refactoring InstallerHelper
+4:47
+64. Testing InstallerHelper
+8:05
+65. Exercise- EmployeeHelper
+2:37
+66. Refactoring EmployeeController
+5:24
+67. Testing EmployeeController
+4:00
+Section: 7
+0 / 8
+Project- Testing BookingHelper
+68. Introduction
+2:12
+69. Test Cases
+3:40
+70. Extracting IBooking Repository
+7:44
+71. Writing the First Test
+4:29
+72. Refactoring
+7:50
+73. Writing the Second Test
+1:28
+74. Fixing a Bug
+3:44
+75. Writing Additional Tests
+4:44
+Section: 8
+0 / 11
+Project- HouseKeeperHelper
+76. Introduction
+2:07
+77. Refactoring For Testability
+9:32
+78. Fixing a Design Issue
+2:59
+79. An Alternative Solution
+80. Writing the First Interaction Test
+7:40
+81. Keeping Tests Clean
+5:42
+82. Testing a Method is Not Called
+5:37
+83. Another Interaction Test
+7:31
+84. Extracting Helper Methods
+8:02
+85. Testing Exceptions
+3:34
+86. Coupons to My Other Courses
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

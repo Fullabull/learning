@@ -1,0 +1,433 @@
+Section: 1
+0 / 1
+Introduction
+1. Introduction
+5:38
+Section: 2
+0 / 7
+SOLID Design Principles
+2. Overview
+0:52
+3. Single Responsibility Principle
+6:48
+Creational.Creational.SRP.cpp.txt
+4. Open-Closed Principle
+14:51
+Creational.Creational.OCP.cpp.txt
+5. Liskov Substitution Principle
+7:17
+Creational.Creational.LSP.cpp.txt
+6. Interface Segregation Principle
+6:33
+Creational.Creational.ISP.cpp.txt
+7. Dependency Inversion Principle
+13:21
+Creational.Creational.DIP.cpp.txt
+8. Summary
+2:26
+Section: 3
+0 / 8
+Builder
+9. Overview
+1:43
+10. Life Without Builders
+3:50
+Creational.Creational.Builder.cpp.txt
+11. Builder
+6:40
+12. Fluent Builder
+9:02
+13. Groovy-Style Builder
+8:12
+Creational.Creational.GroovyStyle.cpp.txt
+14. Builder Facets
+14:55
+BuilderFacets.zip
+Coding Exercise 1: Builder Coding Exercise
+15. Summary
+0:57
+Creational.Creational.BuilderCodingExercise.cpp.txt
+Section: 4
+0 / 9
+Factories
+16. Overview
+3:20
+17. Point Example
+4:05
+18. Factory Method
+4:00
+Creational.Creational.FactoryMethod.cpp.txt
+19. Factory
+3:59
+Creational.Creational.Factory.cpp.txt
+20. Inner Factory
+4:02
+Creational.Creational.InnerFactory.cpp.txt
+21. Abstract Factory
+12:25
+Creational.Creational.AbstractFactory.cpp.txt
+Creational.Creational.CoffeeFactory.h.txt
+Creational.Creational.DrinkFactory.h.txt
+Creational.Creational.HotDrink.h.txt
+Creational.Creational.HotDrinkFactory.h.txt
+Creational.Creational.TeaFactory.h.txt
+22. Functional Factory
+3:46
+Coding Exercise 2: Factory Coding Exercise
+23. Summary
+1:15
+Creational.Creational.FactoryCodingExercise.cpp.txt
+Section: 5
+0 / 7
+Prototype
+24. Overview
+1:59
+25. Record Keeping
+6:33
+Creational.Creational.Prototype.cpp.txt
+26. Prototype
+5:02
+27. Prototype Factory
+7:09
+28. Prototype via Serialization
+11:33
+Coding Exercise 3: Prototype Coding Exercise
+29. Summary
+1:08
+Creational.Creational.PrototypeCodingExercise.cpp.txt
+Section: 6
+0 / 8
+Singleton
+30. Overview
+2:43
+31. Singleton Implementation
+6:52
+Creational.Creational.Singleton.h.txt
+32. Testability Issues
+5:04
+Creational.Creational.SingletonTests.cpp.txt
+33. Singleton in Dependency Injection
+6:24
+34. Singleton Lifetime in DI Container
+5:40
+Creational.Creational.BoostDI.cpp.txt
+Creational.Creational.di.h.txt
+35. Monostate
+2:49
+Coding Exercise 4: Singleton Coding Exercise
+36. Summary
+1:50
+Creational.Creational.SingletonCodingExercise.cpp.txt
+Section: 7
+0 / 5
+Adapter
+37. Overview
+2:36
+38. Vector/Raster Demo
+9:12
+AdapterVisual.zip
+39. Adapter Caching
+7:14
+Coding Exercise 5: Adapter Coding Exercise
+40. Summary
+1:10
+Section: 8
+0 / 5
+Bridge
+41. Overview
+1:46
+42. Pimpl Idiom
+8:54
+Structural.Bridge.Person.h.txt
+Structural.Bridge.Person.cpp.txt
+43. Bridge Implementation
+8:22
+Structural.Bridge.bridge.cpp.txt
+Coding Exercise 6: Bridge Coding Exercise
+44. Summary
+0:21
+Structural.Bridge.BridgeCodingExercise.cpp.txt
+Section: 9
+0 / 6
+Composite
+45. Overview
+1:53
+46. Geometric Shapes
+4:34
+Structural.Composite.graphics.h.txt
+47. Neural Networks
+15:19
+Structural.Composite.neurons.cpp.txt
+48. Array-Backed Properties
+9:37
+Structural.Composite.ArrayBackedProps.cpp.txt
+Coding Exercise 7: Composite Coding Exercise
+49. Summary
+2:02
+Structural.Composite.CompositeCodingExercise.cpp.txt
+Section: 10
+0 / 6
+Decorator
+50. Overview
+1:46
+51. Dynamic Decorator
+9:32
+Structural.Decorator.decorator.cpp.txt
+52. Static Decorator
+8:21
+53. Functional Decorator
+11:18
+Coding Exercise 8: Decorator Coding Exercise
+54. Summary
+1:07
+Structural.Decorator.DecoratorCodingExercise.cpp.txt
+Section: 11
+0 / 3
+Façade
+55. Overview
+3:08
+56. Façade
+8:42
+Bloom.zip
+57. Summary
+1:25
+Section: 12
+0 / 6
+Flyweight
+58. Overview
+2:21
+59. Handmade Flyweight
+9:34
+Structural.Flyweight.flyweight.cpp.txt
+60. Boost.Flyweight
+3:34
+61. Text Formatting
+11:04
+Structural.Flyweight.capitalize.cpp.txt
+Coding Exercise 9: Flyweight Coding Exercise
+62. Summary
+0:42
+Structural.Flyweight.FlyweightCodingExercise.cpp.txt
+Section: 13
+0 / 8
+Proxy
+63. Overview
+2:07
+64. Smart Pointers
+3:32
+Structural.Proxy.proxy.cpp.txt
+65. Property Proxy
+4:55
+66. Virtual Proxy
+4:46
+67. Communication Proxy
+5:47
+CommunicationProxyDemo.zip
+68. Proxy vs Decorator
+1:18
+Coding Exercise 10: Proxy Coding Exercise
+69. Summary
+0:46
+Structural.Proxy.ProxyCodingExercise.cpp.txt
+Section: 14
+0 / 5
+Chain of Responsibility
+70. Overview
+3:33
+71. Pointer Chain
+11:13
+Behavioral.ChainOfResponsibility.cor_pointer.cpp.txt
+72. Broker Chain
+12:22
+Behavioral.ChainOfResponsibility.cor_broker.cpp.txt
+Coding Exercise 11: Chain of Responsibility Coding Exercise
+73. Summary
+2:03
+Behavioral.ChainOfResponsibility.CoRCodingExercise.cpp.txt
+Section: 15
+0 / 7
+Command
+74. Overview
+5:28
+75. Command
+6:42
+Behavioral.Command.command.cpp.txt
+76. Undo Operations
+5:39
+Behavioral.Command.command_undo.cpp.txt
+77. Composite Command (Macro)
+10:53
+Behavioral.Command.command_composite.cpp.txt
+Coding Exercise 12: Command Coding Exercise
+78. Command Query Separation (CQS)
+2:31
+79. Summary
+1:09
+Section: 16
+0 / 6
+Interpreter
+80. Overview
+4:14
+81. Handmade Interpreter: Lexing
+8:05
+Behavioral.Interpreter.handmade.cpp.txt
+82. Handmade Interpreter: Parsing
+12:23
+83. Building Parsers with Boost.Spirit
+9:40
+Tlon Programming Language [GitHub]
+Coding Exercise 13: Interpreter Coding Exercise
+84. Summary
+1:16
+Behavioral.Interpreter.InterpreterCodingExercise.cpp.txt
+Section: 17
+0 / 7
+Iterator
+85. Overview
+1:37
+86. Iterators in the Standard Library
+11:09
+Behavioral.Iterator.iterator.cpp.txt
+87. Binary Tree Iterator
+13:46
+88. Tree Iterator with Coroutines
+5:51
+89. Boost Iterator Façade
+5:38
+Behavioral.Iterator.facade.cpp.txt
+Coding Exercise 14: Iterator Coding Exercise
+90. Summary
+1:39
+Behavioral.Iterator.IteratorCodingExercise.cpp.txt
+Section: 18
+0 / 5
+Mediator
+91. Overview
+1:13
+92. Chat Room
+16:37
+DesignPatternDemos.ChatRoom.zip
+93. Event Broker
+8:18
+Behavioral.Mediator.soccer.cpp.txt
+Coding Exercise 15: Mediator Coding Exercise
+94. Summary
+1:16
+Behavioral.Mediator.MediatorCodingExercise.cpp.txt
+Section: 19
+0 / 6
+Memento
+95. Overview
+1:41
+96. Memento
+6:16
+Behavioral.Memento.memento.cpp.txt
+97. Undo and Redo
+10:15
+98. Automatic Memento
+5:49
+Coding Exercise 16: Memento Coding Exercise
+99. Summary
+1:44
+Behavioral.Memento.MementoCodingExercise.cpp.txt
+Section: 20
+0 / 8
+Observer
+100. Overview
+2:38
+101. Observer
+4:14
+DesignPatternDemos.Observable.zip
+102. Observable
+7:01
+103. Observable with Boost.Signals
+4:55
+104. The Problem of Dependencies
+4:37
+105. Thread Safety and Reentrancy
+9:57
+Coding Exercise 17: Observer Coding Exercise
+106. Summary
+1:35
+Behavioral.Observer.ObserverCodingExercise.cpp.txt
+Section: 21
+0 / 6
+State
+107. Overview
+3:08
+108. Classic State Implementation
+9:10
+Behavioral.State.classic.cpp.txt
+109. Handmade State Machine
+8:47
+Behavioral.State.handmade.cpp.txt
+110. State Machine with Boost.MSM
+11:59
+Behavioral.State.msm.cpp.txt
+Coding Exercise 18: State Coding Exercise
+111. Summary
+1:52
+Summary.mp4
+Behavioral.State.StateCodingExercise.cpp.txt
+Section: 22
+0 / 5
+Strategy
+112. Overview
+1:50
+113. Dynamic Strategy
+9:23
+Behavioral.Strategy.strategy_dynamic.cpp.txt
+114. Static Strategy
+2:11
+Behavioral.Strategy.strategy_static.cpp.txt
+Coding Exercise 19: Strategy Coding Exercise
+115. Summary
+0:26
+Behavioral.Strategy.StrategyCodingExercise.cpp.txt
+Section: 23
+0 / 4
+Template Method
+116. Overview
+1:29
+117. Template Method
+6:33
+Behavioral.TemplateMethod.template_method.cpp.txt
+Coding Exercise 20: Template Method Coding Exercise
+118. Summary
+0:31
+Behavioral.TemplateMethod.TemplateMethodCodingExercise.cpp.txt
+Section: 24
+0 / 9
+Visitor
+119. Overview
+3:18
+120. Intrusive Visitor
+7:30
+Behavioral.Visitor.visitor_intrusive.cpp.txt
+121. Reflective Visitor
+6:47
+Behavioral.Visitor.visitor_reflective.cpp.txt
+122. Classic Visitor (Double Dispatch)
+16:58
+Behavioral.Visitor.visitor_double.cpp.txt
+123. Acyclic Visitor
+13:19
+Behavioral.Visitor.visitor_acyclic.cpp.txt
+124. Multimethods
+12:19
+Behavioral.Visitor.multimethods.cpp.txt
+Multimethods Proposal
+125. Variant and std::visit
+8:38
+Behavioral.Visitor.std_visit.cpp.txt
+Coding Exercise 21: Visitor Coding Exercise
+126. Summary
+1:20
+Behavioral.Visitor.VisitorCodingExercise.cpp.txt
+Section: 25
+0 / 2
+Course Summary
+127. End of Course
+1:01
+128. Bonus Lecture: Other Courses at a Discount
+Design Patterns in Modern C++ [Book]

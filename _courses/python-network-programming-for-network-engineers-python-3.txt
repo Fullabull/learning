@@ -1,0 +1,480 @@
+Section: 1
+1 / 2
+Introduction
+1. Introduction
+3:49
+2. Udemy interface tips & FREE content
+4:10
+Section: 2
+0 / 10
+GNS3 Setup
+3. GNS3 2.1 Install Part 1: Components and software requirements
+3:32
+4. GNS3 2.1 Install Part 2: GUI install
+11:47
+5. GNS3 2.1 Install Part 3: Troubleshooting GNS3 installation issues Windows 10
+4:37
+6. GNS3 2.1 Install Part 4: Basic GNS3 Network (your first network)
+9:50
+7. GNS3 2.1 Install Part 5: Where do I get Cisco IOS images?
+7:55
+8. GNS3 2.1 Install Part 6: Cisco IOS network using Dynamips
+12:13
+9. GNS3 2.1 Install Part 7: GNS3 VM, VIRL and switching
+8:29
+10. GNS3 2.1 Install Part 8: GNS3 VM, VMware 14 issues
+11:55
+11. GNS3 2.1 Install Part 9: Cisco VIRL IOSv import into GNS3
+11:23
+12. GNS3 2.1 Install Part 10: Cisco VIRL and Dynamips network!
+7:47
+Section: 3
+0 / 12
+Quick Start Guide to Network Automation
+13. Quick Start 1: GNS3 Lab Setup and IDEs
+10:22
+Python3 course - initial topology.gns3project.zip
+14. Quick Start 2: Telnet Script creation
+11:20
+python31.py.zip
+15. Quick Start 3: Telnet Script Test
+6:04
+16. Quick Start 4: Telnet to a switch and create VLANs
+8:15
+python32.py.zip
+17. Quick Start 5: Loops
+7:29
+pythonrange.py.zip
+18. Quick Start 6: PEP8: Python Style Guide
+2:41
+19. Quick Start 7: Configure switch VLANs using loops
+8:55
+python33.py.zip
+20. Quick start 8: Create a multiple switch network
+8:16
+Python3 course - 5 switches completed topology.gns3project.zip
+enable ssh.zip
+Python3 course - 5 switches initial topology.gns3project.zip
+21. Quick Start 9: Open a file of switch IP addresess
+8:22
+myswitches.zip
+python35.py.zip
+22. Quick Start 10: Configure multiple switch with a loop
+3:00
+23. Quick Start 11: Loops within loops
+6:51
+python36.py.zip
+24. Quick Start 12: Backup Network Device Configurations
+7:09
+backupconfigs.py.zip
+Section: 4
+0 / 9
+Netmiko: Use SSH for Network Automation
+25. Netmiko Part 1: Introduction
+2:34
+26. Netmiko Part 2: Enable SSH on switches in network
+4:38
+27. Netmiko Part 3: Your first Netmiko SSH Script
+8:00
+netmiko1.py.zip
+Python3 Netmiko install.zip
+28. Netmiko Part 4: Script for multiple switches
+3:55
+netmiko2.py.zip
+29. Netmiko Part 5: Run script and configure multiple devices
+5:10
+30. Netmiko Part 6: File of multiple Cisco commands
+5:55
+iosv_l2_cisco_design.zip
+netmiko3.py.zip
+31. Netmiko Part 7: Program multiple switches with file of commands
+10:16
+32. Netmiko Part 8: Script to program entire network
+5:43
+iosv_l2_core.zip
+netmiko4.py.zip
+33. Netmiko Part 9: Run script to program entire network
+4:41
+Section: 5
+0 / 7
+NAPALM
+34. NAPALM Introduction (P75_12)
+5:57
+35. NAPALM Python 3 versus 2.7
+3:30
+36. Ubuntu versus Network Automation Container
+37. Install NAPALM (P68_13)
+2:22
+NAPALM INSTALL.txt.zip
+38. NAPALM connect to switch 1 (P68_14)
+3:52
+napalm1a.py.zip
+39. JSON and more commands (P68_16)
+5:02
+napalm1b.py.zip
+napalm1c.py.zip
+napalm1d.py.zip
+40. Mac address table, ARP cache (P68_17)
+5:46
+napalm2a.py.zip
+napalm2b.py.zip
+napalm2c.py.zip
+Section: 6
+0 / 6
+NAPALM and BGP
+41. Use NAPALM to retrieve BGP neighbor information: Part 1 (P75_1)
+2:09
+napalmbgp1.py.zip
+42. Use NAPALM to retrieve BGP neighbor information: Part 2 (P75_2)
+5:11
+43. Use NAPALM to retrieve BGP neighbor information: Part 3 (P75_3)
+1:13
+44. NAPALM: Multiple BGP neighbors (P75_4)
+4:42
+napalmbgp2.py.zip
+45. NAPALM and bigger BGP Network Part 1 (P75_5)
+4:23
+napalmbgp3.py.zip
+46. NAPALM and bigger BGP network Part 2 (P75_5b)
+2:51
+napalmbgp4.py.zip
+Section: 7
+0 / 5
+Use NAPALM for device configuration audit and changes
+47. Use NAPALM to configure Access lists (P75_6)
+3:45
+ip scp server enable.zip
+napalmconfig1.py.zip
+ACL1.txt.zip
+48. Check if ACL already exists and add if missing (P75_7)
+4:17
+napalmconfig2.py.zip
+ACL1.txt.zip
+49. Use NAPALM for auditing device configs (P75_8)
+0:52
+50. Use NAPALM to add multiple config files (P75_9)
+4:08
+ACL1.txt.zip
+ospf1.txt.zip
+napalmconfig3.py.zip
+51. NAPALM: Multiple config files, multiple devices (P75_10)
+3:55
+ip scp server enable.zip
+ACL1.txt.zip
+ospf1.txt.zip
+napalmconfig4.py.zip
+Section: 8
+0 / 8
+Iteration Examples: Netmiko scripts
+52. Netmiko Iteration: Script Overview
+5:51
+53. Netmiko Iteration (Script 1): Basic Script
+1:32
+netmiko1 - starter script.py.zip
+54. Netmiko Iteration (Script 2): Open a file of commands
+5:50
+commands_file.zip
+netmiko2 - single device with file of commands.py.zip
+55. Netmiko Iteration (Script 3): Configure multiple devices using a file of devices
+7:23
+devices_file.zip
+netmiko3 - mulitple devices.py.zip
+56. Netmiko Iteration (Script 4): Remove passwords from script
+4:13
+netmiko4 - remove passwords.py.zip
+57. Netmiko Iteration (Script 5): Except (Error) Handling
+7:36
+netmiko5 - error handling.py.zip
+58. Netmiko Iteration (Script 6): Determine device types and run specific device typ
+7:43
+netmiko6 - determine device type.py.zip
+commands_file_switch.zip
+commands_file_router.zip
+commands_file_phyrouter.zip
+59. Netmiko Iteration (Script 7): Iterate device type script
+3:03
+Section: 9
+0 / 5
+Netmiko Scaling
+60. Part 1: Encrypted Password File
+7:30
+device-creds.zip
+install simple-crypt.txt.zip
+encrypt_device_info.py.zip
+61. Part 2: Netmiko Sequential Part 1
+5:04
+install simple-crypt.txt.zip
+device-creds.zip
+devices-file.zip
+get_config_sequential.py.zip
+62. Part 3: Netmiko Sequential Part 2
+6:52
+63. Part 4: Netmiko Multithreading
+5:40
+devices-file.zip
+device-creds.zip
+get_config_threading.py.zip
+64. Part 5: Netmiko Thread Pools
+5:40
+device-creds.zip
+devices-file.zip
+get_config_threadpool.py.zip
+Section: 10
+0 / 5
+Python Theory
+65. Theory topics - very short (P62_14_15)
+2:04
+66. Keep learning (P61_26)
+2:17
+67. 2.7 and 3 setup (P61_27)
+4:11
+68. 2.7 and 3 examples (P61_28)
+3:13
+69. Basic Hello World Scripts (P61_29_30)
+1:29
+Section: 11
+0 / 8
+Python Theory: Objects, Variables and Data Types
+70. Python Objects (P61_1)
+5:12
+71. Python Objects Part 2 (P61_2)
+1:12
+72. Python Variables (P61_3)
+3:30
+73. Python Variables Part 2 (P61_4_5)
+2:35
+74. Python Variables Part 3 (P61_6)
+4:15
+75. Python Variables Part 4 (P61_7_8)
+2:26
+76. Data Types (P61_9)
+1:47
+77. Data Type testing (P61_10)
+3:14
+Section: 12
+0 / 10
+Python Theory: Numbers
+78. Introduction (P61_19)
+0:58
+79. Numeric Types (P61_11)
+1:50
+80. Int and Float (P61_12)
+1:45
+81. Operators (P61_14)
+4:35
+82. Operators Part 2 (P61_15_16)
+6:27
+83. Operators (P61_17_18)
+3:27
+84. bin hex oct (P61_20)
+1:33
+85. binary decimal octal number examples (P62_1)
+0:31
+86. int calculation (P62_2)
+3:12
+87. Floats (P62_3)
+2:10
+Section: 13
+0 / 19
+Python Theory: Strings
+88. strings (P62_4)
+3:33
+89. strings (GT 06-8-17 7_8)
+3:23
+90. convert to a string using str() (P62_10)
+0:38
+91. escape special character meaning with \ (P62_12)
+3:02
+92. strings (P62_9)
+1:58
+93. string concatenation with + (P62_13)
+1:26
+94. multiplication operator * (P62_16)
+1:25
+95. string offsets - extract characters with [] (P62_17)
+3:36
+96. string slice _ slicing (P62_string)
+3:36
+97. string slice _ slicing 2 (P62_1string)
+2:16
+98. string slice _ slicing 3 (P62_2string)
+1:23
+99. lower upper (P73_11)
+2:10
+100. startswith endswith (P73_12)
+2:13
+101. strip lstrip rstrip (P73_13)
+2:14
+102. isdigit (P73_14)
+1:15
+103. count (P73_15)
+3:17
+104. Old Style text using % (P66_24)
+3:33
+105. Strings: New way to do text using {} (P73_16)
+2:38
+106. dir (P73_9)
+1:43
+Section: 14
+0 / 22
+Get version information from a switch
+107. Get show version from switch (P65_14)
+4:18
+108. Telnet and string offset (P65_16)
+4:36
+109. Show version using len (P65_17)
+2:02
+110. Split 1 (P65_18_21)
+1:56
+111. Split 2 (P73_18)
+1:18
+112. List and join (P73_17)
+2:52
+113. List and len - use Interface example (P73_25)
+1:47
+114. Index introduction(P66_1)
+3:16
+115. Real switch get version using index and slice (P66_2_3)
+3:53
+116. Python3 telnet to switch (P66_4)
+3:22
+117. Count (P66_6)
+5:59
+118. Use find to get information from a real switch (P66_10)
+5:20
+119. Python3 Telnet versus Python2 - Find version of software (P66_11)
+3:18
+120. find not found (P66_12)
+0:51
+121. String methods - upper (P66_13)
+1:42
+122. String methods - startswith and endswith (P66_14)
+1:43
+123. String methods - strip (P66_15)
+3:08
+124. String methods - split demo (P66_16)
+1:09
+125. String methods - Join (P66_17_18)
+0:47
+126. String methods - is it in string? (P66_19)
+1:00
+127. String concatenation (P66_20)
+0:30
+128. Capitalize, upper, lower, swap (P66_23)
+1:46
+Section: 15
+0 / 4
+Python Theory: Comparisons
+129. Boolean comparisons
+4:45
+130. Boolean Truth Table
+2:00
+131. Boolean Truth Table Demo
+3:37
+132. false conditions
+1:20
+Section: 16
+0 / 11
+Python Theory: Lists
+133. Lists versus tuples
+3:05
+134. lists
+2:44
+135. create a list using split
+3:08
+136. lists in lists
+4:48
+137. lists versus tuples - documentation
+0:47
+138. list merge and extendC
+1:43
+139. List methods
+1:35
+140. lists insert and delete
+4:09
+141. list pop index and in
+3:55
+142. reverse sort
+4:37
+143. len copy list
+3:56
+Section: 17
+0 / 2
+Python Theory: Tuples
+144. tuples
+4:52
+145. Tuples and Sequences v2
+1:58
+Section: 18
+0 / 2
+Python Theory: Code Structures
+146. Comments in Code (P72_2)
+3:17
+147. Line Continuation (P72_3)
+1:42
+Section: 19
+0 / 3
+Python Theory: if / else / elseif logic
+148. if logic
+7:08
+149. physical router demonstration
+7:58
+150. esleif
+4:24
+Section: 20
+0 / 5
+Python Theory: While Loops
+151. while loop
+4:21
+152. infinite while loop with break
+3:21
+153. infinite while loop with continue
+3:17
+154. while loop with a list
+2:43
+155. while loop with else
+2:14
+Section: 21
+0 / 3
+Python Theory: For Loops
+156. for loops
+3:17
+157. for loop with dictionary
+2:56
+158. for loop with if and lists
+1:34
+Section: 22
+0 / 2
+Python Theory: Ranges
+159. Ranges 1
+4:54
+160. Ranges 2
+2:42
+Section: 23
+0 / 5
+Python Theory: Dictionaries
+161. Dictionary Theory (P70_17)
+3:04
+162. Dictionary Demo (P70_18)
+3:28
+163. Combine Dictionaries (P70_19)
+1:31
+164. Dictionaries: Clear and check (P70_20)
+3:24
+165. Dictionaries: Add values (P70_21)
+4:27
+Section: 24
+0 / 6
+Python Theory: Functions
+166. Functions Intro
+6:09
+167. Functions Intro Part 2
+3:32
+168. Functions Part 3
+2:50
+169. Functions - Netmiko and Router
+3:44
+170. Functions - Netmiko and Router
+3:56
+171. Function 6 - Named keyword arguments (Netmiko)
+4:08

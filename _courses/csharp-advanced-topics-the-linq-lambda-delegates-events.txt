@@ -1,0 +1,149 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Become an Instructor
+My Courses
+Wishlist
+Shoplist
+Notifications
+1
+JT
+C# Advanced Topics - The Next Logical Step
+Get started (0 of 43 items complete)
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options
+ 
+Search course content
+Section: 1
+0 / 2
+Introduction
+1. Introduction
+2:38
+2. BONUS: Visual Studio Useful Shortcuts and C# Quality Code Guidelines
+Shortcuts and Quality Tips.pdf
+Section: 2
+0 / 4
+LINQ - Language Integrated Query
+3. What is LINQ, Where does it Apply and How to Use it?
+7:15
+4. LINQ Examples - Where, Select, Sorting, Multiple Conditions and More
+5:02
+5. LINQ Queries on Objects
+7:35
+6. LINQ Examples - Source Code
+01. LinqExamples.zip
+Section: 3
+0 / 5
+Lambda Expressions and LINQ Method Syntax
+7. What are Lambda Expressions and Examples with LINQ
+4:45
+8. More Lambda-LINQ Methods - Min, Max, Sum, OfType
+9:50
+9. What is the difference between Where and Select?
+4:27
+10. ForEach Loop with a Lambda Expression
+3:44
+11. Lambda Expressions with LINQ Methods - Source Code
+02. LambdaExamples.zip
+Section: 4
+0 / 4
+Extension Methods
+12. Simple Extension Methods to Make Your Life Easier
+6:17
+13. Multiple Argument Extension Methods
+3:32
+14. Extending Classes That You Cant Modify
+6:01
+15. Extension Methods Examples - Source Code
+03. ExtensionMethods.zip
+Section: 5
+0 / 7
+Generics
+16. What are Generic Methods and Simple Example
+8:04
+17. Generic Method for Sorting Collections
+4:07
+18. Implementing the IComparable interface in a Class
+5:16
+19. Generic Class - You've been using it all along!
+8:58
+20. Indexers, because, why not?
+3:38
+21. Overloading Mathematical Operators
+7:39
+22. Generics Examples - Source Code
+04. Generics.zip
+Section: 6
+0 / 9
+Delegates
+23. Finally an Understandable Answer to the question "What are Delegates?"
+8:22
+24. Delegates and Lambda Expressions (The Lambda fun never ends)
+1:58
+25. Delegate Chaining with Many Methods
+5:25
+26. Delegates Chain with Returning Methods - Catching All Returns
+5:01
+27. Generic Method To Catch All Returned Values - CatchEmAll
+4:24
+28. Func and Action Delegates - Simplifying Delegates
+5:06
+29. Anonymous Methods and Lambda Expressions
+6:18
+30. More Complex Anonymous Method
+4:50
+31. Delegates Examples - Source Code
+05. Delegates.zip
+Section: 7
+0 / 5
+Events
+32. What is an Event? Publisher and Subscribers Explained
+2:41
+33. The Anatomy of an Event
+8:43
+34. Passing Additional Information with Events
+7:16
+35. Delegates are No More - Introducing EventHandler
+2:29
+36. Events Examples - Source Code
+06. Events.zip
+Section: 8
+0 / 6
+Asynchronous Programming
+37. Intro to Asynchronous Programming - The Task Clas
+7:57
+38. Using the Task Class on Methods with Arguments
+3:42
+39. Using the Task Class on Methods with Return Types
+2:39
+40. The async and await Keywords, What Are They and How to Implement Them?
+8:52
+41. Final Refactoring of Our Code
+4:24
+42. Source Code - Asynchronous Programming
+07. AsynchronousProgramming.zip
+Section: 9
+0 / 1
+Bonus Section
+43. Bonus Lecture: Get Other Courses With Discount
+ Video course
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

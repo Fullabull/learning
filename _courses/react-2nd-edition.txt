@@ -1,0 +1,622 @@
+Udemy
+ Categories
+Search
+
+Search for Courses
+Teach Online
+My Courses
+Wishlist
+Shoplist
+Notifications1
+JT
+The Complete React Web Developer Course (with Redux)
+The Complete React Web Developer Course (with Redux)
+Get started (0 of 188 items complete)
+Overview
+Course Content
+Q&A
+Bookmarks
+Announcements
+Options 
+
+Search course content
+Section: 1
+0 / 2
+Welcome
+1. Welcome & Asking Good Questions
+2:10
+2. "Why should I learn React?"
+3:21
+Section: 2
+0 / 3
+Setting up Your Environment
+3. Section Intro: Setting up Your Environment
+0:28
+4. Installing Visual Studio Code
+1:35
+5. Installing Node.js & Yarn
+4:24
+Section: 3
+0 / 16
+Hello React
+6. Section Intro: Hello React
+1:15
+7. Setting up a Web Server
+12:00
+r-04-02-web-server.zip
+8. Hello React
+18:38
+r-04-03-react-and-babel.zip
+9. Setting up Babel
+17:26
+r-04-04-babel.zip
+10. Exploring JSX
+14:43
+r-04-05-jsx.zip
+11. JSX Expressions
+10:20
+r-04-06-jsx-expressions.zip
+12. Conditional Rendering in JSX
+22:34
+r-04-07-conditional-rendering.zip
+13. ES6 Aside: const and let
+16:29
+r-04-08-const-let.zip
+14. ES6 Aside: Arrow Functions
+12:36
+r-04-09-arrow-functions.zip
+15. ES6 Aside: Arrow Functions Part II
+19:57
+r-04-10-arrow-functions-2.zip
+16. Events and Attributes
+16:39
+r-04-11-events.zip
+17. Manual Data Binding
+11:52
+r-04-12-data-binding.zip
+18. Forms and Inputs
+17:53
+r-04-13-forms-inputs.zip
+19. Arrays in JSX
+14:15
+r-04-14-arrays.zip
+20. Picking an Option
+8:31
+r-04-15-picking-option.zip
+21. Build It: Visibility Toggle
+9:10
+r-04-16-visibility-toggle.zip
+Section: 4
+0 / 17
+React Components
+22. Section Intro: React Components
+0:27
+23. Thinking in React
+7:21
+24. ES6 Classes: Part I
+20:52
+r-05-03-classes-1.zip
+25. ES6 Classes: Part II
+18:07
+r-05-04-classes-2.zip
+26. Creating a React Component
+14:36
+r-05-05-component.zip
+27. Nesting Components
+5:43
+r-05-06-nesting-components.zip
+28. Component Props
+13:34
+r-05-07-props.zip
+29. Events & Methods
+10:34
+r-05-08-events.zip
+30. Method Binding
+11:24
+r-05-09-method-binding.zip
+31. What Is Component State?
+6:50
+32. Adding State to Counter App: Part I
+8:18
+r-05-11-counter-state.zip
+33. Adding State to Counter App: Part II
+11:00
+r-05-12-counter-state-2.zip
+34. Alternative setState Syntax
+7:15
+r-05-13-set-state-object.zip
+35. Build It: Adding State to VisibilityToggle
+8:13
+r-05-14-visibility-toggle.zip
+36. Indecision State: Part I
+17:06
+r-05-15-indecision-state.zip
+37. Indecision State: Part II
+14:33
+r-05-16-indecision-state-2.zip
+38. Summary: Props vs. State
+3:41
+Section: 5
+0 / 8
+Stateless Functional Components
+39. Section Intro: Stateless Functional Components
+0:36
+40. The Stateless Functional Component
+13:47
+r-06-02-sfc.zip
+41. Default Prop Values
+9:49
+r-06-03-default-props.zip
+42. React Dev Tools
+7:03
+43. Removing Individual Options
+16:22
+r-06-05-removing-individual-options.zip
+44. Lifecycle Methods
+10:07
+r-06-06-lifecycle-methods.zip
+45. Saving and Loading Options Data
+14:36
+r-06-07-local-storage.zip
+46. Saving and Loading the Count
+10:34
+r-06-08-saving-loading-count.zip
+Section: 6
+0 / 12
+Webpack
+47. Section Intro: Webpack
+0:42
+48. What Is Webpack?
+9:06
+49. Avoid Global Modules
+8:25
+r-07-03-avoiding-globals.zip
+50. Installing & Configuring Webpack
+16:31
+r-07-04-install-webpack.zip
+51. ES6 import/export
+18:32
+r-07-05-import-export.zip
+52. Default Exports
+11:18
+r-07-06-default-export.zip
+53. Importing npm Modules
+11:28
+r-07-07-importing-npm.zip
+54. Setting up Babel with Webpack
+9:27
+r-07-08-babel-webpack.zip
+55. One Component per File
+18:12
+r-07-09-component-refactor.zip
+56. Source Maps with Webpack
+5:16
+r-07-10-sourcemaps.zip
+57. Webpack Dev Server
+8:48
+r-07-11-dev-server.zip
+58. ES6 class properties
+17:33
+r-07-12-class-properties.zip
+Section: 7
+0 / 4
+Using a Third-Party Component
+59. Section Intro: Using a Third-Party Component
+0:45
+60. Passing Children to Component
+6:25
+r-08-02-the-children-prop.zip
+61. Setting up React-Modal
+18:45
+r-08-03-react-modal.zip
+62. Bonus: Refactoring Other Stateless Functional Components
+2:25
+r-08-04-refactor.zip
+Section: 8
+0 / 11
+Styling React
+63. Section Intro: Styling React
+0:37
+64. Setting up Webpack with SCSS
+13:16
+r-09-02-styled-and-webpack.zip
+65. Architecture and Header Styles
+14:48
+r-09-03-header-style.zip
+66. Reset That $#!*
+4:58
+r-09-04-reset.zip
+67. Theming with Variables
+14:18
+r-09-05-theming.zip
+68. Big Button & Options List
+15:24
+r-09-06-big-button.zip
+69. Styling the Options List
+14:13
+r-09-07-options-list.zip
+70. Styling Option Item
+16:40
+r-09-08-option-item.zip
+71. Styling React-Modal
+18:00
+r-09-09-styling-react-modal.zip
+72. Mobile Considerations
+12:57
+r-09-10-mobile-considerations.zip
+73. Bonus: Favicon
+2:53
+r-09-11-favicon.zip
+Section: 9
+0 / 9
+React-Router
+74. Section Intro: React Router
+1:28
+75. Server vs. Client Routing
+4:39
+76. Setting Up Budget App
+6:54
+r-11-03-boilerplate.zip
+77. React-Router 101
+20:13
+r-11-04-router-setup.zip
+78. Setting up a 404
+5:58
+r-11-05-404.zip
+79. Linking Between Routes
+14:08
+r-11-06-linking.zip
+80. Organizing Our Routes
+12:30
+r-11-07-router-refactor.zip
+81. Query Strings and URL Parameters
+9:10
+r-11-08-query-string-and-params.zip
+82. Build It: Router for Portfolio Site
+18:27
+r-11-09-build-it-portfolio-router.zip
+Section: 10
+0 / 15
+Redux
+83. Section Intro: Redux
+0:44
+84. Why Do We Need Something Like Redux?
+13:33
+85. Setting up Redux
+7:53
+r-12-03-installing-redux.zip
+86. Dispatching Actions
+13:00
+r-12-04-actions.zip
+87. Subscribing and Dynamic Actions
+9:35
+r-12-05-dynamic-actions.zip
+88. ES6 Object Destructuring
+15:49
+r-12-06-destructuring.zip
+89. ES6 Array Destructuring
+10:38
+r-12-07-array-destructuring.zip
+90. Refactoring and Organizing
+16:41
+r-12-08-redux-refactor.zip
+91. Reducers
+12:05
+r-12-09-reducers.zip
+92. Working with Multiple Reducers
+13:40
+r-12-10-combine-reducers.zip
+93. ES6 Spread Operator in Reducers
+17:36
+r-12-11-spread.zip
+94. Spreading Objects
+14:36
+r-12-12-object-spread.zip
+95. Wrapping up Our Reducers
+9:52
+r-12-13-wrapping-up.zip
+96. Filtering Redux Data
+16:54
+r-12-14-filtering.zip
+97. Sorting Redux Data
+6:14
+r-12-15-sorting.zip
+Section: 11
+0 / 13
+React with Redux
+98. Section Intro: Connecting React and Redux
+0:39
+99. Organizing Redux
+14:50
+r-13-02-organizing.zip
+100. The Higher Order Component
+15:30
+r-13-03-higher-order-components.zip
+101. Connecting Store and Component with React-Redux
+15:40
+r-13-04-react-redux.zip
+102. Rendering Individual Expenses
+9:09
+r-13-05-rendering-expenses.zip
+103. Controlled Inputs for Filters
+14:21
+r-13-06-controlled-inputs.zip
+104. Dropdown for Picking SortBy
+8:41
+r-13-07-select.zip
+105. Creating Expense Add/Edit Form
+20:09
+r-13-08-add-expense.zip
+106. Setting up a Date Picker
+21:34
+r-13-09-day-picker.zip
+107. Wiring up Add Expense
+16:44
+r-13-10-dispatching-add-expense.zip
+108. Wiring up Edit Expense
+19:06
+r-13-11-edit-expense.zip
+109. Redux Dev Tools
+5:33
+r-13-12-redux-dev-tools.zip
+110. Filtering by Dates
+19:44
+r-13-13-date-filters.zip
+Section: 12
+0 / 17
+Testing Your Application
+111. Section Intro: Testing React Components
+1:34
+112. Setting up Jest
+19:34
+r-14-02-jest.zip
+113. Testing Expenses Action Generators
+16:55
+r-14-03-expense-action-gens.zip
+114. Testing Filters Action Generators
+11:06
+r-14-04-filter-action-gens.zip
+115. Testing Expenses Selector
+17:03
+r-14-05-testing-selector.zip
+116. Testing Filters Reducer
+14:07
+r-14-06-filters-reducer.zip
+117. Testing Expenses Reducer
+15:10
+r-14-07-expenses-reducer.zip
+118. Snapshot Testing
+12:13
+r-14-08-snapshot-testing.zip
+119. Enzyme
+21:53
+r-14-09-enzyme.zip
+120. Snapshot Testing with Dynamic Components
+15:42
+r-14-10-dynamic-snapshot.zip
+121. Mocking Libraries with Jest
+11:51
+r-14-11-mocking.zip
+122. Testing User Interaction
+16:54
+r-14-12-user-interaction.zip
+123. Test Spies
+17:39
+r-14-13-test-spies.zip
+124. Testing AddExpensePage
+14:39
+r-14-14-add-expense.zip
+125. Testing EditExpensePage
+19:00
+r-14-15-edit-expense.zip
+126. Testing ExpenseListFilters
+14:50
+r-14-16-expense-list.zip
+127. Testing ExpenseListFilters: Part II
+12:27
+r-14-17-expense-list-2.zip
+Section: 13
+0 / 13
+Deploying Your Apps
+128. Section Intro: Deploying Your Apps
+0:37
+129. Installing Git
+4:26
+130. What is Git?
+5:17
+131. Integrating Git into Our Project
+12:54
+r-15-04-using-git.zip
+132. Setting up SSH and Github
+16:47
+r-15-05-ssh-github.zip
+133. Production Webpack
+13:07
+r-15-06-production-webpack.zip
+134. Creating Separate CSS Files
+16:47
+r-15-07-extracting-css.zip
+135. A Production Web Server with Express
+13:14
+r-15-08-express-server.zip
+136. Deploying with Heroku
+16:44
+r-15-09-heroku.zip
+137. Regular vs Development Dependencies
+15:36
+r-15-10-heroku-2.zip
+138. New Feature Workflow
+12:32
+r-15-11-formatted-dates.zip
+139. Build It: Adding Total Selector
+17:25
+r-15-12-total-selector.zip
+140. Build It: Adding Summary Component
+18:39
+r-15-13-expense-summary.zip
+Section: 14
+0 / 10
+Firebase 101
+141. Section Intro: Firebase 101
+0:57
+142. Getting Firebase
+11:40
+r-16-02-getting-firebase.zip
+143. Writing to the Database
+14:59
+r-16-03-writing-data.zip
+144. ES6 Promises
+14:30
+r-16-04-promises.zip
+145. Promises with Firebase
+10:54
+r-16-05-firebase-promises.zip
+146. Removing Data from Firebase
+5:42
+r-16-06-removing-data.zip
+147. Updating Data
+10:41
+r-16-07-updating-data.zip
+148. Fetching Data From Firebase
+17:54
+r-16-08-fetching-data.zip
+149. Array Data in Firebase: Part I
+15:12
+r-16-09-array-data-1.zip
+150. Array Data in Firebase: Part II
+14:56
+r-16-10-array-data-2.zip
+Section: 15
+0 / 10
+Firebase with Redux
+151. Section Intro: Firebase with Redux
+0:47
+152. Asynchronous Redux Actions
+18:49
+r-17-02-async-actions.zip
+153. Testing Async Redux Actions: Part I
+16:59
+r-17-03-async-actions.zip
+154. Testing Async Redux Actions: Part II
+12:12
+r-17-04-async-actions-2.zip
+155. Creating a Separate Test Database
+21:15
+r-17-05-test-db.zip
+156. Heroku Environment Variables
+6:38
+r-17-06-heroku-env-vars.zip
+157. Fetching Expenses: Part I
+12:38
+r-17-07-fetching-expenses.zip
+158. Fetching Expenses: Part II
+13:52
+r-17-08-fetching-expenses-2.zip
+159. Remove Expense
+12:03
+r-17-09-remove-expense.zip
+160. Update Expense
+10:31
+r-17-10-update-expense.zip
+Section: 16
+0 / 9
+Firebase Authentication
+161. Section Intro: Firebase Authentication
+0:52
+162. Login Page and Google Authentication
+19:26
+r-18-02-login-page.zip
+163. Logging Out
+11:05
+r-18-03-logout.zip
+164. Redirecting Login or Logout
+12:48
+r-18-04-redirect.zip
+165. The Auth Reducer
+15:49
+r-18-05-private-routes.zip
+166. Private Only Routes
+13:04
+r-18-06-route-hoc.zip
+167. Public Only Routes
+5:29
+r-18-07-public-route-hoc.zip
+168. Private Firebase Data
+18:33
+r-18-08-private-data.zip
+169. Data Validation and Deployment
+14:58
+r-18-09-validation.zip
+Section: 17
+0 / 12
+Styling Budget App
+170. Section Intro: Styling Budget App
+0:22
+171. Styling Login Page
+13:45
+r-19-02-login-page.zip
+172. Styling Buttons
+15:35
+r-19-03-buttons-header.zip
+173. Styling Summary Area
+12:20
+r-19-04-summary.zip
+174. Styling List Filters
+10:05
+r-19-05-filters.zip
+175. Styling Inputs
+11:30
+r-19-06-inputs.zip
+176. Styling Expense Form
+13:19
+r-19-07-expense-form.zip
+177. Styling Expenses List: Part I
+13:03
+r-19-08-expense-list.zip
+178. Styling Expenses List: Part II
+17:58
+r-19-09-expense-list-2.zip
+179. Adding Loader
+9:26
+r-19-10-loader.zip
+180. Babel Polyfill
+4:55
+r-19-11-polyfill.zip
+181. Final Deployment
+1:57
+r-19-12-final-deployment.zip
+Section: 18
+0 / 6
+What Now?
+182. Section Into: What Now?
+1:35
+183. Creating the Final Boilerplate
+18:05
+r-20-02-boilerplate.zip
+184. Budget App Enhancements
+3:18
+185. Indecision App Enhancements
+1:09
+186. New App Idea: Blog
+2:48
+187. Until Next Time
+0:53
+Section: 19
+0 / 1
+Free Mini-Courses
+188. Free Mini-Courses
+ Teaching tools
+Ever thought about creating your own Udemy course?
+Share your knowledge on the world’s largest online learning marketplace.
+Udemy for Business
+Become an Instructor
+Mobile Apps
+About Us
+Careers
+Blog
+Topics
+Support
+Affiliate
+Udemy  Copyright © 2018 Udemy, Inc.
+Terms  Privacy Policy and Cookie Policy  Intellectual Property
+

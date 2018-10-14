@@ -1,0 +1,581 @@
+Section: 1
+0 / 11
+Getting Started
+1. About this Course
+2:06
+2. What are Progressive Web Apps?
+3:24
+3. PWAs vs Native Mobile Apps
+6:07
+4. A Demo PWA & What We'll Build in this Course
+6:24
+5. Our First Progressive Web App
+6:27
+first-pwa.zip
+first-pwa-start.zip
+6. PWA Core Building Blocks
+3:19
+7. Comparing PWAs and SPAs
+3:17
+8. What is "Progressive Enhancement"?
+3:23
+9. Course Outline
+4:24
+10. Course Project Setup
+6:10
+course-project-starting-setup.zip
+11. How to get the Most out of this Course
+2:11
+Section: 2
+0 / 15
+Understanding the App Manifest
+12. Module Introduction
+1:01
+13. Using an App Manifest to Make your App Installable
+1:36
+14. Adding the Manifest
+3:40
+app-manifest-01--start.zip
+15. Understanding App Manifest Properties
+9:43
+16. Adding Properties to the App Manifest
+9:44
+app-manifest-02--added-properties.zip
+17. PWAs and Browser Support
+2:16
+18. Using the Chrome Developer Tools
+1:35
+19. Simulating the Web App on an Emulator
+4:37
+20. Preparing the Emulated Device for ALL PWA Features
+21. Installing the Web App - Prerequisites
+2:30
+Quiz 1: Understanding manifest.json
+22. Adding Properties for Safari
+5:50
+23. Adding Properties for the Internet Explorer
+2:30
+app-manifest-03--final.zip
+24. Wrap Up
+0:28
+25. Useful Resources & Links
+app-manifest-01--start.zip
+app-manifest-02--added-properties.zip
+app-manifest-03--final.zip
+Section: 3
+0 / 17
+The Service Workers
+26. Module Introduction
+0:40
+27. Why Service Workers Are Amazing!
+4:40
+28. Understanding Service Worker Events
+6:18
+29. The Service Worker Lifecycle
+5:20
+sw-basics-01--updated-project.zip
+30. Service Worker Browser Support
+1:24
+31. Registering a Service Worker
+9:26
+sw-basics-02--registered-sw.zip
+32. Reacting to Incoming Events (in SW)
+5:39
+33. Updating & Activating Service Workers
+3:00
+34. Non-Lifecycle Events
+4:50
+sw-basics-03--event-handling.zip
+35. The App Install Banner & Chrome 68+
+36. Getting that "App Install Banner"
+2:40
+37. Connecting Chrome Developer Tools to a Real/ Emulated Device
+38. Testing the App on Real Device (and Installing the App!)
+3:42
+39. Deferring the App Install Banner
+6:43
+sw-basics-04--finished.zip
+40. Wrap Up
+1:20
+41. Service Worker FAQ
+42. Useful Resources & Links
+sw-basics-01--updated-project.zip
+sw-basics-02--registered-sw.zip
+sw-basics-03--event-handling.zip
+sw-basics-04--finished.zip
+Section: 4
+0 / 14
+Promise and Fetch
+43. Module Introduction
+0:49
+44. Async Code in JavaScript
+3:54
+promise-fetch-01--starting-code.zip
+45. Promises - Basics
+4:40
+46. Rejecting Promises
+4:05
+promise-fetch-02--promise-example.zip
+47. Where we Use Promises in our Project
+2:25
+48. Fetch - Basics
+6:11
+49. Sending Post Requests via Fetch
+4:22
+50. Fetch and CORS
+3:12
+51. Comparing Fetch and Ajax
+3:04
+promise-fetch-03--fetch-ajax-comparison.zip
+52. Adding Polyfills (for Legacy Browser Support)
+3:29
+promise.js
+fetch.js
+53. Fetch & Service Workers
+2:05
+promise-fetch-04--finished.zip
+Assignment 1: Time to Practice - Promises & Fetch API
+54. Wrap Up
+0:56
+55. Useful Resources & Links
+promise-fetch-01--starting-code.zip
+promise-fetch-02--promise-example.zip
+promise-fetch-03--fetch-ajax-comparison.zip
+promise-fetch-04--finished.zip
+Section: 5
+0 / 19
+Service Workers - Caching
+56. Module Introduction
+0:43
+57. Why Caching?
+3:06
+58. Understanding the Cache API
+4:00
+59. Browser Support
+1:49
+60. Adjusting the Course Project
+2:53
+sw-caching-01--updated-project.zip
+sw-caching-02--after-cleanup.zip
+61. Identifying (Pre-)Cacheable Items
+3:07
+62. Static Caching/ Precaching
+11:04
+63. Retrieving Items from the Cache
+4:55
+64. Adding & Retrieving Multiple Files (to/ from Cache)
+3:06
+sw-caching-03--basic-precaching.zip
+65. Cache Multiple Files with addAll
+9:10
+sw-caching-04--addall.zip
+66. Dynamic Caching - The Basics
+1:54
+67. Implementing Dynamic Caching
+7:19
+sw-caching-05--dynamic-caching.zip
+68. Handling Errors
+2:13
+69. Adding Cache Versioning
+6:56
+70. Different Cache Versions & Cleanup
+6:37
+71. Optimizing Cache Management
+2:42
+sw-caching-06--finished.zip
+Assignment 2: Time to Practice: Service Workers & Caching
+72. Wrap Up
+0:35
+73. Useful Resources & Links
+sw-caching-01--updated-project.zip
+sw-caching-02--after-cleanup.zip
+sw-caching-03--basic-precaching.zip
+sw-caching-04--addall.zip
+sw-caching-05--dynamic-caching.zip
+sw-caching-06--finished.zip
+Section: 6
+0 / 23
+Service Workers - Advanced Caching
+74. Module Introduction
+1:12
+75. Module Preparation: Adding a Button
+4:04
+adv-caching-01--prepared-project.zip
+76. Offering "Cache on Demand"
+6:51
+adv-caching-02--on-demand-caching.zip
+77. Providing an Offline Fallback Page
+6:21
+adv-caching-03--offline-fallback.zip
+78. Strategy: Cache with Network Fallback
+1:43
+79. Strategy: Cache Only
+3:06
+adv-caching-04--cache-only.zip
+80. Strategy: Network Only
+1:57
+adv-caching-05--network-only.zip
+81. Strategy: Network with Cache Fallback
+6:21
+adv-caching-06--network-cache-fallback.zip
+82. Strategy: Cache then Network
+9:05
+83. Cache then Network & Dynamic Caching
+5:11
+adv-caching-07--cache-then-network.zip
+84. Cache then Network with Offline Support
+5:59
+adv-caching-08--cache-then-network-offline.zip
+85. Cache Strategies & "Routing"
+3:09
+86. Applying Cache Only
+5:45
+adv-caching-09--routing-cache-only.zip
+Assignment 3: Time to Practice - Advanced Caching
+87. A Better Way Of Parsing Static Cache URLs
+2:40
+88. Making Route Matching More Precise
+89. A Better Way Of Serving Fallback Files
+2:57
+adv-caching-10--improvements.zip
+90. Post Request and Cache API
+3:18
+91. Cleaning/ Trimming the Cache
+6:06
+92. Getting Rid of a Service Worker
+3:49
+93. Preparing the Project for the Next Steps
+0:29
+adv-caching-11--final.zip
+94. Wrap Up
+0:57
+95. Useful Resources & Links
+adv-caching-01--prepared-project.zip
+adv-caching-02--on-demand-caching.zip
+adv-caching-03--offline-fallback.zip
+adv-caching-04--cache-only.zip
+adv-caching-05--network-only.zip
+adv-caching-06--network-cache-fallback.zip
+adv-caching-07--cache-then-network.zip
+adv-caching-08--cache-then-network-offline.zip
+adv-caching-09--routing-cache-only.zip
+adv-caching-10--improvements.zip
+adv-caching-11--final.zip
+Section: 7
+0 / 17
+IndexedDB and Dynamic Data
+96. Module Introduction
+1:01
+97. Understanding the Basics
+1:12
+98. Setting Up Firebase
+7:19
+idb-01--added-firebase-source.zip
+99. Connecting Frontend to Backend
+8:31
+100. Dynamic Caching vs. Caching Dynamic Content
+4:51
+101. Introducing IndexedDB
+3:34
+102. IndexedDB Browser Support
+0:38
+103. Adding the IDB File
+2:31
+idb.js
+idb-02--added-idb-package.zip
+104. Storing Fetched Posts in IndexedDB
+13:11
+idb-03--write-data.zip
+105. Using IndexedDB in the Service Worker
+3:56
+idb-04--outsource-logic-utilityjs.zip
+106. Reading Data from IDB
+6:40
+idb-05--read-data.zip
+107. Clearing IDB & Handling Server-Client Mismatch
+3:40
+108. Implementing the Clear Database Method
+3:58
+idb-06--clear-store.zip
+109. Deleting Single Items from the Database
+4:05
+idb-07--delete-single-item.zip
+110. IndexedDB and Caching Strategies
+1:33
+idb-08--finished.zip
+111. Wrap Up
+0:45
+112. Useful Resources & Links
+idb-01--added-firebase-source.zip
+idb-02--added-idb-package.zip
+idb-03--write-data.zip
+idb-04--outsource-logic-utilityjs.zip
+idb-05--read-data.zip
+idb-06--clear-store.zip
+idb-07--delete-single-item.zip
+idb-08--finished.zip
+Section: 8
+0 / 10
+Creating a Responsive User Interface (UI)
+113. Module Introduction
+1:18
+114. Responsive Design in this Course
+2:51
+115. Understanding Responsive Design in our Project
+3:30
+116. CSS and Media Queries
+9:46
+responsive-01--media-queries.zip
+117. Want to see more of your Images?
+118. Using Images in a Responsive Way
+8:52
+responsive-02--srcset-images.zip
+119. Adding Animations
+8:29
+120. The Viewport & Scaling
+1:46
+responsive-03--finished.zip
+121. Wrap Up
+0:46
+122. Useful Resources & Links
+responsive-01--media-queries.zip
+responsive-02--srcset-images.zip
+responsive-03--finished.zip
+Section: 9
+0 / 12
+Background Sync
+123. Module Introduction
+1:04
+124. How does Background Sync Work?
+3:33
+125. Adding the Basic Setup to our Project
+4:04
+background-sync-01--access-form.zip
+126. Registering a Synchronization Task
+4:37
+background-sync-02--register-sync.zip
+127. Storing our Post in IndexedDB
+6:00
+128. Adding a Fallback
+4:12
+129. Syncing Data in the Service Worker
+15:52
+background-sync-03--send-data.zip
+130. Understanding Periodic Sync
+2:16
+131. Adding Server Side Code
+15:11
+132. Fixing Errors
+5:21
+background-sync-04--custom-firebase-finished.zip
+133. Wrap Up
+0:49
+134. Useful Resources & Links
+background-sync-01--access-form.zip
+background-sync-02--register-sync.zip
+background-sync-03--send-data.zip
+background-sync-04--custom-firebase-finished.zip
+Section: 10
+0 / 24
+Web Push Notifications
+135. Module Introduction
+1:04
+136. Why we need Web Push Notifications
+1:56
+137. How Push & Notifications Work
+9:04
+138. Displaying Notifications - Some Theory First
+1:52
+139. Browser Support
+2:02
+140. Requesting Permissions
+8:07
+web-push-01--user-permissions.zip
+141. Displaying Notifications
+3:38
+web-push-02--basic-notification.zip
+142. Notifications from Within the Service Worker
+3:33
+143. Understanding Notifications' Options
+8:49
+web-push-03--notification-options.zip
+144. Advanced Options
+2:58
+web-push-04--more-options-tag-renotify.zip
+145. Adding Actions to Notifications
+2:23
+146. Reacting to Notification Interaction - Clicks
+5:21
+147. Reacting to Notification Interaction - Closing
+2:36
+web-push-05--notification-listeners.zip
+148. From Notifications to Push Messages
+6:36
+149. Creating a Push Subscription
+4:32
+150. Storing Subscriptions
+10:50
+web-push-06--new-subscription-vapid.zip
+151. Connecting Server & Client (PWA)
+1:45
+152. Sending Push Messages from the Server
+9:55
+web-push-07--send-push-message.zip
+153. Listening to Push Messages
+7:39
+154. Displaying Push Notifications on a Real Device
+2:03
+web-push-08--listen-incoming-message.zip
+155. Opening a Page upon User Interaction
+5:45
+156. Improving our Code
+4:28
+web-push-09--finished.zip
+157. Wrap Up
+1:16
+158. Useful Resources & Links
+web-push-01--user-permissions.zip
+web-push-02--basic-notification.zip
+web-push-03--notification-options.zip
+web-push-04--more-options-tag-renotify.zip
+web-push-05--notification-listeners.zip
+web-push-06--new-subscription-vapid.zip
+web-push-07--send-push-message.zip
+web-push-08--listen-incoming-message.zip
+web-push-09--finished.zip
+Section: 11
+0 / 16
+Native Device Features
+159. Module Introduction
+0:55
+160. Preparing the Project
+7:28
+update-files.zip
+native-01--starting-setup.zip
+161. Getting DOM Access
+4:35
+native-02--access-media-elements.zip
+162. Creating our own Polyfills
+8:04
+native-03--custom-polyfill.zip
+163. Getting the Video Image
+7:25
+164. Hooking Up the Capture Button
+6:25
+native-04--take-picture.zip
+165. Storing the Image on a Server
+8:40
+utility.js
+166. Accepting File Upload Example with Firebase
+14:36
+index.js
+native-05--store-file-on-firebase.zip
+167. MUST READ: Required Changes to Cloud Function Code
+168. Testing the Camera & Upload
+4:51
+169. Implementing a Fallback
+2:30
+native-06--bugfix-filepicker.zip
+170. Getting the User Position
+16:38
+native-07--geolocation.zip
+171. Fixing Bugs
+8:46
+172. Testing the App on a Real Device
+1:43
+native-08--finished.zip
+173. Wrap Up
+0:47
+174. Useful Resources & Links
+native-01--starting-setup.zip
+native-02--access-media-elements.zip
+native-03--custom-polyfill.zip
+native-04--take-picture.zip
+native-05--store-file-on-firebase.zip
+native-06--bugfix-filepicker.zip
+native-07--geolocation.zip
+native-08--finished.zip
+Section: 12
+0 / 18
+Service Worker Management with Workbox
+175. Module Introduction
+1:01
+176. Understanding the Basics
+0:55
+177. Workbox 3.x vs 2.x
+178. Installing Workbox & Using It
+6:56
+workbox-01--basic-setup.zip
+179. Configuring Workbox Precaching
+5:02
+workbox-02--adjust-precaching.zip
+180. Customizing the Service Worker
+4:45
+workbox-03--inject-manifest.zip
+181. Implementing Routing with the Workbox Router
+6:41
+182. Expanding Dynamic Caching
+3:31
+workbox-04--added-routing.zip
+183. Options and Setting Up Strategies
+6:09
+workbox-05--strategy-options.zip
+184. Custom Handlers (Example: For IndexedDB)
+3:45
+workbox-06--custom-handler.zip
+185. Providing an Offline HTML Fallback
+6:47
+workbox-07--offline-fallback.zip
+186. Handling Background Synchronisation and Push Notifications
+3:26
+workbox-08--sync-push.zip
+187. Understanding the Workbox Documentation
+5:17
+188. Enhancing the Build Workflow
+6:30
+189. Running our App on a Real Server
+3:56
+190. Auditing our Webpage with Lighthouse
+4:24
+workbox-09--finished.zip
+191. Wrap Up
+1:11
+192. Useful Resources & Links
+workbox-01--basic-setup.zip
+workbox-02--adjust-precaching.zip
+workbox-03--inject-manifest.zip
+workbox-04--added-routing.zip
+workbox-05--strategy-options.zip
+workbox-06--custom-handler.zip
+workbox-07--offline-fallback.zip
+workbox-08--sync-push.zip
+workbox-09--finished.zip
+Section: 13
+0 / 7
+SPAs and PWAs
+193. Module Introduction
+1:18
+194. React with create-react-app
+9:29
+spa-react--finished.zip
+195. A General Note about SPAs and PWAs
+1:28
+196. Angular with the CLI
+14:39
+spa-angular--start.zip
+spa-angular--finished.zip
+197. Vue with Vue CLI
+6:49
+spa-vue--finished.zip
+198. Wrap Up
+1:00
+199. Useful Resources & Links
+spa-react--finished.zip
+spa-angular--start.zip
+spa-angular--finished.zip
+spa-vue--finished.zip
+Section: 14
+0 / 1
+Course Roundup
+200. Course Roundup
+3:21

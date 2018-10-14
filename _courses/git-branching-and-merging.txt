@@ -1,0 +1,144 @@
+Section: 1
+14 / 15
+Introduction: Getting Started
+1. Welcome & Info about this course
+2:41
+2. What this course won't cover
+1:34
+3. Get an account at GitHub
+3:19
+4. Setup a Repo at GitHub
+3:56
+Assignment 1: Get An Account at GitHub, and Setup a new Repo
+5. Get GIT on your machine [Windows]
+5:11
+6. Get GIT on your machine [Ubuntu Linux]
+2:04
+7. Get GIT on your machine [MAC]
+2:25
+Assignment 2: Get GIT on your machine
+8. Get VSCode for use as an editor, a diff tool, and a merge tool
+3:49
+Assignment 3: Get Visual Studio Code on your machine
+9. Setup VSCode as the default editor
+5:13
+Assignment 4: Set VSCode as the default editor
+10. I already have a project, how do I add it to a REMOTE Repository
+9:31
+DefaultWeb.zip
+Assignment 5: Get an existing project into a new LOCAL repository and then publish to a REMOTE
+Section: 2
+1 / 7
+Basic Git Flow [No Branching and only one Developer]
+11. A quick note about the repository and tools in upcoming videos
+12. Staging changes with the [git add] command
+8:21
+13. Committing your changes with the [git commit] command
+5:32
+14. Commit your changes on the REMOTE [GitHub] using the [git push] command
+3:53
+15. Always get your latest changes using the [git pull] command
+3:40
+Assignment 6: Reviewing the simple GIT workflow with no branches, and only one developer.
+16. Reviewing your history using the [git log] and [git show] command
+5:26
+Section: 3
+0 / 5
+Tools to improve our command line experience for difftool and mergetool
+17. Setup VSCode as your diff tool
+8:25
+18. Turning off the difftool prompt
+4:42
+Assignment 7: Setup VSCode as the default DiffTool
+19. Setup VSCode as your merge tool
+4:05
+Assignment 8: Set VSCode as the Default Merge Tool
+Section: 4
+0 / 5
+Branching: Working as a single-user with Local and Remote branches
+20. Introduction to Branching
+5:47
+21. Always remember to [git pull] when starting a new workflow
+1:28
+22. Create a new local branch using the [git checkout] command
+4:42
+23. Make changes, add, commit, and switch branches. See the difference
+7:22
+Assignment 9: An introduction to branching
+Section: 5
+0 / 3
+Intro to Merging [complete the branching section first!]
+24. Introduction to Merging
+5:46
+25. Checkout master, merge feature branch [git merge], push to GitHub [git push]
+7:03
+Assignment 10: An introduction to merging
+Section: 6
+0 / 14
+Branching and Merging With Pull Requests [Complete sections 4 and 5 first!]
+26. Create a local branch and publish to GitHub [git push -u]
+6:15
+27. Create a feature branch at GitHub
+3:12
+28. Fetch and Checkout a LOCAL version tracking to REMOTE branch created at GitHub
+3:38
+29. Quick Review: Make your changes, add, commit your changes locally
+1:37
+30. Push your feature branch changes to GitHub
+2:10
+31. Create a pull request at GitHub
+5:30
+32. Merge the Pull request at GitHub
+4:32
+33. Fetch and Pull changes from REMOTE [GitHub] to local after the pull request
+8:43
+Assignment 11: A basic branch and merge with a pull request at GitHub
+34. Delete a branch from LOCAL [git branch -d]
+4:23
+35. Delete a Branch at GitHub [REMOTE] From Local BASH
+5:34
+36. Delete a branch with a force override [git branch -D]
+7:39
+37. Delete and Restore branches at GitHub
+6:23
+38. Use [git prune] to clean up remote references that no longer exist
+10:09
+Section: 7
+0 / 14
+Intermediate Git Operations: A simple multi-developer flow with merge conflicts
+39. Create an organization at GitHub for your team
+3:16
+40. Setting Up for Team work, transferring a repo
+8:06
+41. Get Team repo to LOCAL, and pushing to our team REMOTE
+4:36
+42. [Review] Create your feature branch at GitHub
+1:38
+43. [Review] Get LOCAL up to date with [git fetch]-[git pull], review w/[git branch]
+2:51
+44. [Review] Make changes, commit to your branch, do not push out to GitHub yet
+2:37
+45. SIMULATE a multiple developer flow by making a change at GitHub
+5:17
+46. Fetch and pull master. Review a merge conflict locally
+9:28
+47. Push, pull, and merge your changes into master after conflict resolution
+6:09
+48. Create another conflict between dev 2 and dev 1
+6:28
+49. Sync up Master on Local again to avoid merge conflict at GitHub
+1:59
+50. Solve the merge conflict with merge tool, push and commit with a pull request
+6:28
+51. Create another conflict and resolve directly at GitHub during creation of PR
+7:49
+Assignment 12: Team Branching and Merging with a Merge Conflict and Resolution
+Section: 8
+0 / 3
+Conclusion
+52. Branching and Merging Wrap-Up
+1:40
+53. Next Steps
+0:52
+54. Bonus Lecture
+0:59
