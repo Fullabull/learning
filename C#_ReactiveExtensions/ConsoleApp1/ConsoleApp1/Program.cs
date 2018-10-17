@@ -1,33 +1,24 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Reactive.Subjects;
+using System.Runtime.InteropServices;
 
 namespace ConsoleApp1
 {
-    public class Market
-    {
-        public BindingList<float> Prices = new BindingList<float>();
-
-        public void AddPrice(float price)
-        {
-            Prices.Add(price);
-        }
-   }
-    
     class Program
     {
+
         public static void Main(string[] args)
         {
-            var market = new Market();
-            market.Prices.ListChanged += (sender, eventArgs) =>
+            var sensor = new Subject<float>();
+            using (sensor.Subscribe(Console.WriteLine))
             {
-                if (eventArgs.ListChangedType == ListChangedType.ItemAdded)
-                {
-                    float price = ((BindingList<float>) sender)[eventArgs.NewIndex];
-                    Console.WriteLine($"Binding List new price: {price}");
-
-                }
-            };
-            market.AddPrice(13);
+                sensor.OnNext(1);
+                sensor.OnNext(2);
+                sensor.OnNext(3);
+            }
         }
     }
 }
+
+
